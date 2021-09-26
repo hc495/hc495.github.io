@@ -73,8 +73,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <link href="https://fonts.googleapis.com/css2?family=Cardo&display=swap" rel="stylesheet">
             - | #页尾标语轮换，不需要的话可以连同page-foot中的前6行内容一起删掉
               <script src="/js/footstring.js"></script>
-            - | #鼠标效果，不需要的话可以删掉
-              <script src="/js/mouse.js"></script>
+#            - | #鼠标效果，不需要的话可以删掉
+#              <script src="/js/mouse.js"></script>
             - | #一些页面优化标签，看不懂可跳过
               <meta
                 name="viewport"
