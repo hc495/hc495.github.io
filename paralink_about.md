@@ -28,13 +28,14 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
   
 ## 关于我
 
-北京理工大学材料化学在读（悲  
+北京理工大学计算机科学与工程在读  
 吹奏乐团冒泡儿担当 / 前合唱团假声男高音  
 被称为「无论做什么都看起来很轻松惬意的人」  
 我可以和您聊：  
 
 - 交响乐、吹奏乐、长笛(Flute)、声乐、合唱、音乐理论
 - 现代美术、素描、插画、美学理论
+- 本体论、存在主义、虚无主义
 - C++程序设计、编译原理、自然语言处理
 - 现代日本语、古典日本语、物哀、幽玄、侘寂
 - 动漫、漫画、轻小说、主机游戏、日式RPG
@@ -42,18 +43,18 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
 ### 技能
 
 - C++-熟练、C-熟练、Qt-学习中、Python3-学习中、Java-学习中
-- 前端开发-学习中、网络编程-学习中
+- 神经网络搭建、人工智能算法
 - 日语-熟练、英语-学习中
 - 插画-学习中
 - 长笛-熟练、钢琴-熟练、声乐-学习中
 
 ### 业余爱好
 
-- しゃのあ単推し
+- アトリ単推し
 - 古典音乐
   - 长笛 / 短笛
   - 声乐 / 合唱
-- 炼金工作室系列　/ 东方project系列
+- 哲学
 - ACGN / 主机游戏
 - 日语 / 拉丁文 / 精灵语
 - 现代绘画艺术  
@@ -81,7 +82,7 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
 - [Inori Compiler](https://github.com/AmachiInori/Satoru-InoriComplier){:target="_blank"} - 开发中
 - [DataVisual Hpp](https://github.com/AmachiInori/dataVisual){:target="_blank"} - 计划重构
 - [Inori Experi Calculator](https://github.com/AmachiInori/MPExDataProcessing){:target="_blank"} - 小工具
-- Synthesis and Photophysical Property of multiarylpyrroles (材料化学本科课程设计论文)
+- [Synthesis and Photophysical Property of multiarylpyrroles](/assets/pdf/UnderGraduate_Thesis.pdf){:target="_blank"}
 
 ### 在其他地方找到我
 
@@ -92,7 +93,7 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
 - twitter: **[@HimemiyaKodama](https://twitter.com/HimemiyaKodama){:target="_blank"}**
 - leetcode: **[@AmachiInori](https://leetcode-cn.com/u/amachi-inori/){:target="_blank"}**
 - github: **[@AmachiInori](https://github.com/AmachiInori){:target="_blank"}**  
-- steam: **[今宵は飄逸な姫宮木霊](https://steamcommunity.com/id/Rairaku/){:target="_blank"}**
+- steam: **[木灵 -My Dear Moments-](https://steamcommunity.com/id/Rairaku/){:target="_blank"}**
 - ZhiHu: **[@木灵Rin](https://www.zhihu.com/people/zhao-yu-feng-33-67){:target="_blank"}**
   
 ## 更新日志
