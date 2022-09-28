@@ -36,14 +36,14 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
 - 交响乐、吹奏乐、长笛(Flute)、声乐、合唱、音乐理论
 - 现代美术、素描、插画、美学理论
 - 本体论、存在主义、虚无主义
-- C++程序设计、编译原理、自然语言处理
+- 自然语言处理
 - 现代日本语、古典日本语、物哀、幽玄、侘寂
 - 动漫、漫画、轻小说、主机游戏、日式RPG
 
 ### 技能
 
 - C++-熟练、C-熟练、Qt-学习中、Python3-学习中、Java-学习中
-- 神经网络搭建、人工智能算法
+- 计算语言学
 - 日语-熟练、英语-学习中
 - 插画-学习中
 - 长笛-熟练、钢琴-熟练、声乐-学习中
@@ -75,13 +75,9 @@ PC端背景：[星の実](https://www.pixiv.net/artworks/63652138){:target="_bla
 - 吃好睡好
 - 世界和平
 
-### 项目
+### 论文
 
-- [Amachi STL](https://github.com/AmachiInori/Amachi-STL){:target="_blank"} - 开发中
-- [Simple Calculator](https://github.com/AmachiInori/Simple_Calculator){:target="_blank"} - 编译原理练习
-- [Inori Compiler](https://github.com/AmachiInori/Satoru-InoriComplier){:target="_blank"} - 开发中
-- [DataVisual Hpp](https://github.com/AmachiInori/dataVisual){:target="_blank"} - 计划重构
-- [Inori Experi Calculator](https://github.com/AmachiInori/MPExDataProcessing){:target="_blank"} - 小工具
+- [SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus](https://arxiv.org/abs/2209.05741){:target="_blank"}
 - [Synthesis and Photophysical Property of multiarylpyrroles](/assets/pdf/UnderGraduate_Thesis.pdf){:target="_blank"}
 
 ### 在其他地方找到我
