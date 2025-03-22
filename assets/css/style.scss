@@ -86,3 +86,23 @@ div.img_margin {
         }
     }
 }
+
+// Increase spacing between list items
+ul, ol {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+
+    li {
+        margin-bottom: 0.6em;
+    }
+}
+
+// Reduce spacing between nested list items
+ul ul, ol ol, ul ol, ol ul {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+
+    li {
+        margin-bottom: 0.4em;
+    }
+}
