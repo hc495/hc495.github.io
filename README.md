@@ -26,7 +26,7 @@ Research Assistant & Mentor @ [RebelsNLU](https://rebelsnlu.super.site/){:target
 [**ACL Anthology**](https://aclanthology.org/people/h/hakaze-cho/){:target="_blank"} &nbsp;&nbsp; 
 [**ORCID**](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
 [**OpenReview**](https://openreview.net/profile?id=~Hakaze_Cho1){:target="_blank"}  
-**Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
+**Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292, Japan  
 
 
 
