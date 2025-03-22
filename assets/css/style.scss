@@ -65,17 +65,6 @@ div.img_margin {
     text-align: right;
 }
 
-img {
-    &::after {
-        content: attr(title);
-        display: block;
-        font-size: 0.9em;
-        color: #555;
-        text-align: center;
-        margin-top: 4px;
-    }
-}
-
 // Increase spacing between list items
 ol {
     li {
@@ -99,6 +88,9 @@ ul {
         text-align: justify;
     }
     img {
+        display: none;
+    }
+    figcaption {
         display: none;
     }
     body, .markdown-body {

@@ -8,6 +8,7 @@
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
+<figcaption>@Beijing Inst. Tech. 2023</figcaption>
 </div>
 
 **Ph.D. 2nd Year Student** @ [Computing Science Research Area](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
