@@ -60,9 +60,9 @@
 
 ## Resume
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="./assets/fig/jaist.png" height="130">
-    <img src="./assets/fig/bit_xiaohui.jpg" height="150">
+<div class="img_margin">
+<img src="./assets/fig/jaist.png" height="120">
+<img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
