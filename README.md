@@ -10,7 +10,7 @@ Ph.D. 2nd Year Student (Laboratory: [RebelsNLU](https://rebelsnlu.super.site/){:
 Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"})  
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙羽風 (赵羽风)”  
-**Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology
+**Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology  
 **Birth**: Beijing, 1999
 
 **E-mail**: yfzhao -at- jaist.ac.jp  
