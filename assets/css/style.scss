@@ -99,4 +99,10 @@ ul {
     img {
         display: none;
     }
+    body, .markdown-body {
+        color: #000e26;
+        background-color: white;
+        font-family: "Hiragino Maru Gothic Pro", Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
+        font-size: 85%;
+    }
 }
