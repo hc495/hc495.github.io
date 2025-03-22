@@ -60,6 +60,11 @@
 
 ## Resume
 
+<div class="img_margin">
+<img src="./assets/fig/jaist.jpg" weight="300">
+<img src="./assets/fig/bit_xiaohui.jpg" weight="300">
+</div>
+
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
   School of Information Science, Japan Advanced Institute of Science and Technology  
   Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
