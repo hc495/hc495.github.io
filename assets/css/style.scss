@@ -2,20 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-// Add horizontal lines at the top and bottom of the page
-body::after {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 1.8px;
-    background-color: #000e26;
-    margin: 0 auto;
-}
-
 // overall margin
 .container-lg {
     max-width: none;
-    margin: 20px 160px 20px 160px;
+    margin: 50px 160px 20px 160px;
   }
 
 // Link styles
