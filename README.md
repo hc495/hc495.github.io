@@ -16,6 +16,7 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 **E-mail**: yfzhao -at- jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
 **Twitter**: [@yfZhao495](https://x.com/yfZhao495){:target="_blank"}  
+**GitHub**: [hc495](https://github.com/hc495){:target="_blank"}  
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
 
 ## Research Interests
