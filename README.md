@@ -1,5 +1,7 @@
 # Hakaze Cho
 
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
+
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="200">
 </div>
