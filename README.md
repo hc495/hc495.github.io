@@ -1,20 +1,13 @@
 # Hakaze Cho
 
-{% if site.google_analytics %}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', '{{ site.google_analytics }}', 'auto');
-    ga('send', 'pageview');
-  </script>
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
 {% endif %}
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
 
 <div class="img_margin">
-<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="240">
+<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
 </div>
 
 Ph.D. 2nd Year Student @ [Computing Science Research Area](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
@@ -34,6 +27,8 @@ Research Assistant & Mentor @ [RebelsNLU](https://rebelsnlu.super.site/){:target
 [**ORCID**](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
 [**OpenReview**](https://openreview.net/profile?id=~Hakaze_Cho1){:target="_blank"}  
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
+
+
 
 ## Research Interests
 
