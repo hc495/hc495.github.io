@@ -24,4 +24,4 @@
 
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
 
-### TEST
+### Selected Publications <sub>([Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"})</sub>
