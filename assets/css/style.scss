@@ -63,18 +63,16 @@ div.img_margin {
     margin-left: 32px;
     margin-right: 32px;
     text-align: right;
+}
 
-    img {
+img {
+    &::after {
+        content: attr(title);
+        display: block;
+        font-size: 0.9em;
+        color: #555;
+        text-align: center;
         margin-top: 4px;
-
-        &::after {
-            content: attr(title);
-            display: block;
-            font-size: 0.9em;
-            color: #555;
-            text-align: center;
-            margin-top: 4px;
-        }
     }
 }
 
