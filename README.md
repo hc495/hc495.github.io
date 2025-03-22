@@ -15,7 +15,7 @@
 - **Large Languages Models**: Mechanism of / Improving Transformer Large Language Models  
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
 
-## Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}]
+## Selected Publications <sub>[[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}]</sub>
 
 ### International Conference
 
