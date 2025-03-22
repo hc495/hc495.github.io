@@ -1,7 +1,7 @@
 # Hakaze Cho
 
 {% if site.google_analytics and jekyll.environment == 'production' %}
-{% include analytics.html %}
+{% include_relative analytics.html %}
 {% endif %}
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
