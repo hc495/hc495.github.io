@@ -4,6 +4,8 @@
 {% include_relative analytics.html %}
 {% endif %}
 
+{::options auto_ids="false" /}
+
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
 
 <div class="img_margin">
