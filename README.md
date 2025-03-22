@@ -26,7 +26,12 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 - **Large Languages Models**: Mechanism of / Improving Transformer Large Language Models  
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
 
-## Selected Publications <small>[[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}]</small>
+## Selected Publications
+
+- [Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}
+- [ACL Anthology](https://aclanthology.org/people/h/hakaze-cho/){:target="_blank"}
+- ORCID: [0000-0002-7127-1954](https://orcid.org/0000-0002-7127-1954){:target="_blank"}
+- [OpenReview](https://openreview.net/profile?id=~Hakaze_Cho1){:target="_blank"}
 
 ### International Conference
 
