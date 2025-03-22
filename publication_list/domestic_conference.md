@@ -23,14 +23,14 @@
     加藤万理子, **趙羽風**, 坂井吉弘, 井之上直也  
     言語処理学会第31回年次大会. 2025.   
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf){:target="_blank"}
-8. [**†StaICC: 文脈内学習における分類タスクの標準的なベンチマーク**](https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view){:target="_blank"}   
+8.  †[**StaICC: 文脈内学習における分類タスクの標準的なベンチマーク**](https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view){:target="_blank"}   
     **趙羽風**, 坂井吉弘, 加藤万理子, 井之上直也  
     言語処理学会第19回YANSシンポジウム. 2024. (Poster Only)  
     [\[Poster\]](https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view){:target="_blank"}
 9.  **画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである**  
     加藤万理子, **趙羽風**, 閻真竺, 石钰婷, 井之上直也  
     言語処理学会第19回YANSシンポジウム. 2024. (Poster Only)
-10.  [**†In-Context Learning におけるトークンベース較正手法の用いる決定境界は最適でない**](https://ipsj.ixsq.nii.ac.jp/records/235105){:target="_blank"}   
+10. †[**In-Context Learning におけるトークンベース較正手法の用いる決定境界は最適でない**](https://ipsj.ixsq.nii.ac.jp/records/235105){:target="_blank"}   
     **趙羽風**, 坂井吉弘, 加藤万理子, 田中健史朗, 石井晶, 井之上直也   
     情報処理学会NL研第260回研究発表会. 2024. (Oral) <span style="color:red;">若手奨励賞</span>  
     [\[PDF\]](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=235105&file_id=1&file_no=1){:target="_blank"}
@@ -42,7 +42,7 @@
     坂井吉弘, **趙羽風**, 井之上直也  
     言語処理学会第30回年次大会. 2024. <span style="color:red;">SB Intuitions Awards</span>  
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf){:target="_blank"}
-13. [**†Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models**](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf){:target="_blank"}  
+13. †[**Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models**](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf){:target="_blank"}  
     Yuting Shi, Houjing Wei, Jin Tao, **Yufeng Zhao**, Naoya Inoue  
     言語処理学会第30回年次大会. 2024.  
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf){:target="_blank"}
