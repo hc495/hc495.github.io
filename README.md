@@ -74,3 +74,7 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ 言語処理学会第30回年次大会 (NLP2024, ANLP). 2024.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - Annual Outstanding Academic Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
+
+* * *
+
+Copyright © 2025 Hakaze Cho. All rights reserved.
