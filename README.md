@@ -1,6 +1,6 @@
 # Hakaze Cho
 
-{% if site.google_analytics and jekyll.environment == 'production' %}
+{% if site.google_analytics%}
 {% include_relative analytics.html %}
 {% endif %}
 
