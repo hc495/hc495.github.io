@@ -18,6 +18,7 @@
    Yuting Shi, Naoya Inoue, Houjing Wei, **Yufeng Zhao**, Tao Jin  
    In Proceedings of *the 2024 Conference on Language Resources and Evaluation* (**LREC**). 2024. [h5=59, IF≈5]  
    [\[PDF\]](https://aclanthology.org/2024.lrec-main.642/){:target="_blank"}
-5. **Methods to Enhance BERT in Aspect-Based Sentiment Classification**  
+5. [**Methods to Enhance BERT in Aspect-Based Sentiment Classification**](https://ieeexplore.ieee.org/abstract/document/10098237){:target="_blank"}   
    **Yufeng Zhao**, Evelyn Soerjodjojo, et al.  
-   IEEE FCSIT. 2022. *Outstanding Oral Presentation Award*
+   In Proceedings of *IEEE Euro-Asia Conference on Frontiers of Computer Science and Information Technology*. 2022. *Outstanding Oral Presentation Award*  
+   [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10098237){:target="_blank"}
