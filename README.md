@@ -24,4 +24,8 @@
 
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
 
-### Selected Publications <sub>([Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"})</sub>
+## Selected Publications <sub>([Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"})</sub>
+
+### International Conference
+
+{% include_relative publication_list/international_conference.md %}
