@@ -25,7 +25,7 @@
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf){:target="_blank"}
 8. [**†StaICC: 文脈内学習における分類タスクの標準的なベンチマーク**](https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view){:target="_blank"}   
     **趙羽風**, 坂井吉弘, 加藤万理子, 井之上直也  
-    言語処理学会第19回YANSシンポジウム. 2024. (Poster Only)
+    言語処理学会第19回YANSシンポジウム. 2024. (Poster Only)  
     [\[Poster\]](https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view){:target="_blank"}
 9.  **画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである**  
     加藤万理子, **趙羽風**, 閻真竺, 石钰婷, 井之上直也  

@@ -56,13 +56,15 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 ## Resume
 
-- Ph.D. in Computer Science, 2023.10 ~ (2026.3)
+- **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
   School of Information Science, Japan Advanced Institute of Science and Technology  
   Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
-- M.Eng. in Software Engeering, 2021.9 ~ 2023.6   
+
+- **M.Eng.** in Software Engeering, 2021.9 ~ 2023.6   
   Graduate School of Computer Science and Technology, Beijing Institute of Technology   
   Mentor: Yufeng Zhao (Self-motivated)
-- B.Eng. in Chemistry, 2017.8 ~ 2021.6  
+  
+- **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
   Department of Basic Science, Beijing Institute of Technology  
   Mentor: [A. Prof. Jianbin Shi](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
 
