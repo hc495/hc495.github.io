@@ -13,7 +13,7 @@
    **Hakaze Cho**, Yoshihiro Sakai, Kenshiro Tanaka, Mariko Kato, Naoya Inoue  
    In Proceedings of *the 2025 Conference on Computational Linguistics* (**COLING**). 2025. [h5=65, IF=7.7]  
    [\[PDF\]](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
-   [\Poster\]](https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view){:target="_blank"}
+   [\[Poster\]](https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view){:target="_blank"}
 4. [**Find-the-Common: A Benchmark for Explaining Visual Patterns from Images**](https://aclanthology.org/2024.lrec-main.642/){:target="_blank"}  
    Yuting Shi, Naoya Inoue, Houjing Wei, **Yufeng Zhao**, Tao Jin  
    In Proceedings of *the 2024 Conference on Language Resources and Evaluation* (**LREC**). 2024. [h5=59, IF≈5]  

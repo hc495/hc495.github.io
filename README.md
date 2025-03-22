@@ -31,3 +31,7 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 ### International Conference
 
 {% include_relative publication_list/international_conference.md %}
+
+### Pre-print
+
+{% include_relative publication_list/preprint.md %}
