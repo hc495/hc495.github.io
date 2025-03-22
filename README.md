@@ -5,7 +5,7 @@
 **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology
 
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
-**E-mail**: yfzhao@jaist.ac.jp  
+**E-mail**: yfzhao -at- jaist.ac.jp  
 **Birth**: Beijing, 1999
 
 ## Research Interests
