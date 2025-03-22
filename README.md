@@ -10,8 +10,8 @@
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
 </div>
 
-Ph.D. 2nd Year Student @ [Computing Science Research Area](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-Research Assistant & Mentor @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
+**Ph.D. 2nd Year Student** @ [Computing Science Research Area](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+**Research Assistant & Mentor** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙羽風 (赵羽风)”  
 **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology  
