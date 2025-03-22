@@ -7,4 +7,5 @@ sass:
 google_analytics: G-RFM3S7GRYQ
 
 markdown: kramdown
-auto_ids: false
+kramdown:
+    auto_ids: false
