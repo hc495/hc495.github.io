@@ -15,6 +15,7 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 **E-mail**: yfzhao -at- jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
+**Links**:
 [**Twitter**](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
 [**GitHub**](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp; 
 [**Google Scholar**](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
@@ -77,4 +78,4 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 * * *
 
-Copyright © 2025 Hakaze Cho. All rights reserved.
+Copyright © 2025 Hakaze Cho / Yufeng Zhao. All rights reserved.
