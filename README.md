@@ -1,7 +1,9 @@
 # Hakaze Cho
 
+Ph.D. 2nd Year Student (Laboratory: [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"})
+Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"})  
+
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙羽風 (赵羽风)”  
-**Position**: Ph.D. 2nd year / Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"})  
 **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology
 
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
