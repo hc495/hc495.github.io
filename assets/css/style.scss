@@ -52,6 +52,8 @@ body, .markdown-body {
   }
 
 h2 {
+    font-family: "gentium basic", serif;
+    font-size: 1.5em;
     color: #017d63
 }
 
@@ -66,7 +68,7 @@ body, .markdown-body {
 }
 
 sub {
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 div.img_margin {
