@@ -61,7 +61,7 @@
 ## Resume
 
 <div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
-    <img src="./assets/fig/jaist.png" height="115">
+    <img src="./assets/fig/jaist.png" height="105">
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
