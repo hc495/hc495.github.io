@@ -32,3 +32,14 @@ h5 + hr,
 h6 + hr {
     display: none;
 }
+
+body, .markdown-body {
+    color: black;
+    background-color: white;
+    font-family: "Hiragino Maru Gothic Pro", verdana, arial, helvetica, Sans-Serif, "gentium basic";
+    font-size: 100%;
+  }
+
+h3 {
+    font-family: "gentium basic", serif;
+}
