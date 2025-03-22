@@ -15,11 +15,11 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 **E-mail**: yfzhao -at- jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
-[**Twitter**](https://x.com/yfZhao495){:target="_blank"} &nbsp;
-[**GitHub**](https://github.com/hc495){:target="_blank"} &nbsp; 
-[**Google Scholar**](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp; 
-[**ACL Anthology**](https://aclanthology.org/people/h/hakaze-cho/){:target="_blank"} &nbsp; 
-[**ORCID**](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp; 
+[**Twitter**](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
+[**GitHub**](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp; 
+[**Google Scholar**](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
+[**ACL Anthology**](https://aclanthology.org/people/h/hakaze-cho/){:target="_blank"} &nbsp;&nbsp; 
+[**ORCID**](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
 [**OpenReview**](https://openreview.net/profile?id=~Hakaze_Cho1){:target="_blank"}  
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan  
 
