@@ -90,28 +90,13 @@ ul {
 @media (max-width: 640px) {
     .markdown-body h1 {
         font-size: 1.5em;
+        text-align: justify;
     }
     .container-lg {
         margin: 0px 10px 0px 10px;
         text-align: justify;
     }
-    div.img_margin {
-        float: right;
-        margin-top: 0;
-        margin-left: 0;
-        margin-right: 0;
-        text-align: justify;
-
-        img {
-            margin-top: 4px;
-
-            &::after {
-                content: attr(title);
-                display: block;
-                font-size: 0em;
-                color: #555;
-                text-align: center;
-            }
-        }
+    img {
+        display: none;
     }
 }
