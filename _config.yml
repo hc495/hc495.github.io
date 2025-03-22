@@ -5,3 +5,6 @@ sass:
     style: compressed
 
 google_analytics: G-RFM3S7GRYQ
+
+markdown: kramdown
+auto_ids: false
