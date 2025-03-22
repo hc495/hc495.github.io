@@ -40,6 +40,32 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 {% include_relative publication_list/preprint.md %}
 
+### Domestic Conferences / Miscellaneous
+(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)
+    
+{% include_relative publication_list/domestic_conference.md %}
+
+### Thesis
+
+1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
+    Yufeng Zhao   
+    Master's Thesis - Rank A @ Beijing Institute of Technology. 2023.
+2. Synthesis and Self-Assembly of Amphiphilic Aggregation Enhanced Emission Compounds   
+   Yufeng Zhao   
+   Bachelor Thesis @ Beijing Institute of Technology. 2021.
+
+## Resume
+
+- Ph.D. in Computer Science, 2023.10 ~ (2026.3)
+  School of Information Science, Japan Advanced Institute of Science and Technology  
+  Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
+- M.Eng. in Software Engeering, 2021.9 ~ 2023.6   
+  Graduate School of Computer Science and Technology, Beijing Institute of Technology   
+  Mentor: Yufeng Zhao (Self-motivated)
+- B.Eng. in Chemistry, 2017.8 ~ 2021.6  
+  Department of Basic Science, Beijing Institute of Technology  
+  Mentor: [A. Prof. Jianbin Shi](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
+
 ## Awards
 
 - [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} (優秀賞) @ 言語処理学会第31回年次大会 (NLP2025, ANLP). 2025. (top 15 in 777)
