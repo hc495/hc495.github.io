@@ -40,8 +40,7 @@ Research Assistant (PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_
 
 {% include_relative publication_list/preprint.md %}
 
-### Domestic Conferences / Miscellaneous 
-<sub>(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)</sub>
+### <a title="(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)">Domestic Conferences / Miscellaneous</a>
     
 {% include_relative publication_list/domestic_conference.md %}
 
