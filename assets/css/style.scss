@@ -7,3 +7,28 @@
     max-width: none;
     margin: 20px 40px 20px 40px;
   }
+
+// Link styles
+a {
+    color: #3580ff;
+    text-decoration: none;
+
+    &:hover {
+        color: #3580ff;
+        text-decoration: underline;
+    }
+
+    &:active {
+        color: #2a66cc;
+    }
+}
+
+// Remove horizontal rule after headings
+h1 + hr,
+h2 + hr,
+h3 + hr,
+h4 + hr,
+h5 + hr,
+h6 + hr {
+    display: none;
+}
