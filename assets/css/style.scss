@@ -40,7 +40,7 @@ h3 + hr,
 h4 + hr,
 h5 + hr,
 h6 + hr {
-    margin: 0px 0px 0px 0px;
+    margin: 10px 0px 0px 0px; // Increase top margin for spacing above headings
 }
 
 body, .markdown-body {
