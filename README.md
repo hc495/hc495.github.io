@@ -28,6 +28,10 @@
 [OpenReview](https://openreview.net/profile?id=~Hakaze_Cho1){:target="_blank"}  
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292, Japan  
 
+I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of deep neural networks, particularly Transformer-based neural language models, and enhance their performance robustly through these deeper understanding.
+
+I am actively seeking effective research collaborations on the following area. If you are interested in working together, please feel free to reach out to me.
+
 ## Research Interests
 
 **Keywords**: Representation Learning, Mechanistic Interpretability, In-context Learning  
