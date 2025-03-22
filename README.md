@@ -24,7 +24,7 @@
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp; 
 [Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
-[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
+[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;    
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292, Japan  
 
 I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of deep neural networks, particularly Transformer-based neural language models, and enhance their performance robustly through these deeper understanding.
