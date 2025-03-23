@@ -10,7 +10,7 @@
 
 </head>
 
-# Hakaze Cho
+<!-- # Hakaze Cho -->
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
