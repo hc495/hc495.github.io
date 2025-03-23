@@ -27,6 +27,17 @@ a {
     }
 }
 
+// Set a specific image as the favicon
+@function favicon-url($path) {
+    @return url($path);
+}
+
+head {
+    link[rel="icon"] {
+        content: favicon-url('/fig/icon.png');
+    }
+}
+
 figcaption {
     font-size: 0.8em;
     color: #666;
@@ -40,6 +51,13 @@ body, .markdown-body {
     font-family: "Hiragino Maru Gothic Pro", Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
   }
+
+// body, .markdown-body {
+//     background-image: url('/path/to/your/image.jpg');
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     background-attachment: fixed;
+// }
 
 h1 {
     font-family: "Gentium Basic";
