@@ -4,15 +4,8 @@
 {% include_relative analytics.html %}
 {% endif %}
 
-<link
-  rel="apple-touch-icon-precomposed"
-  href="./assets/fig/icon.png"
-/>
-<link
-  rel="shortcut
-  icon"
-  href="./assets/fig/icon.png"
-/>
+
+<link rel="shortcut icon" type="image/x-icon" href="./assets/fig/icon.png">
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
 
