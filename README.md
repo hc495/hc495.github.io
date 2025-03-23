@@ -5,7 +5,7 @@
 {% endif %}
 
 
-<link rel="shortcut icon" type="image/x-icon" href="./assets/fig/icon.png">
+<link rel="shortcut icon" type="image/png" href="./assets/fig/icon.png">
 
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
 
