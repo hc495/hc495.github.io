@@ -27,17 +27,6 @@ a {
     }
 }
 
-// Set a specific image as the favicon
-@function favicon-url($path) {
-    @return url($path);
-}
-
-head {
-    link[rel="icon"] {
-        content: favicon-url('/fig/icon.png');
-    }
-}
-
 figcaption {
     font-size: 0.8em;
     color: #666;
