@@ -37,7 +37,7 @@ I am actively seeking effective research collaborations in the mentioned area. I
 ## Research Interests
 
 **Keywords**: Representation Learning, Mechanistic Interpretability, In-context Learning  
-- **Interpretability for Artificial Neural Network Model**: Mechanistic Interpretability, Low-resource Model Controlling  
+- **Interpretability for Artificial Neural Network**: Mechanistic Interpretability, Low-resource Model Controlling  
 - **Large Languages Models**: Mechanism of / Improving Transformer Large Language Models  
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
 
