@@ -71,11 +71,11 @@ I am actively seeking effective research collaborations in the mentioned area. I
 </div>
 
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
-  Graduate School of Information Science, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+  [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
   Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
 
 - **M.Eng.** in Software Engeering, 2021.9 ~ 2023.6   
-  Graduate School of Computer Science and Technology, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
+  [Graduate School of Computer Science and Technology](https://cs.bit.edu.cn/){:target="_blank"} , [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: Yufeng Zhao (Self-motivated)
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
