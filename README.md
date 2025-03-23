@@ -29,7 +29,7 @@
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;    
 **Physical Address**: Laboratory I-52, Building I of Information Science, 1-1 Asahidai, Nomi, Ishikawa, 923-1292, Japan  
 
-I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks during both training and inference, particularly Transformer-based neural language models, and enhance their performance robustly through these deeper understanding. I have published over 20 papers in this area, some of which have been presented at top international conferences such as ICLR and NAACL.
+I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks during both training and inference, particularly Transformer-based neural language models, and enhance their performance robustly through these deeper understanding. I have published over 20 papers in this area since 2023, some of which have been presented at top international conferences such as ICLR and NAACL.
 
 I am actively seeking effective research collaborations in the mentioned area. If you are interested in working together, please feel free to reach out to me.
 
