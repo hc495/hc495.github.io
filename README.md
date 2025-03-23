@@ -50,7 +50,7 @@ I am actively seeking effective research collaborations in the mentioned area. I
 
 {% include_relative publication_list/preprint.md %}
 
-### <a title="(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)">Domestic Conferences / Miscellaneous</a><br>(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)
+### <a title="(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)">Domestic Conferences / Miscellaneous</a><br><small>(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)</small>
     
 {% include_relative publication_list/domestic_conference.md %}
 
