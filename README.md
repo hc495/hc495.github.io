@@ -15,7 +15,7 @@
 <figcaption>@Beijing Inst. Tech. 2023</figcaption>
 </div>
 
-**Ph.D. 2nd Year Student** @ [Computing Science Research Area](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+**Ph.D. 2nd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Research Assistant & Mentor** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙羽風 (赵羽风)”  
@@ -73,15 +73,15 @@ I am actively seeking effective research collaborations in the mentioned area. I
 </div>
 
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
-  School of Information Science, Japan Advanced Institute of Science and Technology  
+  Graduate School of Information Science, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
   Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
 
 - **M.Eng.** in Software Engeering, 2021.9 ~ 2023.6   
-  Graduate School of Computer Science and Technology, Beijing Institute of Technology   
+  Graduate School of Computer Science and Technology, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: Yufeng Zhao (Self-motivated)
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
-  Department of Basic Science, Beijing Institute of Technology  
+  Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: [A. Prof. Jianbin Shi](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
 
 ## Awards
