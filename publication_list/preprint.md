@@ -20,4 +20,4 @@
 5. [**SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus**](https://arxiv.org/abs/2209.05741){:target="_blank"}  
    **Yufeng Zhao**, et al.  
    Pre-print. 2022.  
-[\[PDF\]](https://arxiv.org/abs/2209.05741){:target="_blank"} 
+   [\[PDF\]](https://arxiv.org/abs/2209.05741){:target="_blank"} 

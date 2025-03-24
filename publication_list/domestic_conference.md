@@ -18,7 +18,7 @@
    [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf){:target="_blank"} 
    [\[Poster\]](https://drive.google.com/file/d/1CbeDjvkeSg8x0FObvuePCKkhfkjXVcf9/view?usp=sharing){:target="_blank"}
 6. [**埋め込み表現の内在次元を測る**](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf){:target="_blank"}  
-   片岩拓也#*, 趙羽風, 大木哲史  
+   片岩拓也, **趙羽風**, 大木哲史  
    言語処理学会第31回年次大会. 2025.   
    [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf){:target="_blank"}
 7. [**文脈内学習におけるデモの親和性と多様性の提案**](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf){:target="_blank"}   
