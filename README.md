@@ -32,7 +32,7 @@
 
 I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks during both training and inference, particularly Transformer-based neural language models, and enhance their performance robustly through these deeper understanding. I have published over 20 papers in this area since 2023, some of which have been presented at top international conferences such as ICLR and NAACL.
 
-I am actively seeking effective research collaborations in the mentioned area. If you are interested in working together, please feel free to reach out to me.
+I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
 
 ## Research Interests
 
