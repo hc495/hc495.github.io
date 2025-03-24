@@ -41,7 +41,7 @@ body, .markdown-body {
     font-size: 105%;
 }
 
-body {
+body, .markdown-body {
     background-image: url('/assets/fig/background.png');
     background-size: 160px 160px;
     background-repeat: no-repeat;
