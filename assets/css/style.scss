@@ -43,9 +43,11 @@ body, .markdown-body {
 
 body, .markdown-body {
     background-image: url('/assets/fig/background.png');
-    background-size: 120px 120px;
+    background-size: 160px 160px;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
+    opacity: 0.6;
 }
 
 h1 {
