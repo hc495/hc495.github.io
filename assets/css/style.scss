@@ -39,17 +39,14 @@ body, .markdown-body {
     background-color: white;
     font-family: "Hiragino Maru Gothic Pro", Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
-  }
+}
 
-// body {
-//     background-color: #f5f5f5f6; // Add a light background color for the body
-// }
-  
 // body, .markdown-body {
-//     background-image: url('/path/to/your/image.jpg');
-//     background-size: cover;
+//     background-image: url('/assets/fig/background.png');
+//     background-size: 160px 160px;
 //     background-repeat: no-repeat;
 //     background-attachment: fixed;
+//     background-position: center;
 // }
 
 h1 {
@@ -111,7 +108,7 @@ ul {
         display: none;
     }
     body, .markdown-body {
-        font-size: 80%;
+        font-size: 83%;
     }
     h2 {
         margin-top: 0em;
