@@ -21,7 +21,7 @@
 **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology  
 **Birth**: Beijing, 1999
 
-**E-mail**: yfzhao -at- jaist.ac.jp  
+**E-mail**: yfzhao [at] jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
 **Links**:
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
