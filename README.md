@@ -1,4 +1,4 @@
-<head>
+d<head>
 
 {% if site.google_analytics%}
 {% include_relative analytics.html %}

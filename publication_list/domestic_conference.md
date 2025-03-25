@@ -32,7 +32,7 @@
 9.  **画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである**  
     加藤万理子, **趙羽風**, 閻真竺, 石钰婷, 井之上直也  
     言語処理学会第19回YANSシンポジウム. 2024. (Poster Only)
-10. †[**In-Context Learning におけるトークンベース較正手法の用いる決定境界は最適でない**](https://ipsj.ixsq.nii.ac.jp/records/235105){:target="_blank"}   
+10. †[**In-context Learning におけるトークンベース較正手法の用いる決定境界は最適でない**](https://ipsj.ixsq.nii.ac.jp/records/235105){:target="_blank"}   
     **趙羽風**, 坂井吉弘, 加藤万理子, 田中健史朗, 石井晶, 井之上直也   
     情報処理学会NL研第260回研究発表会. 2024. (Oral) <span style="color:red;">若手奨励賞</span>  
     [\[PDF\]](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=235105&file_id=1&file_no=1){:target="_blank"} 
