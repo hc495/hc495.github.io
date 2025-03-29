@@ -92,6 +92,12 @@ ul {
     }
 }
 
+hr {
+    margin-left: 0;
+    margin-right: 0;
+    width: calc(100% + 12%);
+}
+
 @media (max-width: 640px) {
     .markdown-body h1 {
         font-size: 1.5em;
