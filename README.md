@@ -18,8 +18,8 @@
 **Research Assistant & Mentor** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙羽風 (赵羽风)”  
-**Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology  
 **Birth**: Beijing, 1999
+<!-- **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology   -->
 
 **E-mail**: yfzhao [at] jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
