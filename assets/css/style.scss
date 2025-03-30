@@ -92,6 +92,10 @@ ul {
     }
 }
 
+hr {
+    border-color: black;
+}
+
 @media (max-width: 640px) {
     .markdown-body h1 {
         font-size: 1.5em;
