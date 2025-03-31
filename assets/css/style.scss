@@ -92,8 +92,12 @@ ul {
     }
 }
 
+.markdown-body h1 {
+    border-bottom: 1px solid #00112e;
+}
+
 .markdown-body hr {
-    background-color: black;
+    background-color: #00112e;
     height: .15em;
 }
 
