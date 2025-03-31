@@ -93,7 +93,11 @@ ul {
 }
 
 .markdown-body h1 {
-    border-bottom: 2px solid #00112e;
+    border-bottom: 0px solid #00112e;
+}
+
+.markdown-body h2 {
+    border-bottom: 0px solid #00112e;
 }
 
 .markdown-body hr {
