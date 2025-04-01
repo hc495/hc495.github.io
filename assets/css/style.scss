@@ -95,6 +95,9 @@ ul {
 .markdown-body hr {
     background-color: black;
     height: .15em;
+    position: absolute;
+    left: 0;
+    transform: translate(0px, -30px);
 }
 
 @media (max-width: 640px) {
