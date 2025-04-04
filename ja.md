@@ -19,7 +19,7 @@
 </div>
 
 **博士後期課程2年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [情報科学研究科](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
-**リサーチアシスタント・メンター** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上直也 准教授](https://naoya-i.info/){:target="_blank"}   
+**リサーチアシスタント・メンター** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 
 **別名**: Yufeng Zhao（漢字表記：「趙 羽風」）  
 **生年**: 1999年、北京生まれ  
@@ -40,6 +40,8 @@
 2023年以降、この分野において20本以上の論文を発表しており、その一部はICLRやNAACLといったトップカンファレンスで採択されています。
 
 この研究分野に関心のある方との共同研究を積極的に募集しています。ご興味をお持ちの方は、ぜひお気軽にご連絡ください。専門家だけでなく、意欲と学習効率の高い初心者との協力も歓迎します。また、他分野での共同研究についても柔軟に対応いたします。
+
+[English Site](https://hc495.github.io/){:target="_blank"}
 
 ## 研究関心
 
