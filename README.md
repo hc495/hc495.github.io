@@ -39,7 +39,7 @@ I graduated from Beijing Institute of Technology, a top-ranking university in Ch
 
 I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
 
-[Japanese Site (日本語版)](https://www.hakaze-c.com/ja){:target="_blank"}
+[Japanese Site (日本語版)](https://www.hakaze-c.com/ja)
 
 ## Research Interests
 
