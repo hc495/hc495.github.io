@@ -33,7 +33,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
 [ブログ](https://www.amachi.com.cn/){:target="_blank"} &nbsp;&nbsp;  
-**住所**: 〒923-1211 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
+**住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
 
 私は中国のトップ大学である北京理工大学を卒業し, 2021年に化学の学士号, 2023年にソフトウェア工学の修士号を取得しました.現在はJAISTにて博士課程に在籍しており, 2026年3月の早期修了を目指しています.  
 私の研究は, 人工ニューラルネットワーク, 特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を, 数学的および表現学習の手法によって解明し, その理解に基づく性能向上を目指すものです.  
