@@ -80,13 +80,13 @@
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
-- **博士（情報科学）**, リサーチアシスタント, 2023年10月 ～ （2026年3月予定）  
+- **博士（情報科学）**, リサーチアシスタント, 2023年10月 ～ 2026年3月 (予定)  
   [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [情報科学研究科](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
   指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
 
 - **修士（ソフトウェア工学）**, 2021年9月 ～ 2023年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [コンピュータ学院](https://cs.bit.edu.cn/){:target="_blank"}  
-  指導教員: 趙 羽風（自主研究）
+  指導教員: 趙 羽風 (自主研究)
 
 - **学士（化学）**, 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部  
@@ -94,9 +94,9 @@
 
 ## 受賞歴
 
-- [優秀賞](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ 言語処理学会 第31回年次大会 (NLP2025, ANLP), 2025年（全777件中上位15件）  
+- [優秀賞](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ 言語処理学会 第31回年次大会 (NLP2025, ANLP), 2025年 (全777件中上位15件)  
 - [若手奨励賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ 情報処理学会 第260回NL研究会 (SIG-NL260), 2024年  
-- [スポンサー賞（SB Intuitions Awards）](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ 言語処理学会 第30回年次大会 (NLP2024), 2024年  
+- [スポンサー賞 (SB Intuitions Awards)](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ 言語処理学会 第30回年次大会 (NLP2024), 2024年  
 - 優秀口頭発表賞 @ 2022年欧亜フロンティアコンピュータ科学技術国際会議  
 - 北京理工大学 年間優秀賞：2018年、2019年、2021年、2022年、2023年  
 
