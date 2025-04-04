@@ -101,6 +101,6 @@
 <br>
 <hr width="100%" />
 
-Copyright © 2025 Hakaze Cho / Yufeng Zhao. All rights reserved. アイコンはStableDiffusionにより生成。  
-<br> 更新日: {{ site.time }}  
+Copyright © 2025 Hakaze Cho / Yufeng Zhao. All rights reserved. アイコンはStableDiffusionにより生成。
+<br> 更新日: {{ site.time }}
 <span id="busuanzi_container_site_pv"><br><span id="busuanzi_value_site_pv"></span> 閲覧数</span>
