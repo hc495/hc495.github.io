@@ -3,8 +3,6 @@ layout: default
 title: Hakaze Cho / 趙 羽風
 ---
 
-<!-- {% include_relative header.html %} -->
-
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
 <figcaption>@北京理工大学 2023年</figcaption>
