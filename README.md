@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hakaze Cho / 趙 羽風
+---
+
 <head>
 
 {% if site.google_analytics%}
