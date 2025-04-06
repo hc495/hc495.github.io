@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /ja
+title: "趙 羽風"
 ---
 
 <div class="img_margin">
