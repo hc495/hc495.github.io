@@ -4,8 +4,18 @@ layout: default
 
 {% include header.html %}
 
-<div class=".markdown-body">
-  {{ content }}
+<div class="page-container">
+    <aside class="sidebar">
+        <!-- Add your sidebar content here -->
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+        </ul>
+    </aside>
+    <div class="markdown-body">
+        {{ content }}
+    </div>
 </div>
 
 {% include footer.html %}

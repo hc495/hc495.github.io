@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ja
 ---
 
 <div class="img_margin">
