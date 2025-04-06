@@ -8,7 +8,7 @@
     <title>{{ page.title | escape }}</title>
   </head>
 <body>
-    <div class="sidebar" style="float: left; width: 8%; padding: 10px; background-color: #f4f4f4; height: 100%; position: fixed;">
+    <div class="sidebar" style="width: 100%; padding: 10px; background-color: #f4f4f4; position: fixed; top: 0; left: 0; z-index: 1000;"></div>
             <ul style="list-style-type: none; padding: 0;">
                     <li>
                             {% if page.url != "/" %}
@@ -26,7 +26,6 @@
                     </li>
             </ul>
     </div>
-    <div style="margin-left: 4%; width: 90%;">
     <div class="container-lg px-3 my-5 markdown-body">
       <h1>{{ page.title | escape }}</h1>
       {{ content }}
