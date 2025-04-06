@@ -3,20 +3,7 @@ layout: default
 title: Hakaze Cho / 趙 羽風
 ---
 
-<head>
-
-{% if site.google_analytics%}
-{% include_relative analytics.html %}
-{% endif %}
-
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
-
-</head>
+{% include_relative header.html %}
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
