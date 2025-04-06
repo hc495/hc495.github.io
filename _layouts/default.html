@@ -18,15 +18,15 @@
                             {% endif %}
                     </li>
                     <li>
-                            {% if page.url != "/ja/" %}
-                                    <a href="{{ "/ja/" | relative_url }}">Japanese</a>
+                            {% if page.url != "/ja" %}
+                                    <a href="{{ "/ja" | relative_url }}">Japanese</a>
                             {% else %}
                                     <span style="color: gray;">Japanese</span>
                             {% endif %}
                     </li>
             </ul>
     </div>
-    <div style="margin-left: 10%; width: 90%;">
+    <div style="margin-left: 4%; width: 90%;">
     <div class="container-lg px-3 my-5 markdown-body">
       <h1>{{ page.title | escape }}</h1>
       {{ content }}
