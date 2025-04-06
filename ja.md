@@ -1,7 +1,4 @@
----
-layout: default
-title: Hakaze Cho / 趙 羽風
----
+{% include header.html %}
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
@@ -90,9 +87,4 @@ title: Hakaze Cho / 趙 羽風
 - 優秀口頭発表賞 @ 2022年欧亜フロンティアコンピュータ科学技術国際会議  
 - 北京理工大学 年間優秀賞：2018, 2019, 2021, 2022, 2023  
 
-<!-- <br>
-<hr width="100%" />
-
-Copyright © 2025 Hakaze Cho / Yufeng Zhao. All rights reserved. アイコンはStableDiffusionにより生成.
-<br> 更新日: {{ site.time }}
-<span id="busuanzi_container_site_pv"><br><span id="busuanzi_value_site_pv"></span> 閲覧数</span> -->
+{% include footer.html %}
