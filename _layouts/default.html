@@ -8,6 +8,32 @@
     <title>{{ page.title | escape }}</title>
   </head>
   <body>
+    <div class="sidebar" style="float: left; width: 20%; padding: 10px; background-color: #f4f4f4; height: 100vh;">
+        <ul style="list-style-type: none; padding: 0;">
+            <li>
+                {% if page.url != "/" %}
+                    <a href="{{ "/" | relative_url }}">Home</a>
+                {% else %}
+                    <span style="color: gray;">Home</span>
+                {% endif %}
+            </li>
+            <li>
+                {% if page.url != "/about/" %}
+                    <a href="{{ "/about/" | relative_url }}">About</a>
+                {% else %}
+                    <span style="color: gray;">About</span>
+                {% endif %}
+            </li>
+            <li>
+                {% if page.url != "/contact/" %}
+                    <a href="{{ "/contact/" | relative_url }}">Contact</a>
+                {% else %}
+                    <span style="color: gray;">Contact</span>
+                {% endif %}
+            </li>
+        </ul>
+    </div>
+    <div style="margin-left: 22%; width: 78%;">
     <div class="container-lg px-3 my-5 markdown-body">
       <h1>{{ page.title | escape }}</h1>
       {{ content }}
