@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: page
+---
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
@@ -86,5 +88,3 @@
 - [スポンサー賞 (SB Intuitions Awards)](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ 言語処理学会 第30回年次大会 (NLP2024), 2024  
 - 優秀口頭発表賞 @ 2022年欧亜フロンティアコンピュータ科学技術国際会議  
 - 北京理工大学 年間優秀賞：2018, 2019, 2021, 2022, 2023  
-
-{% include footer.html %}

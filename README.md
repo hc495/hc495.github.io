@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: page
+---
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
@@ -86,5 +88,3 @@ I am actively seeking productive research collaborations in the mentioned area. 
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} (スポンサー賞) @ 言語処理学会第30回年次大会 (NLP2024, ANLP). 2024.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - Annual Outstanding Academic Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
-
-{% include footer.html %}
