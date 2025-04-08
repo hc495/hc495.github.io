@@ -9,7 +9,7 @@ title: "趙 羽風"
 <figcaption>@北京理工大学 2023年</figcaption>
 </div>
 
-**博士後期課程2年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [情報科学研究科](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
+**博士後期課程2年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
 **リサーチアシスタント・メンター** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 
 **別名**: Yufeng Zhao（漢字表記：「趙 羽風」）  
@@ -72,7 +72,7 @@ title: "趙 羽風"
 </div>
 
 - **博士（情報科学）**, リサーチアシスタント, 2023年10月 ～ 2026年3月 (予定)  
-  [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [情報科学研究科](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
+  [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
   指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
 
 - **修士（ソフトウェア工学）**, 2021年9月 ～ 2023年6月  
