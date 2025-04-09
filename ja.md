@@ -76,7 +76,7 @@ title: "趙 羽風"
   指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
 
 - **修士（ソフトウェア工学）**, 2021年9月 ～ 2023年6月  
-  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [コンピュータ学院](https://cs.bit.edu.cn/){:target="_blank"}  
+  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
   指導教員: 趙 羽風 (自主研究)
 
 - **学士（化学）**, 2017年8月 ～ 2021年6月  
