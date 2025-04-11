@@ -86,7 +86,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Awards
 
-- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} (優秀賞) @ 言語処理学会第31回年次大会 (NLP2025, ANLP). 2025. (top 15 in 777)
+- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} (優秀賞) @ 言語処理学会第31回年次大会 (NLP2025, ANLP). 2025. (top 14 in 777, 1.8%)
 - [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} (若手奨励賞) @ 情報処理学会NL研第260回研究発表会 (SIG-NL260, IPSJ). 2024.
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} (スポンサー賞) @ 言語処理学会第30回年次大会 (NLP2024, ANLP). 2024.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
