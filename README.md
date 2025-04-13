@@ -60,10 +60,10 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
     Yufeng Zhao   
-    Master's Thesis - Rank A @ Beijing Institute of Technology. 2023.
+    Master's Thesis - Rank A @ Beijing Institute of Technology. 2023. 81 pages.
 2. Synthesis and Self-Assembly of Amphiphilic Aggregation Enhanced Emission Compounds   
    Yufeng Zhao   
-   Bachelor Thesis @ Beijing Institute of Technology. 2021.
+   Bachelor Thesis @ Beijing Institute of Technology. 2021. 52 pages.
 
 ## Resume
 
