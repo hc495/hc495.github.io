@@ -86,7 +86,7 @@ title: "趙 羽風"
 
 ## 受賞歴
 
-- [優秀賞](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ 言語処理学会 第31回年次大会 (NLP2025, ANLP), 2025 (全777件中上位15件, 1.8%)  
+- [優秀賞](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ 言語処理学会 第31回年次大会 (NLP2025, ANLP), 2025 (全765件中上位15件, 2.0%)  
 - [若手奨励賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ 情報処理学会 第260回NL研究会 (SIG-NL260), 2024  
 - [スポンサー賞 (SB Intuitions Awards)](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ 言語処理学会 第30回年次大会 (NLP2024), 2024  
 - 優秀口頭発表賞 @ 2022年欧亜フロンティアコンピュータ科学技術国際会議  
