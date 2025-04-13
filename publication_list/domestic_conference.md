@@ -48,5 +48,5 @@
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf){:target="_blank"}
 13. †[**Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models**](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf){:target="_blank"}  
     Yuting Shi, Houjing Wei, Jin Tao, **Yufeng Zhao**, Naoya Inoue  
-    言語処理学会第30回年次大会. 2024. 6 pages. 
+    言語処理学会第30回年次大会. 2024. 6 pages.  
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf){:target="_blank"}
