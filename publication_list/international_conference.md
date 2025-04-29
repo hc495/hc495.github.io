@@ -4,10 +4,10 @@
    [\[PDF\]](https://openreview.net/pdf?id=xizpnYNvQq){:target="_blank"} 
    [\[Code\]](https://github.com/hc495/ICL_Circuit){:target="_blank"} 
    [\[Poster\]](https://iclr.cc/virtual/2025/poster/27767){:target="_blank"}  
-2. [**Token-based Decision Criteria Are Suboptimal in In-context Learning**](https://arxiv.org/abs/2406.16535){:target="_blank"}  
+2. [**Token-based Decision Criteria Are Suboptimal in In-context Learning**](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}  
    **Hakaze Cho**, Yoshihiro Sakai, Mariko Kato, Kenshiro Tanaka, Akira Ishii, Naoya Inoue  
    In Proceedings of *the 2025 Annual Conference of the Nations of the Americas Chapter of the ACL* (**NAACL**.main). 2025. 24 pages. [h5=132, IF=16.5]  
-   [\[PDF\]](https://arxiv.org/pdf/2406.16535){:target="_blank"} 
+   [\[PDF\]](https://aclanthology.org/2025.naacl-long.278.pdf){:target="_blank"} 
    [\[Code\]](https://github.com/hc495/Hidden_Calibration){:target="_blank"} 
 3. [**Understanding Token Probability Encoding in Output Embeddings**](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}  
    **Hakaze Cho**, Yoshihiro Sakai, Kenshiro Tanaka, Mariko Kato, Naoya Inoue  
