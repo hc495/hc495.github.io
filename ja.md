@@ -72,15 +72,15 @@ title: "趙 羽風"
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
-- **博士（情報科学）**, リサーチアシスタント, 2023年10月 ～ 2026年3月 (予定)  
+- **博士（情報科学）** リサーチアシスタント, 2023年10月 ～ 2026年3月 (予定)  
   [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
   指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
 
-- **修士（ソフトウェア工学）**, 2021年9月 ～ 2023年6月  
+- **修士（ソフトウェア工学）** 2021年9月 ～ 2023年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
   指導教員: 趙 羽風 (自主研究)
 
-- **学士（化学）**, 2017年8月 ～ 2021年6月  
+- **学士（化学）** 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部  
   指導教員: [石 建兵 准教授](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
 
