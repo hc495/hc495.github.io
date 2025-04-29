@@ -1,10 +1,10 @@
 1. ▲[**トークン埋め込みの内在次元を測る**](https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail){:target="_blank"}   
    片岩拓也, **趙羽風**, 大木哲史   
-   人工知能学会第39回全国大会. 2025.
+   人工知能学会第39回全国大会. 2025.   
     [\[PDF\]](https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail){:target="_blank"}
 2. ▲[**既知性を示す言語表現を伴う知識に関する内部表象の分析**](https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId=){:target="_blank"}   
    田中健史朗, 坂井吉弘, **趙羽風**, 井之上直也, 佐藤魁, 高橋良允, Benjamin Heinzerling, 乾健太郎   
-   人工知能学会第39回全国大会. 2025.
+   人工知能学会第39回全国大会. 2025.   
    [\[PDF\]](https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId=){:target="_blank"} 
 3. ▲**言語モデルにおける知識の既知性判断の内部表象**   
    佐藤魁, 高橋良允, Benjamin Heinzerling, 田中健史朗, **趙羽風**, 坂井吉弘, 井之上直也, 乾健太郎   
