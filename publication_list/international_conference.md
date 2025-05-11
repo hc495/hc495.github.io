@@ -13,6 +13,7 @@
    [\[PDF\]](https://aclanthology.org/2025.naacl-long.278.pdf){:target="_blank"} 
    [\[ArXiv\]](https://arxiv.org/abs/2406.16535){:target="_blank"} 
    [\[Github\]](https://github.com/hc495/Hidden_Calibration){:target="_blank"} 
+   [\[Poster\]](https://drive.google.com/file/d/1bD4cWT50GeW1DxABqoLPV7Ljbw12BgrE/view?usp=sharing){:target="_blank"} 
 3. [**Understanding Token Probability Encoding in Output Embeddings**](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}  
    **Hakaze Cho**, Yoshihiro Sakai, Kenshiro Tanaka, Mariko Kato, Naoya Inoue  
    In Proceedings of *the 2025 Conference on Computational Linguistics* (**COLING**). 2025. 16 pages. [h5=65, IF=7.7]  
