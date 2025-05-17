@@ -45,7 +45,7 @@ title: "趙 羽風"
 
 ## 論文一覧
 
-### 国際会議発表
+### 国際会議
 
 {% include_relative publication_list/international_conference.md %}
 
