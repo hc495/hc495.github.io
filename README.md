@@ -92,9 +92,10 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Awards
 
-- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} (優秀賞) @ 言語処理学会第31回年次大会 (NLP2025, ANLP). 2025. (top 15 in 777)
-- [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} (若手奨励賞) @ 情報処理学会NL研第260回研究発表会 (SIG-NL260, IPSJ). 2024.
-- [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} (スポンサー賞) @ 言語処理学会第30回年次大会 (NLP2024, ANLP). 2024.
+- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the Japanese Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 15 in 777)
+- [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} (若手奨励賞) @ The 260th SIG for Natural Language, Information Processing Society of Japan (SIG-NL260, IPSJ). 2024.
+- [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ The 30st Annual Conference of the Japanese Association for Natural Language Processing (NLP2024, ANLP). 2024.
+- [Monbukagakusho Honors Scholarship] @ Japanese Ministry of Education, Culture, Sports, Science and Technology. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - Annual Outstanding Academic Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
 

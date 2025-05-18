@@ -23,7 +23,7 @@ a {
     }
 
     &:active {
-        color: #070a7d;
+        color: #2a66cc;
     }
 }
 
@@ -37,7 +37,7 @@ figcaption {
 body, .markdown-body {
     color: #00112e;
     background-color: white;
-    font-family: 'Noto Sans JP', Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
+    font-family: "Hiragino Maru Gothic Pro", Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
 }
 
@@ -49,13 +49,17 @@ body, .markdown-body {
 //     background-position: center;
 // }
 
+.markdown-body h1 {
+    border-bottom: 1px solid #00112e;
+}
+
 h1 {
-    font-family: "Gentium Basic", 'Noto Sans JP';
+    font-family: "Gentium Basic";
     font-size: 2em;
 }
 
 h2 {
-    font-family: "Gentium Basic", 'Noto Sans JP';
+    font-family: "Gentium Basic";
     font-size: 1.5em;
     color: #017d63;
     padding: 20px 0 0 0;
@@ -90,22 +94,6 @@ ul {
     li {
         margin-bottom: -0.1em;
     }
-}
-
-// .markdown-body h1 {
-//     border-bottom: 0px solid #00112e;
-// }
-
-// .markdown-body h2 {
-//     border-bottom: 0px solid #00112e;
-// }
-
-.markdown-body hr {
-    background-color: #00112e;
-    height: .15em;
-    position: absolute;
-    left: 0;
-    transform: translate(0px, -52px);
 }
 
 @media (max-width: 640px) {
