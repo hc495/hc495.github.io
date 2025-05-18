@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+  </head>
+<body>
+    <!-- <div class="sidebar" style="width: 100%; padding: 10px; background-color: #f4f4f4; top: 0; left: 0;"></div>
+        <ul style="list-style-type: none; padding: 0;">
+            <li>
+                    {% if page.url != "/" %}
+                            <a href="{{ "/" | relative_url }}">English</a>
+                    {% else %}
+                            <span style="color: gray;">English</span>
+                    {% endif %}
+            </li> <li>
+                    {% if page.url != "/ja" %}
+                            <a href="{{ "/ja" | relative_url }}">Japanese</a>
+                    {% else %}
+                            <span style="color: gray;">Japanese</span>
+                    {% endif %}
+            </li>
+        </ul>
+    </div> -->
+    <div class="container-lg px-3 my-5 markdown-body">
+      <h1>{{ page.title | escape }}</h1>
+      {{ content }}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
