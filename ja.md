@@ -19,13 +19,13 @@ title: "趙 羽風"
 **E-mail**: yfzhao [at] jaist.ac.jp  
 **電話番号**: +81-070-8591-1495  
 **リンク**:
-[Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
-[GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp; 
-[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
-[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
-[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp; 
-[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp; 
-[Blog](https://www.amachi.com.cn/){:target="_blank"} &nbsp;&nbsp;  
+[Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Blog](https://www.amachi.com.cn/){:target="_blank"} &nbsp;&nbsp;&nbsp;  
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
 
 私は中国のトップ大学である北京理工大学を卒業し, 2021年に化学の学士号, 2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており, 2026年3月の早期修了を目指しています.  

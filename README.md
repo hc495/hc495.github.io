@@ -19,13 +19,13 @@ title: "Hakaze Cho"
 **E-mail**: yfzhao [at] jaist.ac.jp  
 **Phone**: +81-070-8591-1495  
 **Links**:
-[Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;
-[GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp; 
-[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp; 
-[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp; 
-[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp; 
-[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp; 
-[Blog](https://www.amachi.com.cn/){:target="_blank"} &nbsp;&nbsp;   
+[Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Blog](https://www.amachi.com.cn/){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan  
 
 I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference by mathematical and representation learning methods, and improving their performance robustly through this deeper understanding. I have published over 20 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NAACL.
