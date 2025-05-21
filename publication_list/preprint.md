@@ -1,5 +1,5 @@
 1. [**Mechanistic Fine-tuning for In-context Learning**](https://arxiv.org/abs/2505.14233){:target="_blank"}  
-   **Hakaze Cho**, Peng Luo, Mariko Kato, Rin Kaenbyou, Naoya Inoue
+   **Hakaze Cho**, Peng Luo, Mariko Kato, Rin Kaenbyou, Naoya Inoue  
    Pre-print. 2025. 28 pages.  
    [\[PDF\]](https://arxiv.org/pdf/2505.14233){:target="_blank"} 
    [\[ArXiv\]](https://arxiv.org/abs/2505.14233){:target="_blank"} 
