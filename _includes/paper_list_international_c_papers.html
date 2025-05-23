@@ -3,19 +3,13 @@
 {%- assign know_authors = site.data.authors -%}
 {%- if papers -%}
 <ol>
-{{know_authors}}
-{{venues}}
 {%- for item in papers -%}
     {%- assign title = item.title -%}
     {%- assign authors = item.authors -%}
-    {%- for author in authors -%}
-        {%- if know_authors[author] -%}
-            {%- assign authors[author] = know_authors[author] -%}
-        {%- endif -%}
-    {%- endfor -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
     {%- if venues[venue] -%}
+        {{ venues[venue] }}
         {%- assign venue_name = venues[venue].name -%}
         {%- assign venue_short = venues[venue].short -%}
         {%- assign h5 = venues[venue].h5 -%}
@@ -32,6 +26,9 @@
 
 <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
 {%- for author in authors -%}
+    {%- if know_authors[author] -%}
+        {%- assign author = know_authors[author] -%}
+    {%- endif -%}
     {%- if forloop.first == false -%}
         ,&nbsp;
     {%- endif -%}
@@ -63,7 +60,7 @@
 <br>
 {%- if urls -%}
     {%- for url in urls -%}
-        <a href="{{ url.url }}" target="_blank">{{ url.label }}</a>&nbsp;
+        [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
     {%- endfor -%}
 {%- endif -%}
     </li>
