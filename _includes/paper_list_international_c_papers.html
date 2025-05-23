@@ -33,7 +33,7 @@
     {%- if forloop.first == false -%}
         ,&nbsp;
     {%- endif -%}
-    {%- if author.name == "Hakaze Cho" or "Yufeng Zhao" -%}
+    {%- if author.name == "Hakaze Cho" or author.name == "Yufeng Zhao" -%}
         <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">{{ author.name }}</a></strong>
     {%- else -%}
         {%- if author.url -%}
