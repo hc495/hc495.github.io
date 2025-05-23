@@ -5,10 +5,18 @@ iclr:
   infl: 48.9
 
 naacl:
-  name: "The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL"
+  name: "The Annual Conference of the Nations of the Americas Chapter of the ACL"
   short: "NAACL.main"
   h5: 132
   infl: 16.5
 
 coling:
-  
+  name: "The Conference on Computational Linguistics"
+  short: "COLING"
+  h5: 65
+  infl: 7.7
+
+lrec:
+  name: "The Conference on Language Resources and Evaluation"
+  short: "LREC"
+  h5: 59

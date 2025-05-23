@@ -29,6 +29,7 @@
         {%- if know_authors[author.name] -%}
             {%- assign author.name = know_authors[author.name].name -%}
             {{ author.name }}
+            {{ know_authors[author.name].name}}
             {%- assign author.url = know_authors[author.name].url -%}
         {%- endif -%}
         {%- if forloop.first == false -%}
