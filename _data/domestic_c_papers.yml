@@ -92,7 +92,7 @@
     - name: n-inoue
   venue: nlp
   review: false
-  second: true
+  second: false
   year: 2025
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf"
   pages: 5
