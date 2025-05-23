@@ -1,72 +1,72 @@
-{% assign paper = site.data.international_c_papers -}
-{% assign venues = site.data.venues -}
-{% assign know_authors = site.data.authors -}
-{% if paper -%}
+{% assign paper = site.data.international_c_papers %}
+{% assign venues = site.data.venues %}
+{% assign know_authors = site.data.authors %}
+{% if paper %}
     <ol>
-    {% for item in paper -%}
-        {% assign title = item.title -%}
-        {% assign authors = item.authors -%}
-        {% for author in authors -%}
-            {% if author in know_authors -%}
-                {% assign author = know_authors[author] -%}
+    {% for item in paper %}
+        {% assign title = item.title %}
+        {% assign authors = item.authors %}
+        {% for author in authors %}
+            {% if author in know_authors %}
+                {% assign author = know_authors[author] %}
             {% endif %}
-        {% endfor -%}
-        {% assign venue = item.venue -%}
-        {% assign pages = item.pages -%}
-        {% if venue in venues -%}
-            {% assign venue_name = venues[name] -%}
-            {% assign venue_short = venues[venue].short -%}
-            {% assign h5 = venues[venue].h5 -%}
-            {% assign infl = venues[venue].infl -%}
-        {% else -%}
-            {% assign venue_name = item.venue -%}
-            {% assign venue_short = item.venue_short -%}
-            {% assign h5 = item.h5 -%}
-            {% assign infl = item.infl -%}
+        {% endfor %}
+        {% assign venue = item.venue %}
+        {% assign pages = item.pages %}
+        {% if venue in venues %}
+            {% assign venue_name = venues[name] %}
+            {% assign venue_short = venues[venue].short %}
+            {% assign h5 = venues[venue].h5 %}
+            {% assign infl = venues[venue].infl %}
+        {% else %}
+            {% assign venue_name = item.venue %}
+            {% assign venue_short = item.venue_short %}
+            {% assign h5 = item.h5 %}
+            {% assign infl = item.infl %}
         {% endif %}
-        {% assign year = item.year -%}
-        {% assign basic_url = item.basic_url -%}
-        {% assign urls = item.urls -%}
+        {% assign year = item.year %}
+        {% assign basic_url = item.basic_url %}
+        {% assign urls = item.urls %}
 
         <li>
             <a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a>
             <br>
-            {% for author in authors -%}
-                {% if forloop.first == false -%}
+            {% for author in authors %}
+                {% if forloop.first == false %}
                     ,&nbsp;
                 {% endif %}
-                {% if author == "Hakaze Cho" -%}
+                {% if author == "Hakaze Cho" %}
                     <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">Hakaze Cho</a></strong>
-                {% else -%}
-                    {% if author.url -%}
+                {% else %}
+                    {% if author.url %}
                         <a href="{{ author.url }}" target="_blank">{{ author.name }}</a>
-                    {% else -%}
+                    {% else %}
                         {{ author.name }}
                     {% endif %}
                 {% endif %}
-            {% endfor -%}
+            {% endfor %}
             <br>
             <em>{{ venue_name }}</em> (<strong></strong>{{ venue_short }}</strong>).&nbsp;
-            {% if pages -%}
+            {% if pages %}
                 {{ pages }} pages.&nbsp;
             {% endif %}
             {{ year }}.&nbsp;
-            {% if h5 or infl -%} [
-                {% if h5 -%}
+            {% if h5 or infl %} [
+                {% if h5 %}
                     <span class="h5">h5= {{ h5 }}</span>
                 {% endif %}
-                {% if infl -%}
+                {% if infl %}
                     <span class="infl">IF= {{ infl }}</span>
                 {% endif %}
                 ]
             {% endif %}
             <br>
-            {% if urls -%}
-                {% for url in urls -%}
+            {% if urls %}
+                {% for url in urls %}
                     <a href="{{ url.url }}" target="_blank">{{ url.label }}</a>&nbsp;
-                {% endfor -%}
+                {% endfor %}
             {% endif %}
         </li>
-    {% endfor -%}
+    {% endfor %}
     </ol>
 {% endif %}
