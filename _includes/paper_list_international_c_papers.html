@@ -8,7 +8,7 @@
     {%- assign authors = item.authors -%}
     {%- for author in authors -%}
         {%- if know_authors.author -%}
-            {%- assign author = know_authors[author] -%}
+            {%- assign authors[author] = know_authors[author] -%}
         {%- endif -%}
     {%- endfor -%}
     {%- assign venue = item.venue -%}
@@ -44,7 +44,7 @@
     {%- endif -%}
 {%- endfor -%}
 <br>
-<em>{{ venue_name }}</em> (<strong></strong>{{ venue_short }}</strong>).&nbsp;
+<em>{{ venue_name }}</em> (<strong>{{ venue_short }}</strong>).&nbsp;
 {%- if pages -%}
     {{ pages }} pages.&nbsp;
 {%- endif -%}
