@@ -49,30 +49,30 @@
 <br>
 <em>{{ venue_name }}</em> (<strong>{{ venue_short }}</strong>).&nbsp;
 {{ year }}.&nbsp;
-{%- if pages -%}
-    {{ pages }} pages.&nbsp;
-{%- endif -%}
-{%- if h5 or infl -%} [
-    {%- if h5 -%}
-        h5= {{ h5 }}
+    {%- if pages -%}
+        {{ pages }} pages.&nbsp;
     {%- endif -%}
-    {%- if h5 and infl -%}
-        ,&nbsp;
+    {%- if h5 or infl -%} [
+        {%- if h5 -%}
+            h5= {{ h5 }}
+        {%- endif -%}
+        {%- if h5 and infl -%}
+            ,&nbsp;
+        {%- endif -%}
+        {%- if infl -%}
+            IF= {{ infl }}
+        {%- endif -%}
+        ]
     {%- endif -%}
-    {%- if infl -%}
-        IF= {{ infl }}
+    {%- if item.award -%}
+    &nbsp; {{ item.award }}.
     {%- endif -%}
-    ]
-{%- endif -%}
-{%- if item.award -%}
-&nbsp; {{ item.award }}.
-{%- endif -%}
-<br>
-{%- if urls -%}
-    {%- for url in urls -%}
-        [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
-    {%- endfor -%}
-{%- endif -%}
+    <br>
+    {%- if urls -%}
+        {%- for url in urls -%}
+            [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+        {%- endfor -%}
+    {%- endif -%}
     </li>
     {%- endfor -%}
 </ol>

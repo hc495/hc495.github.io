@@ -45,9 +45,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### International Conference
 
-{% include_relative publication_list/international_conference.md %}
-
-
+<!-- {% include_relative publication_list/international_conference.md %} -->
 {% include_relative _includes/paper_list_international_c_papers.html %}
 
 ### Pre-print

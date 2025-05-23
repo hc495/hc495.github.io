@@ -3,7 +3,7 @@
     - name: me
     - name: "Mariko Kato"
     - name: "Yoshihiro Sakai"
-    - name: "Naoya Inoue"
+    - name: n-inoue
   venue: iclr
   year: 2025
   basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
@@ -13,4 +13,85 @@
       label: "OpenReview"
     - url: "https://openreview.net/pdf?id=xizpnYNvQq"
       label: "PDF"
-    
+    - url: "https://arxiv.org/abs/2410.04468"
+      label: "arXiv"
+    - url: "https://github.com/hc495/ICL_Circuit"
+      label: "Github"
+    - url: "https://iclr.cc/virtual/2025/poster/27767"
+      label: "Poster"
+
+- title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+    - name: "Mariko Kato"
+    - name: "Kenshiro Tanaka"
+    - name: "Akira Ishii"
+    - name: n-inoue
+  venue: naacl
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.naacl-long.278/"
+  pages: 24
+  urls:
+    - url: "https://aclanthology.org/2025.naacl-long.278/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2025.naacl-long.278.pdfq"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2406.16535"
+      label: "arXiv"
+    - url: "https://github.com/hc495/Hidden_Calibration"
+      label: "Github"
+    - url: "https://drive.google.com/file/d/1bD4cWT50GeW1DxABqoLPV7Ljbw12BgrE/view"
+      label: "Poster"
+
+- title: "Understanding Token Probability Encoding in Output Embeddings"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+    - name: "Kenshiro Tanaka"
+    - name: "Mariko Kato"
+    - name: n-inoue
+  venue: coling
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.coling-main.708/"
+  pages: 16
+  urls:
+    - url: "https://aclanthology.org/2025.coling-main.708/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2025.coling-main.708.pdf"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2406.01468"
+      label: "arXiv"
+    - url: "https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view"
+      label: "Github"
+
+- title: "Understanding Token Probability Encoding in Output Embeddings"
+  authors:
+    - name: "Yuting Shi"
+    - name: n-inoue
+    - name: "Houjing Wei"
+    - name: me
+    - name: "Tao Jin"
+  venue: lrec
+  year: 2024
+  basic_url: "https://aclanthology.org/2024.lrec-main.642/"
+  pages: 7
+  urls:
+    - url: "https://aclanthology.org/2024.lrec-main.642/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2024.lrec-main.642.pdf"
+      label: "PDF"
+
+- title: "Methods to Enhance BERT in Aspect-Based Sentiment Classification"
+  authors:
+    - name: "Yufeng Zhao"
+    - name: "Evelyn Soerjodjojo"
+    - name: "et al."
+  venue: "IEEE Euro-Asia Conference on Frontiers of Computer Science and Information Technology"
+  year: 2022
+  basic_url: "https://ieeexplore.ieee.org/abstract/document/10098237"
+  pages: 7
+  award: "Outstanding Oral Presentation Award"
+  urls:
+    - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098237"
+      label: "PDF"
