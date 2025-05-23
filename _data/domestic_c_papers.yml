@@ -82,8 +82,8 @@
       label: "PDF"
     - url: "https://drive.google.com/file/d/1tSBHQgnDcuti2pZcE-KxJX90NZPthFo6/view"
       label: "Slides"
-  other: "(Oral) <span style='color:red'>Outstanding Paper Award</span>"
-  other_jp: "(Oral) <span style='color:red'>優秀賞</span>"
+  other: "Oral, <span style='color:red'>Outstanding Paper Award</span>"
+  other_jp: "Oral, <span style='color:red'>優秀賞</span>"
 
 - title: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
   title_jp: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
@@ -157,8 +157,8 @@
   urls:
     - url: "https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view"
       label: "Poster"
-  other: "(Poster Only)"
-  other_jp: "(Poster Only)"
+  other: "Poster Only"
+  other_jp: "Poster Only"
 
 - title: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
   title_jp: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
@@ -175,8 +175,8 @@
   review: false
   second: false
   year: 2025
-  other: "(Poster Only)"
-  other_jp: "(Poster Only)"
+  other: "Poster Only"
+  other_jp: "Poster Only"
 
 - title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
   title_jp: "In-context Learning におけるトークンベース較正手法の用いる決定境界は最適でない"
@@ -198,8 +198,8 @@
   second: true
   pages: 17
   year: 2024
-  other: "(Oral) <span style='color:red'>Research Award for Young Scholars</span>"
-  other_jp: "(Oral) <span style='color:red'>若手奨励賞</span>"
+  other: "Oral, <span style='color:red'>Research Award for Young Scholars</span>"
+  other_jp: "Oral, <span style='color:red'>若手奨励賞</span>"
   basic_url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
   urls:
     - url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
@@ -220,8 +220,8 @@
   second: true
   year: 2024
   pages: 6
-  other: "(Oral)"
-  other_jp: "(Oral)"
+  other: "Oral"
+  other_jp: "Oral"
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
   urls:
     - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
