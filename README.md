@@ -59,7 +59,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 {% include_relative publication_list/domestic_conference.md %}
 
-{% include_relative _includes/paper_list_domestic_c_papers_en.html %}
+<!-- {% include_relative _includes/paper_list_domestic_c_papers_en.html %} -->
 
 
 ### Thesis

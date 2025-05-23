@@ -58,7 +58,7 @@ title: "趙 羽風"
 ### 国内会議・その他<br><span style="font-size:0.8em">(† = 国際会議論文の日本国内再録; 通常: 査読なし, ▲= 査読あり)</span>
 
 {% include_relative publication_list/domestic_conference.md %}
-{% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
+<!-- {% include_relative _includes/paper_list_domestic_c_papers_jp.html %} -->
 
 ### 学位論文
 

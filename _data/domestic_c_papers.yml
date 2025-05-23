@@ -19,12 +19,9 @@
   authors:
     - name: me
     - name: "Mariko Kato"
+      name_jp: "加藤万理子"
     - name: "Yoshihiro Sakai"
-    - name: n-inoue
-  authors_jp:
-    - name: me
-    - name: "加藤万理子"
-    - name: "坂井吉弘"
+      name_jp: "坂井吉弘"
     - name: n-inoue
   venue: nlp
   review: false
