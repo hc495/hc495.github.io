@@ -7,13 +7,13 @@
         {% assign title = item.title %}
         {% assign authors = item.authors %}
         {% for author in authors %}
-            {% if author in know_authors %}
+            {% know_authors.author %}
                 {% assign author = know_authors[author] %}
             {% endif %}
         {% endfor %}
         {% assign venue = item.venue %}
         {% assign pages = item.pages %}
-        {% if venue in venues %}
+        {% if venues.venue %}
             {% assign venue_name = venues.venue.name %}
             {% assign venue_short = venues.venue.short %}
             {% assign h5 = venues.venue.h5 %}
