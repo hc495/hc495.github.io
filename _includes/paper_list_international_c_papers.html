@@ -61,6 +61,9 @@
     {%- endif -%}
     ]
 {%- endif -%}
+{%- if item.award -%}
+&nbsp; {{ item.award }}.
+{%- endif -%}
 <br>
 {%- if urls -%}
     {%- for url in urls -%}
