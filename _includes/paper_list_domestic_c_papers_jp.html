@@ -24,7 +24,11 @@
     {%- assign basic_url = item.basic_url -%}
     {%- assign urls = item.urls -%}
 
-    <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+    {%- if basic_url -&}
+<li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+    {%- else -%}
+<li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<strong>{{ title }}</strong><br>
+    {%- endif -%}
     {%- for author in authors -%}
         {%- if know_authors[author.name] -%}
             {%- assign displayname = know_authors[author.name].name_jp -%}
