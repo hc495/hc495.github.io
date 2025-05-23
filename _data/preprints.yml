@@ -1,0 +1,91 @@
+- title: "Mechanistic Fine-tuning for In-context Learning"
+  authors:
+    - name: me
+    - name: "Peng Luo"
+    - name: "Mariko Kato"
+    - name: "Rin Kaenbyou"
+    - name: n-inoue
+  year: 2025
+  basic_url: "https://arxiv.org/abs/2505.14233"
+  pages: 28
+  urls:
+    - url: "https://arxiv.org/pdf/2505.14233"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2505.14233"
+      label: "arxiv"
+
+- title: "Measuring Intrinsic Dimension of Token Embeddings"
+  authors:
+    - name: "Takuya Kataiwa"
+    - name: me
+    - name: "Tetsushi Ohki"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  year: 2025
+  basic_url: "https://arxiv.org/abs/2503.02142"
+  pages: 6
+  urls:
+    - url: "https://arxiv.org/pdf/2503.02142"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2503.02142"
+      label: "arxiv"
+
+- title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
+  authors:
+    - name: "Mariko Kato"
+    - name: me
+    - name: "Yoshihiro Sakai"
+    - name: n-inoue
+  year: 2025
+  basic_url: "https://arxiv.org/abs/2502.14380"
+  pages: 8
+  urls:
+    - url: "https://arxiv.org/abs/2502.14380"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2502.1438"
+      label: "arxiv"
+
+- title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
+  authors:
+    - name: me
+    - name: n-inoue
+  year: 2025
+  basic_url: "https://arxiv.org/abs/2501.15708"
+  pages: 20
+  urls:
+    - url: "https://arxiv.org/abs/2501.15708"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2501.15708"
+      label: "arxiv"
+    - url: "https://github.com/hc495/StaICC"
+      label: "Github"
+    - url: "https://pypi.org/project/StaICC/"
+      label: "PyPI"
+
+- title: "NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning"
+  authors:
+    - name: "Yufeng Zhao"
+    - name: "Yoshihiro Sakai"
+    - name: n-inoue
+  year: 2024
+  basic_url: "https://arxiv.org/abs/2402.05515"
+  pages: 20
+  urls:
+    - url: "https://arxiv.org/abs/2402.05515"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2402.05515"
+      label: "arxiv"
+    - url: "https://github.com/hc495/NoisyICL"
+      label: "Github"
+
+- title: "SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus"
+  authors:
+    - name: "Yufeng Zhao"
+    - name: "et al."
+  year: 2022
+  basic_url: "https://arxiv.org/abs/2209.05741"
+  pages: 14
+  urls:
+    - url: "https://arxiv.org/abs/2209.05741"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2209.05741"
+      label: "arxiv"

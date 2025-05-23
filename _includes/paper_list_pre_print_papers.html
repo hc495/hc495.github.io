@@ -1,5 +1,4 @@
-{%- assign papers = site.data.international_c_papers -%}
-{%- assign venues = site.data.venues -%}
+{%- assign papers = site.data.preprints -%}
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
@@ -9,17 +8,6 @@
     {%- assign authors = item.authors -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
-    {%- if venues[venue] -%}
-        {%- assign venue_name = venues[venue].name -%}
-        {%- assign venue_short = venues[venue].short -%}
-        {%- assign h5 = venues[venue].h5 -%}
-        {%- assign infl = venues[venue].infl -%}
-    {%- else -%}
-        {%- assign venue_name = item.venue -%}
-        {%- assign venue_short = item.venue_short -%}
-        {%- assign h5 = item.h5 -%}
-        {%- assign infl = item.infl -%}
-    {%- endif -%}
     {%- assign year = item.year -%}
     {%- assign basic_url = item.basic_url -%}
     {%- assign urls = item.urls -%}
@@ -47,10 +35,7 @@
         {%- endif -%}
     {%- endfor -%}
 <br>
-<em>{{ venue_name }}</em> {%- if venue_short -%}&nbsp;(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;{{ year }}.&nbsp;
-    {%- if pages -%}
-        {{ pages }} pages.&nbsp;
-    {%- endif -%}
+Pre-print.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
     {%- if h5 or infl -%} [
         {%- if h5 -%}
             h5= {{ h5 }}
@@ -62,9 +47,6 @@
             IF= {{ infl }}
         {%- endif -%}
         ]
-    {%- endif -%}
-    {%- if item.award -%}
-    &nbsp;{{ item.award }}.
     {%- endif -%}
     <br>
     {%- if urls -%}
