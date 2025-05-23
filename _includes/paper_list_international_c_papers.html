@@ -1,6 +1,8 @@
 {%- assign papers = site.data.international_c_papers -%}
 {%- assign venues = site.data.venues -%}
 {%- assign know_authors = site.data.authors -%}
+{{know_authors}}
+
 {%- if papers -%}
 <ol>
 {%- for item in papers -%}
@@ -32,8 +34,8 @@
     {%- if forloop.first == false -%}
         ,&nbsp;
     {%- endif -%}
-    {%- if author.name == "Hakaze Cho" -%}
-        <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">Hakaze Cho</a></strong>
+    {%- if author.name == "Hakaze Cho" or "Yufeng Zhao" -%}
+        <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">{{ author.name }}</a></strong>
     {%- else -%}
         {%- if author.url -%}
             <a href="{{ author.url }}" target="_blank">{{ author.name }}</a>
@@ -50,10 +52,13 @@
 {{ year }}.&nbsp;
 {%- if h5 or infl -%} [
     {%- if h5 -%}
-        <span class="h5">h5= {{ h5 }}</span>
+        h5= {{ h5 }}
+    {%- endif -%}
+    {%- if h5 and infl -%}
+        ,&nbsp;
     {%- endif -%}
     {%- if infl -%}
-        <span class="infl">IF= {{ infl }}</span>
+        IF= {{ infl }}
     {%- endif -%}
     ]
 {%- endif -%}
