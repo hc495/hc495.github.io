@@ -12,7 +12,7 @@
     - url: "https://arxiv.org/pdf/2505.14233"
       label: "PDF"
     - url: "https://arxiv.org/abs/2505.14233"
-      label: "arxiv"
+      label: "arXiv"
 
 - title: "Measuring Intrinsic Dimension of Token Embeddings"
   authors:
@@ -27,7 +27,7 @@
     - url: "https://arxiv.org/pdf/2503.02142"
       label: "PDF"
     - url: "https://arxiv.org/abs/2503.02142"
-      label: "arxiv"
+      label: "arXiv"
 
 - title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
   authors:
@@ -42,7 +42,7 @@
     - url: "https://arxiv.org/abs/2502.14380"
       label: "PDF"
     - url: "https://arxiv.org/abs/2502.1438"
-      label: "arxiv"
+      label: "arXiv"
 
 - title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
   authors:
@@ -55,7 +55,7 @@
     - url: "https://arxiv.org/abs/2501.15708"
       label: "PDF"
     - url: "https://arxiv.org/abs/2501.15708"
-      label: "arxiv"
+      label: "arXiv"
     - url: "https://github.com/hc495/StaICC"
       label: "Github"
     - url: "https://pypi.org/project/StaICC/"
@@ -73,7 +73,7 @@
     - url: "https://arxiv.org/abs/2402.05515"
       label: "PDF"
     - url: "https://arxiv.org/abs/2402.05515"
-      label: "arxiv"
+      label: "arXiv"
     - url: "https://github.com/hc495/NoisyICL"
       label: "Github"
 
@@ -88,4 +88,4 @@
     - url: "https://arxiv.org/abs/2209.05741"
       label: "PDF"
     - url: "https://arxiv.org/abs/2209.05741"
-      label: "arxiv"
+      label: "arXiv"

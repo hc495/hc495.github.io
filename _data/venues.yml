@@ -20,3 +20,18 @@ lrec:
   name: "The Conference on Language Resources and Evaluation"
   short: "LREC"
   h5: 59
+
+nlp:
+  name_jp: "言語処理学会年次大会"
+  name: "The Annual Conference of the Association for Natural Language Processing"
+  short: "NLP"
+
+jsai:
+  name_jp: "人工知能学会全国大会"
+  name: "The Annual Conference of the Japanese Society for Artificial Intelligence"
+  short: "JSAI"
+
+yans:
+  name_jp: "言語処理若手シンポジウム"
+  name: "The Young Researchers' Workshop of the Association for Natural Language Processing"
+  short: "YANS"

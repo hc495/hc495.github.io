@@ -1,0 +1,27 @@
+- title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+  title_jp: "大規模言語モデルにおける In-context Learning の推論回路"
+  authors:
+    - name: me
+    - name: "Mariko Kato"
+    - name: "Yoshihiro Sakai"
+    - name: n-inoue
+  authors_jp:
+    - name: me
+    - name: "加藤万理子"
+    - name: "坂井吉弘"
+    - name: "井之上直也"
+  venue: nlp
+  year: 2025
+  basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
+  pages: 37
+  urls:
+    - url: "https://openreview.net/forum?id=xizpnYNvQq"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=xizpnYNvQq"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2410.04468"
+      label: "arXiv"
+    - url: "https://github.com/hc495/ICL_Circuit"
+      label: "Github"
+    - url: "https://iclr.cc/virtual/2025/poster/27767"
+      label: "Poster"

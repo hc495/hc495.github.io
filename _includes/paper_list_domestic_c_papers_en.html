@@ -1,4 +1,5 @@
-{%- assign papers = site.data.preprints -%}
+{%- assign papers = site.data.domestic_c_papers -%}
+{%- assign venues = site.data.venues -%}
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
@@ -8,11 +9,23 @@
     {%- assign authors = item.authors -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
+    {%- if venues[venue] -%}
+        {%- assign venue_name = venues[venue].name -%}
+        {%- assign venue_short = venues[venue].short -%}
+        {%- assign h5 = venues[venue].h5 -%}
+        {%- assign infl = venues[venue].infl -%}
+    {%- else -%}
+        {%- assign venue_name = item.venue -%}
+        {%- assign venue_short = item.venue_short -%}
+        {%- assign h5 = item.h5 -%}
+        {%- assign infl = item.infl -%}
+    {%- endif -%}
     {%- assign year = item.year -%}
     {%- assign basic_url = item.basic_url -%}
     {%- assign urls = item.urls -%}
 
-<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+    
+    {%- if item.review -%}?{%- endif -%}{%- if item.second -%}†{%- endif -%}<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
     {%- for author in authors -%}
         {%- if know_authors[author.name] -%}
             {%- assign displayname = know_authors[author.name].name -%}
@@ -35,7 +48,10 @@
         {%- endif -%}
     {%- endfor -%}
 <br>
-Pre-print.&nbsp;{{ year }}.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
+<em>{{ venue_name }}</em> {%- if venue_short -%}&nbsp;(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;{{ year }}.&nbsp;
+    {%- if pages -%}
+        {{ pages }} pages.&nbsp;
+    {%- endif -%}
     {%- if h5 or infl -%} [
         {%- if h5 -%}
             h5= {{ h5 }}
@@ -47,6 +63,9 @@ Pre-print.&nbsp;{{ year }}.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- end
             IF= {{ infl }}
         {%- endif -%}
         ]
+    {%- endif -%}
+    {%- if item.other -%}
+    {{ item.other }}.
     {%- endif -%}
     <br>
     {%- if urls -%}

@@ -1,31 +1,43 @@
-{%- assign papers = site.data.preprints -%}
+{%- assign papers = site.data.international_c_papers -%}
+{%- assign venues = site.data.venues -%}
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
 <ol>
 {%- for item in papers -%}
     {%- assign title = item.title -%}
-    {%- assign authors = item.authors -%}
+    {%- assign authors = item.authors_jp -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
+    {%- if venues[venue] -%}
+        {%- assign venue_name = venues[venue].name_jp -%}
+        {%- assign venue_short = venues[venue].short -%}
+        {%- assign h5 = venues[venue].h5 -%}
+        {%- assign infl = venues[venue].infl -%}
+    {%- else -%}
+        {%- assign venue_name = item.venue_jp -%}
+        {%- assign venue_short = item.venue_short -%}
+        {%- assign h5 = item.h5 -%}
+        {%- assign infl = item.infl -%}
+    {%- endif -%}
     {%- assign year = item.year -%}
     {%- assign basic_url = item.basic_url -%}
     {%- assign urls = item.urls -%}
 
-<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+    {%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title_jp }}</strong></a><br>
     {%- for author in authors -%}
         {%- if know_authors[author.name] -%}
-            {%- assign displayname = know_authors[author.name].name -%}
+            {%- assign displayname = know_authors[author.name].name_jp -%}
             {%- assign displayurl = know_authors[author.name].url -%}
         {%- else -%}
-            {%- assign displayname = author.name -%}
+            {%- assign displayname = author.name_jp -%}
             {%- assign displayurl = author.url -%}
         {%- endif -%}
         {%- if forloop.first == false -%}
             ,&nbsp;
         {%- endif -%}
-        {%- if displayname == "Hakaze Cho" or displayname == "Yufeng Zhao" -%}
-            <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">{{ displayname }}</a></strong>
+        {%- if displayname == "Hakaze Cho" or displayname == "Yufeng Zhao" or displayname == "趙羽風" -%}
+            <strong><a href="{{ https://www.hakaze-c.com/ja }}" target="_blank">{{ displayname }}</a></strong>
         {%- else -%}
             {%- if displayurl -%}
                 <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
@@ -35,7 +47,10 @@
         {%- endif -%}
     {%- endfor -%}
 <br>
-Pre-print.&nbsp;{{ year }}.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
+<em>{{ venue_name }}</em> {%- if venue_short -%}&nbsp;(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;{{ year }}.&nbsp;
+    {%- if pages -%}
+        {{ pages }} pages.&nbsp;
+    {%- endif -%}
     {%- if h5 or infl -%} [
         {%- if h5 -%}
             h5= {{ h5 }}
@@ -47,6 +62,9 @@ Pre-print.&nbsp;{{ year }}.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- end
             IF= {{ infl }}
         {%- endif -%}
         ]
+    {%- endif -%}
+    {%- if item.other -%}
+    {{ item.other }}.
     {%- endif -%}
     <br>
     {%- if urls -%}

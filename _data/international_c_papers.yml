@@ -91,7 +91,7 @@
   year: 2022
   basic_url: "https://ieeexplore.ieee.org/abstract/document/10098237"
   pages: 7
-  award: "Outstanding Oral Presentation Award"
+  other: "Outstanding Oral Presentation Award"
   urls:
     - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098237"
       label: "PDF"
