@@ -11,6 +11,8 @@
     - name: "坂井吉弘"
     - name: "井之上直也"
   venue: nlp
+  review: false
+  second: true
   year: 2025
   basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
   pages: 37
