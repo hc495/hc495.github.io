@@ -1,0 +1,19 @@
+1:
+  title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+  authors:
+    - name: "Hakaze Cho"
+      url: 
+    - name: "Mariko Kato"
+    - name: "Yoshihiro Sakai"
+    - name: "Naoya Inoue"
+  venue: "The Thirteenth International Conference on Learning Representations"
+  venue_short: iclr
+  year: 2025
+  basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
+  pages: 37
+  urls:
+    - url: "https://openreview.net/forum?id=xizpnYNvQq"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=xizpnYNvQq"
+      label: "PDF"
+    
