@@ -13,11 +13,11 @@
     {%- endfor -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
-    {%- if venues.venue -%}
-        {%- assign venue_name = venues.venue.name -%}
-        {%- assign venue_short = venues.venue.short -%}
-        {%- assign h5 = venues.venue.h5 -%}
-        {%- assign infl = venues.venue.infl -%}
+    {%- if venues[venue] -%}
+        {%- assign venue_name = venues[venue].name -%}
+        {%- assign venue_short = venues[venue].short -%}
+        {%- assign h5 = venues[venue].h5 -%}
+        {%- assign infl = venues[venue].infl -%}
     {%- else -%}
         {%- assign venue_name = item.venue -%}
         {%- assign venue_short = item.venue_short -%}
