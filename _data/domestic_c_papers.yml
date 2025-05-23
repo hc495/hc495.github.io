@@ -1,4 +1,4 @@
-- title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+- title: "Measuring Intrinsic Dimension of Token Embeddings"
   title_jp: "トークン埋め込みの内在次元を測る"
   authors:
     - name: "Takuya Kataiwa"
@@ -12,7 +12,55 @@
   second: true
   year: 2025
   basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
+  urls:
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
+      label: "PDF"
 
+- title: "Analysis of Internal Representations of Knowledge with Expressions of Familiarity"
+  title_jp: "既知性を示す言語表現を伴う知識に関する内部表象の分析"
+  authors:
+    - name: "Takuya Kataiwa"
+      name_jp: "田中健史朗"
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: me
+    - name: n-inoue
+    - name: "Kai Sato"
+      name_jp: "佐藤魁"
+    - name: "Ryosuke Takahashi"
+      name_jp: "高橋良允"
+    - name: "Benjamin Heinzerling"
+      name_jp: "Benjamin Heinzerling"
+    - name: i-kentaro
+  venue: jsai
+  review: true
+  second: false
+  year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId="
+  urls: 
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId="
+      label: "PDF"
+
+- title: "Internal Representations of Knowledge Recognition in Language Models"
+  title_jp: "言語モデルにおける知識の既知性判断の内部表象"
+  authors:
+    - name: "Kai Sato"
+      name_jp: "佐藤魁"
+    - name: "Ryosuke Takahashi"
+      name_jp: "高橋良允"
+    - name: "Benjamin Heinzerling"
+      name_jp: "Benjamin Heinzerling"
+    - name: "Takuya Kataiwa"
+      name_jp: "田中健史朗"
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+    - name: i-kentaro
+  venue: jsai
+  review: true
+  second: false
+  year: 2025
 
 - title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
   title_jp: "大規模言語モデルにおける In-context Learning の推論回路"
@@ -30,9 +78,192 @@
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A7-4.pdf"
   pages: 6
   urls:
-    - url: "https://openreview.net/pdf?id=xizpnYNvQq"
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A7-4.pdf"
       label: "PDF"
     - url: "https://drive.google.com/file/d/1tSBHQgnDcuti2pZcE-KxJX90NZPthFo6/view"
       label: "Slides"
   other: "(Oral) <span style='color:red'>Outstanding Paper Award</span>"
   other_jp: "(Oral) <span style='color:red'>優秀賞</span>"
+
+- title: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
+  title_jp: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
+  authors:
+    - name: me
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf"
+  pages: 5
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf"
+      label: "PDF"
+    - url: "https://drive.google.com/file/d/1CbeDjvkeSg8x0FObvuePCKkhfkjXVcf9/view"
+      label: "Poster"
+
+- title: "Measuring Intrinsic Dimension of Token Embeddings"
+  title_jp: "埋め込み表現の内在次元を測る"
+  authors:
+    - name: "Takuya Kataiwa"
+      name_jp: "片岩拓也"
+    - name: me
+    - name: "Tetsushi Ohki"
+      name_jp: "大木哲史"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  venue: nlp
+  review: false
+  second: true
+  pages: 5
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf"
+      label: "PDF"
+
+- title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
+  title_jp: "文脈内学習におけるデモの親和性と多様性の提案"
+  authors:
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  pages: 6
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf"
+      label: "PDF"
+
+- title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
+  title_jp: "StaICC: 文脈内学習における分類タスクの標準的なベンチマーク"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: n-inoue
+  venue: yans
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view"
+  urls:
+    - url: "https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view"
+      label: "Poster"
+  other: "(Poster Only)"
+  other_jp: "(Poster Only)"
+
+- title: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
+  title_jp: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
+  authors:
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: me
+    - name: "Zhenzhu Yan"
+      name_jp: "閻真竺"
+    - name: "Yuting Shi"
+      name_jp: "石钰婷"
+    - name: n-inoue
+  venue: yans
+  review: false
+  second: false
+  year: 2025
+  other: "(Poster Only)"
+  other_jp: "(Poster Only)"
+
+- title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  title_jp: "In-context Learning におけるトークンベース較正手法の用いる決定境界は最適でない"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: "Kenshiro Tanaka"
+      name_jp: "田中健史朗"
+    - name: "Akira Ishii"
+      name_jp: "石井晶"
+    - name: n-inoue
+  venue_jp: 情報処理学会NL研第260回研究発表会
+  venue: The 260th SIG for Natural Language, Information Processing Society of Japan
+  venue_short: (SIG-NL260, IPSJ)
+  review: false
+  second: true
+  pages: 17
+  year: 2024
+  other: "(Oral) <span style='color:red'>Research Award for Young Scholars</span>"
+  other_jp: "(Oral) <span style='color:red'>若手奨励賞</span>"
+  basic_url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
+  urls:
+    - url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
+      label: "PDF"
+    - url: "https://docs.google.com/presentation/d/17D59UYZBZ4OHpqoA3lKHPfNyqNifU7MZ/edit?slide=id.p1#slide=id.p1"
+      label: "Slides"
+
+- title: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
+  title_jp: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  year: 2024
+  pages: 6
+  other: "(Oral)"
+  other_jp: "(Oral)"
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
+      label: "PDF"
+    - url: "https://drive.google.com/file/d/1E7HCA78rmTzUZPspck_RzMm9Lw5ttDLw/view"
+      label: "Slides"
+
+- title: "In-context Learning においてLLMはフォーマットを学べるか"
+  title_jp: "In-context Learning においてLLMはフォーマットを学べるか"
+  authors:
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: me
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: false
+  pages: 6
+  year: 2024
+  other: "(Oral) <span style='color:red'>SB Intuitions Awards</span>"
+  other_jp: "(Oral) <span style='color:red'>スポンサー賞</span>"
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
+      label: "PDF"
+
+- title: "Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models"
+  title_jp: "Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models"
+  authors:
+    - name: "Yuting Shi"
+      name_jp: "Yuting Shi"
+    - name: n-inoue
+    - name: "Houjing Wei"
+      name_jp: "Houjing Wei"
+    - name: me
+    - name: "Tao Jin"
+      name_jp: "Tao Jin"
+  venue: nlp
+  review: false
+  second: true
+  pages: 6
+  year: 2024
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf"
+      label: "PDF"
