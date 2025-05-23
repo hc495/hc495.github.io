@@ -1,5 +1,5 @@
 iclr:
-  - name: "The Thirteenth International Conference on Learning Representations"
-  - short: "ICLR"
-  - h5: 304
-  - infl: 48.9
+  name: "The Thirteenth International Conference on Learning Representations"
+  short: "ICLR"
+  h5: 304
+  infl: 48.9
