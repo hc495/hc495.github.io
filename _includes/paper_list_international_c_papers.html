@@ -3,11 +3,13 @@
 {%- assign know_authors = site.data.authors -%}
 {%- if papers -%}
 <ol>
+{{know_authors}}
+{{venues}}
 {%- for item in papers -%}
     {%- assign title = item.title -%}
     {%- assign authors = item.authors -%}
     {%- for author in authors -%}
-        {%- if know_authors.author -%}
+        {%- if know_authors[author] -%}
             {%- assign authors[author] = know_authors[author] -%}
         {%- endif -%}
     {%- endfor -%}
