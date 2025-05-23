@@ -4,8 +4,7 @@
     - name: "Mariko Kato"
     - name: "Yoshihiro Sakai"
     - name: "Naoya Inoue"
-  venue: "The Thirteenth International Conference on Learning Representations"
-  venue_short: iclr
+  venue: iclr
   year: 2025
   basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
   pages: 37
