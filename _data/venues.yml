@@ -22,16 +22,16 @@ lrec:
   h5: 59
 
 nlp:
-  name_jp: "ÑÔÕZ„IÀíÑ§»áÄê´Î´ó»á"
+  name_jp: "è¨€èªå‡¦ç†å­¦ä¼šå¹´æ¬¡å¤§ä¼š"
   name: "The Annual Conference of the Association for Natural Language Processing"
   short: "NLP"
 
 jsai:
-  name_jp: "ÈË¹¤ÖªÄÜÑ§»áÈ«¹ú´ó»á"
+  name_jp: "äººå·¥çŸ¥èƒ½å­¦ä¼šå…¨å›½å¤§ä¼š"
   name: "The Annual Conference of the Japanese Society for Artificial Intelligence"
   short: "JSAI"
 
 yans:
-  name_jp: "ÑÔÕZ„IÀíÈôÊÖ¥·¥ó¥İ¥¸¥¦¥à"
+  name_jp: "è¨€èªå‡¦ç†è‹¥æ‰‹ã‚·ãƒ³ãƒã‚¸ã‚¦ãƒ "
   name: "The Young Researchers' Workshop of the Association for Natural Language Processing"
   short: "YANS"
