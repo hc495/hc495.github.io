@@ -5,7 +5,7 @@
 {%- if papers -%}
 <ol>
 {%- for item in papers -%}
-    {%- assign title = item.title -%}
+    {%- assign title = item.author_jp -%}
     {%- assign authors = item.authors_jp -%}
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
@@ -24,14 +24,14 @@
     {%- assign basic_url = item.basic_url -%}
     {%- assign urls = item.urls -%}
 
-    <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title_jp }}</strong></a><br>
+    <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
     {%- for author in authors -%}
-        {%- if know_authors[author.name] -%}
-            {%- assign displayname = know_authors[author.name].name_jp -%}
-            {%- assign displayurl = know_authors[author.name].url -%}
+        {%- if know_authors[author_jp.name] -%}
+            {%- assign displayname = know_authors[author_jp.name].name_jp -%}
+            {%- assign displayurl = know_authors[author_jp.name].url -%}
         {%- else -%}
-            {%- assign displayname = author.name_jp -%}
-            {%- assign displayurl = author.url -%}
+            {%- assign displayname = author_jp.name -%}
+            {%- assign displayurl = author_jp.url -%}
         {%- endif -%}
         {%- if forloop.first == false -%}
             ,&nbsp;

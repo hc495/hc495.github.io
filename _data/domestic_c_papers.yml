@@ -1,4 +1,23 @@
 - title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+  title_jp: "トークン埋め込みの内在次元を測る"
+  authors:
+    - name: "Takuya Kataiwa"
+    - name: me
+    - name: "Tetsushi Ohki"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  authors_jp:
+    - name: "片岩拓也"
+    - name: me
+    - name: "大木哲史"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  venue: jsai
+  review: true
+  second: true
+  year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
+
+
+- title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
   title_jp: "大規模言語モデルにおける In-context Learning の推論回路"
   authors:
     - name: me
@@ -15,7 +34,7 @@
   second: true
   year: 2025
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A7-4.pdf"
-  pages: 37
+  pages: 6
   urls:
     - url: "https://openreview.net/pdf?id=xizpnYNvQq"
       label: "PDF"
