@@ -1,5 +1,5 @@
 - title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
-  title_jp: "´óÒÄ£ÑÔÕZ¥â¥Ç¥ë¤Ë¤ª¤±¤ë In-context Learning ¤ÎÍÆÕ“»ØÂ·"
+  title_jp: "å¤§è¦æ¨¡è¨€èªãƒ¢ãƒ‡ãƒ«ã«ãŠã‘ã‚‹ In-context Learning ã®æ¨è«–å›è·¯"
   authors:
     - name: me
     - name: "Mariko Kato"
@@ -7,9 +7,9 @@
     - name: n-inoue
   authors_jp:
     - name: me
-    - name: "¼ÓÌÙÍòÀí×Ó"
-    - name: "Ûà¾®¼ªºë"
-    - name: "¾®Ö®ÉÏÖ±Ò²"
+    - name: "åŠ è—¤ä¸‡ç†å­"
+    - name: "å‚äº•å‰å¼˜"
+    - name: "äº•ä¹‹ä¸Šç›´ä¹Ÿ"
   venue: nlp
   year: 2025
   basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
