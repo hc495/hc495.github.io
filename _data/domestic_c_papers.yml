@@ -2,13 +2,10 @@
   title_jp: "トークン埋め込みの内在次元を測る"
   authors:
     - name: "Takuya Kataiwa"
+      name_jp: "片岩拓也"
     - name: me
     - name: "Tetsushi Ohki"
-      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
-  authors_jp:
-    - name: "片岩拓也"
-    - name: me
-    - name: "大木哲史"
+      name_jp: "大木哲史"
       url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
   venue: jsai
   review: true
