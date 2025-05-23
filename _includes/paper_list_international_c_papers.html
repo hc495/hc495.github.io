@@ -25,9 +25,9 @@
     {%- assign urls = item.urls -%}
 
     {%- if item.basic_url -&}
-<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+        <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
     {%- else -%}
-<li><strong>{{ title }}</strong><br>
+        <li><strong>{{ title }}</strong><br>
     {%- endif -%}
     {%- for author in authors -%}
         {%- if know_authors[author.name] -%}
