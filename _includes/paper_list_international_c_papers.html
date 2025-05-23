@@ -27,7 +27,7 @@
 
 <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
 {%- for author in authors -%}
-    {%- if know_authors[author] -%}
+    {%- if know_authors[author.name] -%}
         {%- assign author = know_authors[author] -%}
         {{ author }}
     {%- endif -%}
