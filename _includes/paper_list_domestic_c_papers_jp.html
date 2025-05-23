@@ -26,12 +26,12 @@
 
     <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
     {%- for author in authors -%}
-        {%- if know_authors[authors.name] -%}
-            {%- assign displayname = know_authors[authors.name].name_jp -%}
-            {%- assign displayurl = know_authors[authors.name].url -%}
+        {%- if know_authors[author.name] -%}
+            {%- assign displayname = know_authors[author.name].name_jp -%}
+            {%- assign displayurl = know_authors[author.name].url -%}
         {%- else -%}
-            {%- assign displayname = authors.name_jp -%}
-            {%- assign displayurl = authors.url -%}
+            {%- assign displayname = author.name_jp -%}
+            {%- assign displayurl = author.url -%}
         {%- endif -%}
         {%- if forloop.first == false -%}
             ,&nbsp;
