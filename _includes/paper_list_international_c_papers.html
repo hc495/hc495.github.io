@@ -7,7 +7,7 @@
         {% assign title = item.title %}
         {% assign authors = item.authors %}
         {% for author in authors %}
-            {% know_authors.author %}
+            {% if know_authors.author %}
                 {% assign author = know_authors[author] %}
             {% endif %}
         {% endfor %}
