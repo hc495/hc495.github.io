@@ -160,7 +160,7 @@
   other: "Poster Only"
   other_jp: "Poster Only"
 
-- title: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
+- title: "Image Feature Vectors are Frozen Informative Tokens for Language Models"
   title_jp: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
   authors:
     - name: "Mariko Kato"
@@ -229,7 +229,7 @@
     - url: "https://drive.google.com/file/d/1E7HCA78rmTzUZPspck_RzMm9Lw5ttDLw/view"
       label: "Slides"
 
-- title: "In-context Learning においてLLMはフォーマットを学べるか"
+- title: "Can LLM Learn Prompt Format in In-context Learning?"
   title_jp: "In-context Learning においてLLMはフォーマットを学べるか"
   authors:
     - name: "Yoshihiro Sakai"
