@@ -40,15 +40,14 @@
             <strong><a href="{{ https://www.hakaze-c.com/ }}" target="_blank">{{ displayname }}</a></strong>
         {%- else -%}
             {%- if displayurl -%}
-                <a href="{{ displayurl }}" target="_blank">{{ author.name }}</a>
+                <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
             {%- else -%}
                 {{ displayname }}
             {%- endif -%}
         {%- endif -%}
     {%- endfor -%}
 <br>
-<em>{{ venue_name }}</em> (<strong>{{ venue_short }}</strong>).&nbsp;
-{{ year }}.&nbsp;
+<em>{{ venue_name }}</em> (<strong>{{ venue_short }}</strong>).&nbsp;{{ year }}.&nbsp;
     {%- if pages -%}
         {{ pages }} pages.&nbsp;
     {%- endif -%}

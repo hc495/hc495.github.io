@@ -47,7 +47,8 @@ title: "趙 羽風"
 
 ### 国際会議
 
-{% include_relative publication_list/international_conference.md %}
+<!-- {% include_relative publication_list/international_conference.md %} -->
+{% include_relative _includes/paper_list_international_c_papers.html %}
 
 ### プレプリント
 
