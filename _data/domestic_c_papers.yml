@@ -193,7 +193,7 @@
     - name: n-inoue
   venue_jp: 情報処理学会NL研第260回研究発表会
   venue: The 260th SIG for Natural Language, Information Processing Society of Japan
-  venue_short: (SIG-NL260, IPSJ)
+  venue_short: SIG-NL260, IPSJ
   review: false
   second: true
   pages: 17
@@ -210,7 +210,8 @@
 - title: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
   title_jp: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
   authors:
-    - name: me
+    - name: "Yufeng Zhao"
+      name_jp: "趙羽風"
     - name: "Yoshihiro Sakai"
       name_jp: "坂井吉弘"
     - name: n-inoue
@@ -240,8 +241,8 @@
   second: false
   pages: 6
   year: 2024
-  other: "(Oral) <span style='color:red'>SB Intuitions Awards</span>"
-  other_jp: "(Oral) <span style='color:red'>スポンサー賞</span>"
+  other: "<span style='color:red'>SB Intuitions Awards</span>"
+  other_jp: "<span style='color:red'>スポンサー賞</span>"
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
   urls:
     - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
