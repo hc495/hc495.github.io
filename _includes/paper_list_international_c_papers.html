@@ -9,7 +9,6 @@
     {%- assign venue = item.venue -%}
     {%- assign pages = item.pages -%}
     {%- if venues[venue] -%}
-        {{ venues[venue] }}
         {%- assign venue_name = venues[venue][name] -%}
         {%- assign venue_short = venues[venue][short] -%}
         {%- assign h5 = venues[venue][h5] -%}
