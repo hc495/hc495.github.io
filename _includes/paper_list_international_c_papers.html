@@ -47,7 +47,7 @@
         {%- endif -%}
     {%- endfor -%}
 <br>
-<em>{{ venue_name }}</em> (<strong>{{ venue_short }}</strong>).&nbsp;{{ year }}.&nbsp;
+<em>{{ venue_name }}</em> {%- if venue_short -%}(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;{{ year }}.&nbsp;
     {%- if pages -%}
         {{ pages }} pages.&nbsp;
     {%- endif -%}
