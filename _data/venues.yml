@@ -3,3 +3,12 @@ iclr:
   short: "ICLR"
   h5: 304
   infl: 48.9
+
+naacl:
+  name: "The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL"
+  short: "NAACL.main"
+  h5: 132
+  infl: 16.5
+
+coling:
+  
