@@ -45,19 +45,16 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### International Conference
 
-<!-- {% include_relative publication_list/international_conference.md %} -->
 {% include_relative _includes/paper_list_international_c_papers.html %}
 
 ### Pre-print
 
-<!-- {% include_relative publication_list/preprint.md %} -->
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 
 <!-- ### <a title="(† = Japan-domestic Secondary Publication for Conference Papers; Default: Non-refereed,▲= Refereed)">Domestic Conferences / Miscellaneous</a><br><span style="font-size:0.8em">(† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed,▲= Refereed)</span> -->
 
 ### Domestic Conferences / Miscellaneous<br><span style="font-size:0.8em">(† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed)</span>
 
-<!-- {% include_relative publication_list/domestic_conference.md %} -->
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
 
 
