@@ -57,13 +57,13 @@
     {%- endif -%}
     {%- if h5 or infl -%} [
         {%- if h5 -%}
-            h5= {{ h5 }}
+            h5={{ h5 }}
         {%- endif -%}
         {%- if h5 and infl -%}
             ,&nbsp;
         {%- endif -%}
         {%- if infl -%}
-            IF= {{ infl }}
+            IF={{ infl }}
         {%- endif -%}
         ]
     {%- endif -%}
