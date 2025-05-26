@@ -1,37 +1,37 @@
 iclr:
-  name: "The Thirteenth International Conference on Learning Representations"
+  name: "International Conference on Learning Representations"
   short: "ICLR"
   h5: 304
   infl: 48.9
 
 naacl:
-  name: "The Annual Conference of the Nations of the Americas Chapter of the ACL"
+  name: "Annual Conference of the Nations of the Americas Chapter of the ACL"
   short: "NAACL.main"
   h5: 132
   infl: 16.5
 
 coling:
-  name: "The Conference on Computational Linguistics"
+  name: "International Conference on Computational Linguistics"
   short: "COLING"
   h5: 65
   infl: 7.7
 
 lrec:
-  name: "The Conference on Language Resources and Evaluation"
+  name: "International Conference on Language Resources and Evaluation"
   short: "LREC"
   h5: 59
 
 nlp:
   name_jp: "言語処理学会年次大会"
-  name: "The Annual Conference of the Association for Natural Language Processing"
+  name: "Annual Conference of the Association for Natural Language Processing"
   short: "NLP"
 
 jsai:
   name_jp: "人工知能学会全国大会"
-  name: "The Annual Conference of the Japanese Society for Artificial Intelligence"
+  name: "Annual Conference of the Japanese Society for Artificial Intelligence"
   short: "JSAI"
 
 yans:
   name_jp: "言語処理若手シンポジウム"
-  name: "The Young Researchers' Workshop of the Association for Natural Language Processing"
+  name: "Young Researchers' Workshop of the Association for Natural Language Processing"
   short: "YANS"
