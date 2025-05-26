@@ -63,7 +63,7 @@
     - url: "https://arxiv.org/abs/2406.01468"
       label: "arXiv"
     - url: "https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view"
-      label: "Github"
+      label: "Poster"
 
 - title: "Understanding Token Probability Encoding in Output Embeddings"
   authors:
