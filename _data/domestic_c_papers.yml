@@ -82,7 +82,7 @@
       label: "PDF"
     - url: "https://drive.google.com/file/d/1tSBHQgnDcuti2pZcE-KxJX90NZPthFo6/view"
       label: "Slides"
-  other: "Oral, <span style='color:red'>Outstanding Paper Award</span>"
+  other: "Oral, <span style='color:red'>Outstanding Paper</span>"
   other_jp: "Oral, <span style='color:red'>優秀賞</span>"
 
 - title: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
