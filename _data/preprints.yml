@@ -1,3 +1,18 @@
+- title: "Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning"
+  authors:
+    - name: "Haolin Yang"
+    - name: me
+    - name: "Yiqiao Zhong"
+    - name: n-inoue
+  year: 2025
+  basic_url: "https://arxiv.org/abs/2505.18752"
+  pages: 45
+  urls:
+    - url: "https://arxiv.org/pdf/2505.18752"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2505.18752"
+      label: "arXiv"
+
 - title: "Mechanistic Fine-tuning for In-context Learning"
   authors:
     - name: me

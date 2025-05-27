@@ -253,10 +253,12 @@
   authors:
     - name: "Yuting Shi"
       name_jp: "Yuting Shi"
-    - name: n-inoue
+    - name: "Naoya Inoue"
+      name_jp: "Naoya Inoue"
+      url: "https://naoya-i.info/"
     - name: "Houjing Wei"
       name_jp: "Houjing Wei"
-    - name: me
+    - name: "Yufeng Zhao"
     - name: "Tao Jin"
       name_jp: "Tao Jin"
   venue: nlp
