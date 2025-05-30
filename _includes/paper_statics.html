@@ -18,10 +18,10 @@
     {%- assign pages = item.pages -%}
     {%- assign h5 = item.venues[venue].h5 -%}
     {%- if pages -%}
-        {%- assign sumpages = pages | plus: item.pages -%}
+        {%- assign sumpages = sumpages | plus: item.pages -%}
     {%- endif -%}
     {%- if h5 -%}
-        {%- assign sumh5 = h5 | plus: item.venues[venue].h5 -%}
+        {%- assign sumh5 = sumh5 | plus: item.venues[venue].h5 -%}
     {%- endif -%}
 {%- endfor -%}
 
