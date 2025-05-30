@@ -45,6 +45,8 @@ title: "趙 羽風"
 
 ## 論文一覧
 
+{% include_relative _includes/paper_statics.html %}
+
 ### 国際会議
 
 {% include_relative _includes/paper_list_international_c_papers.html %}

@@ -43,6 +43,8 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Publications
 
+{% include_relative _includes/paper_statics.html %}
+
 ### International Conference
 
 {% include_relative _includes/paper_list_international_c_papers.html %}

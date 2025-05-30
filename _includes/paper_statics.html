@@ -1,0 +1,28 @@
+{%- assign papers_c = site.data.domestic_c_papers -%}
+{%- assign papers_p = site.data.preprints -%}
+{%- assign papers_i = site.data.international_c_papers -%}
+
+{%- assign papers_all = papers_c | concat: papers_p | concat: papers_i -%}
+
+{%- assign count_c = papers_c | size -%}
+{%- assign count_p = papers_p | size -%}
+{%- assign count_i = papers_i | size -%}
+
+{%- assign count_total = count_c | plus: count_p | plus: count_i -%}
+
+{%- assign pages = 0 -%}
+{%- assign h5 = 0 -%}
+
+
+{%- for item in papers_all -%}
+    {%- assign pages = item.pages -%}
+    {%- assign h5 = item.venues[venue].h5 -%}
+    {%- if pages -%}
+        {%- assign pages = pages | plus: item.pages -%}
+    {%- endif -%}
+    {%- if h5 -%}
+        {%- assign h5 = h5 | plus: item.venues[venue].h5 -%}
+    {%- endif -%}
+{%- endfor -%}
+
+Total Papers: {{ count_total }}, Cumulative IF: {{ h5 }}, Total Pages: {{ pages }}.

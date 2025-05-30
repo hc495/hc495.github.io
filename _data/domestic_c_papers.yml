@@ -61,6 +61,10 @@
   review: true
   second: false
   year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/1Win4-18/tables?cryptoId="
+  urls:
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/1Win4-18/tables?cryptoId="
+      label: "PDF"
 
 - title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
   title_jp: "大規模言語モデルにおける In-context Learning の推論回路"
