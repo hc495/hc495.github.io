@@ -24,7 +24,7 @@
         {%- assign infl = item.infl -%}
     {%- endif -%}
     {%- if pages -%}
-        {%- assign sumpages = sumpages | plus: infl -%}
+        {%- assign sumpages = sumpages | plus: pages -%}
     {%- endif -%}
     {%- if infl -%}
         {%- assign suminfl = suminfl | plus: infl -%}

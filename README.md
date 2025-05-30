@@ -60,7 +60,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
 
 
-### Thesis
+### (Thesis)
 
 1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
     Yufeng Zhao   

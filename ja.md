@@ -59,7 +59,7 @@ title: "趙 羽風"
 
 {% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
 
-### 学位論文
+### (学位論文)
 
 1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
     Yufeng Zhao   
