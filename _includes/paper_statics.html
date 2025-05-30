@@ -17,6 +17,7 @@
 
 {%- for item in papers_all -%}
     {%- assign pages = item.pages -%}
+    {%- assign venue = item.venue -%}
     {%- if venues[venue] -%}
         {%- assign infl = venues[venue].infl -%}
     {%- else -%}
