@@ -24,10 +24,10 @@
         {%- assign infl = item.infl -%}
     {%- endif -%}
     {%- if pages -%}
-        {%- assign sumpages = sumpages | plus: item.pages -%}
+        {%- assign sumpages = sumpages | plus: infl -%}
     {%- endif -%}
     {%- if infl -%}
-        {%- assign suminfl = suminfl | plus: item.venues[venue].infl -%}
+        {%- assign suminfl = suminfl | plus: infl -%}
     {%- endif -%}
 {%- endfor -%}
 
