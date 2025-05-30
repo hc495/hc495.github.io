@@ -8,6 +8,7 @@
       name_jp: "大木哲史"
       url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
   venue: jsai
+  pages: 4
   review: true
   second: true
   year: 2025
@@ -33,6 +34,7 @@
       name_jp: "Benjamin Heinzerling"
     - name: i-kentaro
   venue: jsai
+  pages: 4
   review: true
   second: false
   year: 2025
@@ -58,6 +60,7 @@
     - name: n-inoue
     - name: i-kentaro
   venue: jsai
+  pages: 4
   review: true
   second: false
   year: 2025
