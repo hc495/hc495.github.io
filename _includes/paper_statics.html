@@ -1,6 +1,7 @@
 {%- assign papers_c = site.data.domestic_c_papers -%}
 {%- assign papers_p = site.data.preprints -%}
 {%- assign papers_i = site.data.international_c_papers -%}
+{%- assign venues = site.data.venues -%}
 
 {%- assign papers_all = papers_c | concat: papers_p | concat: papers_i -%}
 
@@ -16,7 +17,11 @@
 
 {%- for item in papers_all -%}
     {%- assign pages = item.pages -%}
-    {%- assign infl = item.venues[venue].infl -%}
+    {%- if venues[venue] -%}
+        {%- assign infl = venues[venue].infl -%}
+    {%- else -%}
+        {%- assign infl = item.infl -%}
+    {%- endif -%}
     {%- if pages -%}
         {%- assign sumpages = sumpages | plus: item.pages -%}
     {%- endif -%}
