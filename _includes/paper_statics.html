@@ -10,19 +10,19 @@
 
 {%- assign count_total = count_c | plus: count_p | plus: count_i -%}
 
-{%- assign pages = 0 -%}
-{%- assign h5 = 0 -%}
+{%- assign sumpages = 0 -%}
+{%- assign sumh5 = 0 -%}
 
 
 {%- for item in papers_all -%}
     {%- assign pages = item.pages -%}
     {%- assign h5 = item.venues[venue].h5 -%}
     {%- if pages -%}
-        {%- assign pages = pages | plus: item.pages -%}
+        {%- assign sumpages = pages | plus: item.pages -%}
     {%- endif -%}
     {%- if h5 -%}
-        {%- assign h5 = h5 | plus: item.venues[venue].h5 -%}
+        {%- assign sumh5 = h5 | plus: item.venues[venue].h5 -%}
     {%- endif -%}
 {%- endfor -%}
 
-Total Papers: {{ count_total }}, Cumulative IF: {{ h5 }}, Total Pages: {{ pages }}.
+Total Papers: {{ count_total }}, Cumulative IF: {{ sumh5 }}, Total Pages: {{ sumpages }}.
