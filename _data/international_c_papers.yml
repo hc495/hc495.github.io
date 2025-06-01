@@ -22,12 +22,12 @@
   abstract: "In-context Learning (ICL) is an emerging few-shot learning paradigm on Language Models (LMs) with inner mechanisms un-explored. There are already existing works describing the inner processing of ICL, while they struggle to capture all the inference phenomena in large language models. Therefore, this paper proposes a comprehensive circuit to model the inference dynamics and try to explain the observed phenomena of ICL. In detail, we divide ICL inference into 3 major operations: (1) Input Text Encode: LMs encode every input text (in the demonstrations and queries) into linear representation in the hidden states with sufficient information to solve ICL tasks. (2) Semantics Merge: LMs merge the encoded representations of demonstrations with their corresponding label tokens to produce joint representations of labels and demonstrations. (3) Feature Retrieval and Copy: LMs search the joint representations of demonstrations similar to the query representation on a task subspace, and copy the searched representations into the query. Then, language model heads capture these copied label representations to a certain extent and decode them into predicted labels. Through careful measurements, the proposed inference circuit successfully captures and unifies many fragmented phenomena observed during the ICL process, making it a comprehensive and practical explanation of the ICL inference process. Moreover, ablation analysis by disabling the proposed steps seriously damages the ICL performance, suggesting the proposed inference circuit is a dominating mechanism. Additionally, we confirm and list some bypass mechanisms that solve ICL tasks in parallel with the proposed circuit."
   id: "iclr1"
   bibtex: |
-    @inproceedings{cho2025revisiting,
-      title={Revisiting In-context Learning Inference Circuit in Large Language Models},
-      author={Hakaze Cho and Mariko Kato and Yoshihiro Sakai and Naoya Inoue},
-      booktitle={The Thirteenth International Conference on Learning Representations},
-      year={2025},
-      url={https://openreview.net/forum?id=xizpnYNvQq}
+    @inproceedings{cho2025revisiting,\n
+      title={Revisiting In-context Learning Inference Circuit in Large Language Models},\n
+      author={Hakaze Cho and Mariko Kato and Yoshihiro Sakai and Naoya Inoue},\n
+      booktitle={The Thirteenth International Conference on Learning Representations},\n
+      year={2025},\n
+      url={https://openreview.net/forum?id=xizpnYNvQq}\n
     }
 
 - title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
