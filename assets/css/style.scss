@@ -124,6 +124,10 @@ ul {
     // transform: translate(0px, -52px);
 }
 
+.collapse {
+    display: none;
+}
+
 @media (max-width: 640px) {
     .markdown-body h1 {
         font-size: 1.5em;
@@ -150,17 +154,10 @@ ul {
         margin-top: 0em;
         margin-bottom: 0em;
     }
-}
-
-.collapse {
-    display: none;
-}
-
-.details-panel {
-    margin: 10px;
-    padding: 3px 8px 3px 8px;
-    font-size: 16px;
-    border-radius: 8px;
-    background-color: #e9f4ff;
-    text-align: justify;
+    .details-panel {
+        margin: 5px;
+        padding: 3px 8px 3px 8px;
+        font-size: 83%;
+        border-radius: 4px;
+    }
 }
