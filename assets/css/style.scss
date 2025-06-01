@@ -34,10 +34,12 @@ a, .collapse-clicker {
     &:hover {
         color: #3580ff;
         text-decoration: underline;
+        cursor: pointer;
     }
 
     &:active {
         color: #070a7d;
+        cursor: pointer;
     }
 }
 
