@@ -45,6 +45,8 @@
       label: "Github"
     - url: "https://drive.google.com/file/d/1bD4cWT50GeW1DxABqoLPV7Ljbw12BgrE/view"
       label: "Poster"
+  abstract: "In-Context Learning (ICL) typically utilizes classification criteria from output probabilities of manually selected label tokens. However, we argue that such token-based classification criteria lead to suboptimal decision boundaries, despite delicate calibrations through translation and constrained rotation applied. To address this problem, we propose Hidden Calibration, which renounces token probabilities and uses the nearest centroid classifier on the LM’s last hidden states. In detail, we assign the label of the nearest centroid previously estimated from a calibration set to the test sample as the predicted label. Our experiments on 6 models and 10 classification datasets indicate that Hidden Calibration consistently outperforms current token-based baselines by about 20%~50%, achieving a strong state-of-the-art in ICL. Our further analysis demonstrates that Hidden Calibration finds better classification criteria with less inter-class overlap, and LMs provide linearly separable intra-class clusters with the help of demonstrations, which supports Hidden Calibration and gives new insights into the principle of ICL. Our official code implementation can be found at https://github.com/hc495/Hidden_Calibration."
+  id: "naacl1"
 
 - title: "Understanding Token Probability Encoding in Output Embeddings"
   authors:
@@ -66,8 +68,10 @@
       label: "arXiv"
     - url: "https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view"
       label: "Poster"
+  abstract: "In this paper, we investigate the output token probability information in the output embedding of language models. We find an approximate common log-linear encoding of output token probabilities within the output embedding vectors and empirically demonstrate that it is accurate and sparse. As a causality examination, we steer the encoding in output embedding to modify the output probability distribution accurately. Moreover, the sparsity we find in output probability encoding suggests that a large number of dimensions in the output embedding do not contribute to causal language modeling. Therefore, we attempt to delete the output-unrelated dimensions and find more than 30% of the dimensions can be deleted without significant movement in output distribution and sequence generation. Additionally, in the pre-training dynamics of language models, we find that the output embeddings capture the corpus token frequency information in early steps, even before an obvious convergence of parameters starts."
+  id: "coling1"
 
-- title: "Understanding Token Probability Encoding in Output Embeddings"
+- title: "Find-the-Common: A Benchmark for Explaining Visual Patterns from Images"
   authors:
     - name: "Yuting Shi"
     - name: n-inoue
@@ -83,6 +87,8 @@
       label: "ACL Anthology"
     - url: "https://aclanthology.org/2024.lrec-main.642.pdf"
       label: "PDF"
+  abstract: "Recent advances in Instruction-fine-tuned Vision and Language Models (IVLMs), such as GPT-4V and InstructBLIP, have prompted some studies have started an in-depth analysis of the reasoning capabilities of IVLMs. However, Inductive Visual Reasoning, a vital skill for text-image understanding, remains underexplored due to the absence of benchmarks. In this paper, we introduce Find-the-Common (FTC): a new vision and language task for Inductive Visual Reasoning. In this task, models are required to identify an answer that explains the common attributes across visual scenes. We create a new dataset for the FTC and assess the performance of several contemporary approaches including Image-Based Reasoning, Text-Based Reasoning, and Image-Text-Based Reasoning with various models. Extensive experiments show that even state-of-the-art models like GPT-4V can only archive with 48% accuracy on the FTC, for which, the FTC is a new challenge for the visual reasoning research community. Our dataset has been released and is available online: https://github.com/SSSSSeki/Find-the-common."
+  id: "lrec1"
 
 - title: "Methods to Enhance BERT in Aspect-Based Sentiment Classification"
   authors:
