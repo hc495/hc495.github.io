@@ -23,11 +23,11 @@
   id: "iclr1"
   bibtex: |
     @inproceedings{cho2025revisiting,<br>
-      title={Revisiting In-context Learning Inference Circuit in Large Language Models},<br>
-      author={Hakaze Cho and Mariko Kato and Yoshihiro Sakai and Naoya Inoue},<br>
-      booktitle={The Thirteenth International Conference on Learning Representations},<br>
-      year={2025},<br>
-      url={https://openreview.net/forum?id=xizpnYNvQq}<br>
+      &emsp;title={Revisiting In-context Learning Inference Circuit in Large Language Models},<br>
+      &emsp;author={Hakaze Cho and Mariko Kato and Yoshihiro Sakai and Naoya Inoue},<br>
+      &emsp;booktitle={The Thirteenth International Conference on Learning Representations},<br>
+      &emsp;year={2025},<br>
+      &emsp;url={https://openreview.net/forum?id=xizpnYNvQq}<br>
     }
 
 - title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
