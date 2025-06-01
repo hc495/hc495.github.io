@@ -14,6 +14,13 @@
       label: "arXiv"
   abstract: "The unusual properties of in-context learning (ICL) have prompted investigations into the internal mechanisms of large language models. Prior work typically focuses on either special attention heads or task vectors at specific layers, but lacks a unified framework linking these components to the evolution of hidden states across layers that ultimately produce the model's output. In this paper, we propose such a framework for ICL in classification tasks by analyzing two geometric factors that govern performance: the separability and alignment of query hidden states. A fine-grained analysis of layer-wise dynamics reveals a striking two-stage mechanism: separability emerges in early layers, while alignment develops in later layers. Ablation studies further show that Previous Token Heads drive separability, while Induction Heads and task vectors enhance alignment. Our findings thus bridge the gap between attention heads and task vectors, offering a unified account of ICL's underlying mechanisms."
   id: "nips1"
+  bibtex: |
+    @article{yang2025unifying,<br>
+      &emsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
+      &emsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
+      &emsp;journal={arXiv preprint arXiv:2505.18752},<br>
+      &emsp;year={2025}<br>
+    }
 
 - title: "Mechanistic Fine-tuning for In-context Learning"
   authors:
@@ -32,6 +39,13 @@
       label: "arXiv"
   abstract: "In-context Learning (ICL) utilizes structured demonstration-query inputs to induce few-shot learning on Language Models (LMs), which are not originally pre-trained on ICL-style data. To bridge the gap between ICL and pre-training, some approaches fine-tune LMs on large ICL-style datasets by an end-to-end paradigm with massive computational costs. To reduce such costs, in this paper, we propose Attention Behavior Fine-Tuning (ABFT), utilizing the previous findings on the inner mechanism of ICL, building training objectives on the attention scores instead of the final outputs, to force the attention scores to focus on the correct label tokens presented in the context and mitigate attention scores from the wrong label tokens. Our experiments on 9 modern LMs and 8 datasets empirically find that ABFT outperforms in performance, robustness, unbiasedness, and efficiency, with only around 0.01% data cost compared to the previous methods. Moreover, our subsequent analysis finds that the end-to-end training objective contains the ABFT objective, suggesting the implicit bias of ICL-style data to the emergence of induction heads. Our work demonstrates the possibility of controlling specific module sequences within LMs to improve their behavior, opening up the future application of mechanistic interpretability."
   id: "emnlp1"
+  bibtex: |
+    @article{cho2025mechanistic,<br>
+      &emsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
+      &emsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
+      &emsp;journal={arXiv preprint arXiv:2505.14233},<br>
+      &emsp;year={2025}<br>
+    }
 
 - title: "Measuring Intrinsic Dimension of Token Embeddings"
   authors:
@@ -49,6 +63,13 @@
       label: "arXiv"
   abstract: "In this study, we measure the Intrinsic Dimension (ID) of token embedding to estimate the intrinsic dimensions of the manifolds spanned by the representations, so as to evaluate their redundancy quantitatively compared to their extrinsic dimensionality. In detail, (1) we estimate the ID of token embeddings in small-scale language models and also modern large language models, finding that the embedding spaces often reside on lower-dimensional manifolds compared to their extrinsic dimensionality; (2) we measure the ID across various model sizes and observe an increase in redundancy rates as the model scale grows; (3) we measure the dynamics of IDs during the training process, and find a rapid ID drop in the early stages of training. Moreover, (4) when LoRA is applied to the embedding layers, we observe a sudden drop in perplexity around the estimated IDs, suggesting that the ID can serve as a useful guideline for LoRA application."
   id: "arxiv1"
+  bibtex: |
+    @article{kataiwa2025measuring,<br>
+      &emsp;title={Measuring Intrinsic Dimension of Token Embeddings},<br>
+      &emsp;author={Kataiwa, Takuya and Cho, Hakaze and Ohki, Tetsushi},<br>
+      &emsp;journal={arXiv preprint arXiv:2503.02142},<br>
+      &emsp;year={2025}<br>
+    }
 
 - title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
   authors:
@@ -66,6 +87,13 @@
       label: "arXiv"
   abstract: "The performance of In-Context Learning (ICL) is highly sensitive to the selected demonstrations. Existing approaches to demonstration selection optimize different objectives, yielding inconsistent results. To address this, we propose a unified metric--affinity and diversity--that leverages ICL model's internal representations. Our experiments show that both affinity and diversity strongly correlate with test accuracies, indicating their effectiveness for demonstration selection. Moreover, we show that our proposed metrics align well with various previous works to unify the inconsistency."
   id: "arxiv2"
+  bibtex: |
+    @article{kato2025affinity,<br>
+      &emsp;title={Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations},<br>
+      &emsp;author={Kato, Mariko and Cho, Hakaze and Sakai, Yoshihiro and Inoue, Naoya},<br>
+      &emsp;journal={arXiv preprint arXiv:2502.14380},<br>
+      &emsp;year={2025}<br>
+    }
 
 - title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
   authors:
@@ -85,6 +113,13 @@
       label: "PyPI"
   abstract: "Classification tasks are widely investigated in the In-Context Learning (ICL) paradigm. However, current efforts are evaluated on disjoint benchmarks and settings, while their performances are significantly influenced by some trivial variables, such as prompt templates, data sampling, instructions, etc., which leads to significant inconsistencies in the results reported across various literature, preventing fair comparison or meta-analysis across different papers. Therefore, this paper proposes a standardized and easy-to-use evaluation toolkit (StaICC) for in-context classification. Including, for the normal classification task, we provide StaICC-Normal, selecting 10 widely used datasets, and generating prompts with a fixed form, to mitigate the variance among the experiment implementations. To enrich the usage of our benchmark, we also provide a sub-benchmark StaICC-Diag for diagnosing ICL from several aspects, aiming for a more robust inference processing."
   id: "arxiv3"
+  bibtex: |
+    @article{cho2025staicc,<br>
+      &emsp;title={StaICC: Standardized Evaluation for Classification Task in In-context Learning},<br>
+      &emsp;author={Cho, Hakaze and Inoue, Naoya},<br>
+      &emsp;journal={arXiv preprint arXiv:2501.15708},<br>
+      &emsp;year={2025}<br>
+    }
 
 - title: "NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning"
   authors:
@@ -103,6 +138,13 @@
       label: "Github"
   abstract: "In-Context Learning (ICL) is suffering from unsatisfactory performance and under-calibration due to high prior bias and unfaithful confidence. Some previous works fine-tuned language models for better ICL performance with enormous datasets and computing costs. In this paper, we propose NoisyICL, simply perturbing the model parameters by random noises to strive for better performance and calibration. Our experiments on two models and 12 downstream datasets show that NoisyICL can help ICL produce more accurate predictions. Our further analysis indicates that NoisyICL enables the model to provide more fair predictions, and also with more faithful confidence. Therefore, we believe that NoisyICL is an effective calibration of ICL. Our experimental code is uploaded to Github."
   id: "arxiv4"
+  bibtex: |
+    @article{zhao2024noisyicl,<br>
+      &emsp;title={NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning},<br>
+      &emsp;author={Zhao, Yufeng and Sakai, Yoshihiro and Inoue, Naoya},<br>
+      &emsp;journal={arXiv preprint arXiv:2402.05515},<br>
+      &emsp;year={2024}<br>
+    }
 
 - title: "SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus"
   authors:
@@ -118,3 +160,10 @@
       label: "arXiv"
   abstract: "BERT is a widely used pre-trained model in natural language processing. However, since BERT is quadratic to the text length, the BERT model is difficult to be used directly on the long-text corpus. In some fields, the collected text data may be quite long, such as in the health care field. Therefore, to apply the pre-trained language knowledge of BERT to long text, in this paper, imitating the skimming-intensive reading method used by humans when reading a long paragraph, the Skimming-Intensive Model (SkIn) is proposed. It can dynamically select the critical information in the text so that the sentence input into the BERT-Base model is significantly shortened, which can effectively save the cost of the classification algorithm. Experiments show that the SkIn method has achieved superior accuracy than the baselines on long-text classification datasets in the medical field, while its time and space requirements increase linearly with the text length, alleviating the time and space overflow problem of basic BERT on long-text data."
   id: "arxiv5"
+  bibtex: |
+    @article{zhao2022skin,<br>
+      &emsp;title={SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus},<br>
+      &emsp;author={Zhao, Yufeng and et al.},<br>
+      &emsp;journal={arXiv preprint arXiv:2209.05741},<br>
+      &emsp;year={2022}<br>
+    }
