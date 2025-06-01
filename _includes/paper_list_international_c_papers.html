@@ -77,7 +77,13 @@
         {%- endfor -%}
     {%- endif -%}
     {%- if item.abstract -%}
-        [<a class="collapse-clicker" onclick="$('{{ item.abstract }}').slideToggle(200)">Abstract</a>]&nbsp;
+        [<a class="collapse-clicker" onclick="$('#{{ item.title_abstract }}').slideToggle(200)">Abstract</a>]&nbsp;
+        <div class="collapse" id="{{ item.title }}_abstract">
+        <div class="panel panel-primary">
+            <div class="panel-body details-panel">
+                {{- item.abstract  -}}
+            </div>
+        </div>
     {%- endif -%}
     {%- if item.bibtex -%}
         [<a class="collapse-clicker" onclick="$('{{ item.bibtex }}').slideToggle(200)">Bibtex</a>]&nbsp;
