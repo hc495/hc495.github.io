@@ -87,7 +87,14 @@
         </div>
     {%- endif -%}
     {%- if item.bibtex -%}
-        [<a class="collapse-clicker" onclick="$('{{ item.bibtex }}').slideToggle(200)">Bibtex</a>]&nbsp;
+        [<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Abstract</a>]&nbsp;
+        <div class="collapse" id="{{ item.id }}_bibtex">
+            <div class="panel panel-primary">
+                <div class="panel-body details-panel">
+                    {{- item.bibtex -}}
+                </div>
+            </div>
+        </div>
     {%- endif -%}
     </li>
     {%- endfor -%}
