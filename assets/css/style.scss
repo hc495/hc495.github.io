@@ -27,6 +27,20 @@ a, .collapse-clicker {
     }
 }
 
+.markdown-body a:not([href]) {
+    color: #3580ff;
+    text-decoration: none;
+
+    &:hover {
+        color: #3580ff;
+        text-decoration: underline;
+    }
+
+    &:active {
+        color: #070a7d;
+    }
+}
+
 figcaption {
     font-size: 0.8em;
     color: #666;
