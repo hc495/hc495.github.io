@@ -71,13 +71,16 @@
     {{ item.other }}.
     {%- endif -%}
     <br>
-    {%- if item.abstract -%}
-        [<a class="collapse-clicker" onclick="$('#{{ item.abstract }}').slideToggle(200)">Abstract]&nbsp;
-    {%- endif -%}
     {%- if urls -%}
         {%- for url in urls -%}
             [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
         {%- endfor -%}
+    {%- endif -%}
+    {%- if item.abstract -%}
+        [<a class="collapse-clicker" onclick="$('#{{ item.abstract }}').slideToggle(200)">Abstract]&nbsp;
+    {%- endif -%}
+    {%- if item.bibtex -%}
+        [<a class="collapse-clicker" onclick="$('#{{ item.bibtex }}').slideToggle(200)">Bibtex]&nbsp;
     {%- endif -%}
     </li>
     {%- endfor -%}
