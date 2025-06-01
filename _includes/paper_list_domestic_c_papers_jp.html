@@ -77,10 +77,10 @@
         {%- endfor -%}
     {%- endif -%}
     {%- if item.abstract -%}
-        [<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]
+[<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
     {%- endif -%}
     {%- if item.bibtex -%}
-        [<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
+[<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
     {%- endif -%}
     {%- if item.abstract -%}
         <div class="collapse" id="{{ item.id }}_abstract">
