@@ -16,6 +16,8 @@
   urls:
     - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
       label: "PDF"
+  abstract: "本稿では，言語の埋め込み表現である単語ベクトルや埋め込み層について，表現に必要十分な次元である内在次元 (Intrinsic Dimension; ID) を計測し，その冗長度合いを定量評価する．具体的には，(1) Word2Vec や GloVe などの小規模モデルの埋め込みが持つIDを推定し，(2) Pythiaシリーズを代表とする大規模言語モデルの埋め込み層における ID をスケール別・学習過程別に解析する．実験の結果，埋め込み空間が外在次元に比べ低い次元の多様体上に分布する傾向が見られた．また，モデル規模の拡大に伴う冗長率の変化や，学習初期において ID が急速に収束する傾向が観察された．また，推定されたIDがLoRA適用時のランク選択に有効な可能性を示した．"
+  id: "jsai1"
 
 - title: "Analysis of Internal Representations of Knowledge with Expressions of Familiarity"
   title_jp: "既知性を示す言語表現を伴う知識に関する内部表象の分析"
