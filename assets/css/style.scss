@@ -128,6 +128,15 @@ ul {
     display: none;
 }
 
+.details-panel {
+    margin: 10px;
+    padding: 3px 8px 3px 8px;
+    font-size: 16px;
+    border-radius: 8px;
+    background-color: #e9fffb;
+    text-align: justify;
+}
+
 @media (max-width: 640px) {
     .markdown-body h1 {
         font-size: 1.5em;
