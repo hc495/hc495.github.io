@@ -64,7 +64,7 @@ title: "趙 羽風"
 1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
     Yufeng Zhao   
     修士論文 - 評価A @ 北京理工大学, 2023. 81 pages.
-2. Synthesis and Self-Assembly of Amphiphilic Aggregation Enhanced Emission Compounds   
+2. Synthesis and Self-Assembly of Aggregation-induced Emission Compounds   
    Yufeng Zhao   
    学士論文 @ 北京理工大学, 2021. 52 pages.
 
