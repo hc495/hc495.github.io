@@ -16,10 +16,10 @@
   id: "nips1"
   bibtex: |
     @article{yang2025unifying,<br>
-      &emsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
-      &emsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
-      &emsp;journal={arXiv preprint arXiv:2505.18752},<br>
-      &emsp;year={2025}<br>
+      &nbsp;&nbsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
+      &nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2505.18752},<br>
+      &nbsp;&nbsp;year={2025}<br>
     }
 
 - title: "Mechanistic Fine-tuning for In-context Learning"
@@ -41,10 +41,10 @@
   id: "emnlp1"
   bibtex: |
     @article{cho2025mechanistic,<br>
-      &emsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
-      &emsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
-      &emsp;journal={arXiv preprint arXiv:2505.14233},<br>
-      &emsp;year={2025}<br>
+      &nbsp;&nbsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
+      &nbsp;&nbsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2505.14233},<br>
+      &nbsp;&nbsp;year={2025}<br>
     }
 
 - title: "Measuring Intrinsic Dimension of Token Embeddings"
@@ -65,10 +65,10 @@
   id: "arxiv1"
   bibtex: |
     @article{kataiwa2025measuring,<br>
-      &emsp;title={Measuring Intrinsic Dimension of Token Embeddings},<br>
-      &emsp;author={Kataiwa, Takuya and Cho, Hakaze and Ohki, Tetsushi},<br>
-      &emsp;journal={arXiv preprint arXiv:2503.02142},<br>
-      &emsp;year={2025}<br>
+      &nbsp;&nbsp;title={Measuring Intrinsic Dimension of Token Embeddings},<br>
+      &nbsp;&nbsp;author={Kataiwa, Takuya and Cho, Hakaze and Ohki, Tetsushi},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2503.02142},<br>
+      &nbsp;&nbsp;year={2025}<br>
     }
 
 - title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
@@ -89,10 +89,10 @@
   id: "arxiv2"
   bibtex: |
     @article{kato2025affinity,<br>
-      &emsp;title={Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations},<br>
-      &emsp;author={Kato, Mariko and Cho, Hakaze and Sakai, Yoshihiro and Inoue, Naoya},<br>
-      &emsp;journal={arXiv preprint arXiv:2502.14380},<br>
-      &emsp;year={2025}<br>
+      &nbsp;&nbsp;title={Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations},<br>
+      &nbsp;&nbsp;author={Kato, Mariko and Cho, Hakaze and Sakai, Yoshihiro and Inoue, Naoya},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2502.14380},<br>
+      &nbsp;&nbsp;year={2025}<br>
     }
 
 - title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
@@ -115,10 +115,10 @@
   id: "arxiv3"
   bibtex: |
     @article{cho2025staicc,<br>
-      &emsp;title={StaICC: Standardized Evaluation for Classification Task in In-context Learning},<br>
-      &emsp;author={Cho, Hakaze and Inoue, Naoya},<br>
-      &emsp;journal={arXiv preprint arXiv:2501.15708},<br>
-      &emsp;year={2025}<br>
+      &nbsp;&nbsp;title={StaICC: Standardized Evaluation for Classification Task in In-context Learning},<br>
+      &nbsp;&nbsp;author={Cho, Hakaze and Inoue, Naoya},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2501.15708},<br>
+      &nbsp;&nbsp;year={2025}<br>
     }
 
 - title: "NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning"
@@ -140,10 +140,10 @@
   id: "arxiv4"
   bibtex: |
     @article{zhao2024noisyicl,<br>
-      &emsp;title={NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning},<br>
-      &emsp;author={Zhao, Yufeng and Sakai, Yoshihiro and Inoue, Naoya},<br>
-      &emsp;journal={arXiv preprint arXiv:2402.05515},<br>
-      &emsp;year={2024}<br>
+      &nbsp;&nbsp;title={NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning},<br>
+      &nbsp;&nbsp;author={Zhao, Yufeng and Sakai, Yoshihiro and Inoue, Naoya},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2402.05515},<br>
+      &nbsp;&nbsp;year={2024}<br>
     }
 
 - title: "SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus"
@@ -162,8 +162,8 @@
   id: "arxiv5"
   bibtex: |
     @article{zhao2022skin,<br>
-      &emsp;title={SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus},<br>
-      &emsp;author={Zhao, Yufeng and et al.},<br>
-      &emsp;journal={arXiv preprint arXiv:2209.05741},<br>
-      &emsp;year={2022}<br>
+      &nbsp;&nbsp;title={SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus},<br>
+      &nbsp;&nbsp;author={Zhao, Yufeng and et al.},<br>
+      &nbsp;&nbsp;journal={arXiv preprint arXiv:2209.05741},<br>
+      &nbsp;&nbsp;year={2022}<br>
     }
