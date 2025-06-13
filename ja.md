@@ -17,7 +17,6 @@ title: "趙 羽風"
 <!-- **所属**: 北陸先端科学技術大学院大学 ← 北京理工大学 -->
 
 **E-mail**: yfzhao [at] jaist.ac.jp  
-**電話番号**: +81-070-8591-1495  
 **リンク**:
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 

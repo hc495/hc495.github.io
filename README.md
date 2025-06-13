@@ -17,7 +17,6 @@ title: "Hakaze Cho"
 <!-- **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology   -->
 
 **E-mail**: yfzhao [at] jaist.ac.jp  
-**Phone**: +81-070-8591-1495  
 **Links**:
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
