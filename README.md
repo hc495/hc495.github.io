@@ -94,5 +94,5 @@ I am actively seeking productive research collaborations in the mentioned area. 
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ The 30st Annual Conference of the Japanese Association for Natural Language Processing (NLP2024, ANLP). 2024.
 - Monbukagakusho Honors Scholarship @ Japanese Ministry of Education, Culture, Sports, Science and Technology. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
-- GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
+- GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed (medical) many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
 - Annual Outstanding Academic (GPA) Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
