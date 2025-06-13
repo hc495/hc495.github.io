@@ -95,4 +95,4 @@ I am actively seeking productive research collaborations in the mentioned area. 
 - Monbukagakusho Honors Scholarship @ Japanese Ministry of Education, Culture, Sports, Science and Technology. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
-- Annual Outstanding Academic Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
+- Annual Outstanding Academic (GPA) Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
