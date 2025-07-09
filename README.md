@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: "Hakaze Cho"
+title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
 <div class="img_margin">
