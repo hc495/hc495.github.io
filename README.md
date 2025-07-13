@@ -25,6 +25,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;   
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan  
 
 I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am pursuing a Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference by mathematical and representation learning methods, and improving their performance robustly through this deeper understanding. I have published over 20 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NAACL.

@@ -25,6 +25,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
 
 私は中国のトップ大学である北京理工大学を卒業し, 2021年に化学の学士号, 2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており, 2026年3月の早期修了を目指しています.  
