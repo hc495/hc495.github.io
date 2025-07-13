@@ -45,7 +45,7 @@
   urls:
     - url: "https://aclanthology.org/2025.naacl-long.278/"
       label: "ACL Anthology"
-    - url: "https://aclanthology.org/2025.naacl-long.278.pdfq"
+    - url: "https://aclanthology.org/2025.naacl-long.278.pdf"
       label: "PDF"
     - url: "https://arxiv.org/abs/2406.16535"
       label: "arXiv"
