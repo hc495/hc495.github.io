@@ -1,25 +1,25 @@
 iclr:
   name: "International Conference on Learning Representations"
   short: "ICLR"
-  h5: 304
+  h5: 362
   infl: 48.9
 
 naacl:
   name: "Annual Conference of the Nations of the Americas Chapter of the ACL"
   short: "NAACL.main"
-  h5: 132
+  h5: 126
   infl: 16.5
 
 coling:
   name: "International Conference on Computational Linguistics"
   short: "COLING"
-  h5: 65
+  h5: 81
   infl: 7.7
 
 lrec:
   name: "International Conference on Language Resources and Evaluation"
   short: "LREC"
-  h5: 59
+  h5: 68
 
 nlp:
   name_jp: "言語処理学会年次大会"
