@@ -22,7 +22,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
