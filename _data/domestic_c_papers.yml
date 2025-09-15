@@ -1,3 +1,18 @@
+- title: "Conference Note: Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  title_jp: "学会記事: Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  authors:
+    - name: me
+    - name: n-inoue
+  venue: JNLP
+  pages: 6
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://www.jstage.jst.go.jp/article/jnlp/32/3/32_989/_pdf/-char/ja"
+  urls:
+    - url: "https://www.jstage.jst.go.jp/article/jnlp/32/3/32_989/_pdf/-char/ja"
+      label: "PDF"
+
 - title: "Measuring Intrinsic Dimension of Token Embeddings"
   title_jp: "トークン埋め込みの内在次元を測る"
   authors:
