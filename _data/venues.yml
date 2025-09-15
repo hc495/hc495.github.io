@@ -35,3 +35,8 @@ yans:
   name_jp: "言語処理若手シンポジウム"
   name: "Symposium of Young Researcher Association for NLP Studies"
   short: "YANS"
+
+JNLP:
+  name_jp: "自然言語処理"
+  name: "Journal of Natural Language Processing"
+  short: "JNLP"
