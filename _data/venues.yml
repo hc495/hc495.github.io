@@ -40,3 +40,7 @@ JNLP:
   name_jp: "自然言語処理"
   name: "Journal of Natural Language Processing"
   short: "JNLP"
+
+BlackBox:
+  name: "BlackboxNLP Workshop"
+  short: "BlackBox"
