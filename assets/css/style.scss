@@ -15,11 +15,11 @@
 // Link styles
 a, .collapse-clicker {
     // color: #3580ff;
-    color: #2a66cc;
+    color: #0ca7f4;
     text-decoration: none;
 
     &:hover {
-        color: #2a66cc;
+        color: #0ca7f4;
         text-decoration: underline;
     }
 
@@ -29,11 +29,11 @@ a, .collapse-clicker {
 }
 
 .markdown-body a:not([href]) {
-    color: #2a66cc;
+    color: #0ca7f4;
     text-decoration: none;
 
     &:hover {
-        color: #2a66cc;
+        color: #0ca7f4;
         text-decoration: underline;
         cursor: pointer;
     }
