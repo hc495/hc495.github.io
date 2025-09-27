@@ -19,7 +19,7 @@
   id: "nips1"
   bibtex: |
     @inproceedings{<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;anonymous2025unifying,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;yang2025unifying,<br>
       &nbsp;&nbsp;&nbsp;&nbsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},<br>
@@ -46,10 +46,10 @@
   abstract: "In-context Learning (ICL) utilizes structured demonstration-query inputs to induce few-shot learning on Language Models (LMs), which are not originally pre-trained on ICL-style data. To bridge the gap between ICL and pre-training, some approaches fine-tune LMs on large ICL-style datasets by an end-to-end paradigm with massive computational costs. To reduce such costs, in this paper, we propose Attention Behavior Fine-Tuning (ABFT), utilizing the previous findings on the inner mechanism of ICL, building training objectives on the attention scores instead of the final outputs, to force the attention scores to focus on the correct label tokens presented in the context and mitigate attention scores from the wrong label tokens. Our experiments on 9 modern LMs and 8 datasets empirically find that ABFT outperforms in performance, robustness, unbiasedness, and efficiency, with only around 0.01% data cost compared to the previous methods. Moreover, our subsequent analysis finds that the end-to-end training objective contains the ABFT objective, suggesting the implicit bias of ICL-style data to the emergence of induction heads. Our work demonstrates the possibility of controlling specific module sequences within LMs to improve their behavior, opening up the future application of mechanistic interpretability."
   id: "blackbox1"
   bibtex: |
-    @article{cho2025mechanistic,<br>
+    @inproceedings{cho2025mechanistic,<br>
       &nbsp;&nbsp;&nbsp;&nbsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2505.14233},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;year={2025}<br>
     }
   other: "Workshop at EMNLP 2025"
