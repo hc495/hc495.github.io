@@ -110,8 +110,8 @@
       label: "PDF"
     - url: "https://drive.google.com/file/d/1tSBHQgnDcuti2pZcE-KxJX90NZPthFo6/view"
       label: "Slides"
-  other: "Oral, <span style='color:red'>Outstanding Paper</span>"
-  other_jp: "Oral, <span style='color:red'>優秀賞</span>"
+  other: "Oral, <span style='color:#fe97b5'>Outstanding Paper</span>"
+  other_jp: "Oral, <span style='color:#fe97b5'>優秀賞</span>"
   abstract: "In-context Learning (ICL) は，言語モデルにおける新たな少数ショット学習パラダイムとして注目されているが，その内在的メカニズムは十分に解明されていない. 本研究では，ICL の推論ダイナミクスを3 つの基本操作に分解し，それらを基盤として推論回路を構築した上で精密な測定を行い，従来の研究で観察されてきた現象を統一的に説明することを試みた. さらに，提案した回路を無効化するアブレーション分析の結果，ICL の性能が顕著に低下することが確認され，提案した推論回路が ICL の主要なメカニズムであることが示唆された."
   id: "anlp1"
 
@@ -234,8 +234,8 @@
   second: true
   pages: 17
   year: 2024
-  other: "Oral, <span style='color:red'>Research Award for Young Scholars</span>"
-  other_jp: "Oral, <span style='color:red'>若手奨励賞</span>"
+  other: "Oral, <span style='color:#fe97b5'>Research Award for Young Scholars</span>"
+  other_jp: "Oral, <span style='color:#fe97b5'>若手奨励賞</span>"
   basic_url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
   urls:
     - url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
@@ -281,8 +281,8 @@
   second: false
   pages: 6
   year: 2024
-  other: "<span style='color:red'>SB Intuitions Awards</span>"
-  other_jp: "<span style='color:red'>スポンサー賞</span>"
+  other: "<span style='color:#fe97b5'>SB Intuitions Awards</span>"
+  other_jp: "<span style='color:#fe97b5'>スポンサー賞</span>"
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
   urls:
     - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
