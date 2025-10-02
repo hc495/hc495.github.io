@@ -9,7 +9,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 <figcaption>@Beijing Inst. Tech. 2023</figcaption>
 </div>
 
-**Ph.D. 2nd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+**Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant & Mentor** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
