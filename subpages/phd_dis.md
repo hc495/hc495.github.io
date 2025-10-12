@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /phd_defense
-title: "Online Sources Yufeng Zhao's Ph.D. Dissertation"
+title: "Online Sources of Yufeng Zhao's Ph.D. Dissertation"
 ---
 
 This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
@@ -26,3 +26,6 @@ The source codes for experiments:
 - Chapter 4: [GitHub: Hidden_Calibration](https://github.com/hc495/Hidden_Calibration){:target="_blank"}
 - Chapter 5: [GitHub: ICL_head_tuning](https://github.com/hc495/ICL_head_tuning){:target="_blank"}
 
+## Special Thanks
+
+Haolin Yang, Gouki Minegishi
