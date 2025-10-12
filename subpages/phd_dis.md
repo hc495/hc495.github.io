@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /phd_defense
-title: "Yufeng Zhao's Ph.D. Dissertation Outline"
+title: "Online Sources Yufeng Zhao's Ph.D. Dissertation"
 ---
 
-This dissertation is composed of the following 4 top peer-reviewed international conference papers, which have been accepted/published since I started my Ph.D. study at JAIST in April 2023. 
+This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
 
 Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publication details.
 
@@ -25,6 +25,4 @@ The source codes for experiments:
 - Chapter 3: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"}
 - Chapter 4: [GitHub: Hidden_Calibration](https://github.com/hc495/Hidden_Calibration){:target="_blank"}
 - Chapter 5: [GitHub: ICL_head_tuning](https://github.com/hc495/ICL_head_tuning){:target="_blank"}
-
-## Abstract
 
