@@ -15,7 +15,11 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Source
 
-The full dissertations: [PDF](){:target="_blank"}
+The dissertations without supplementary materials: [PDF](){:target="_blank"}
+
+Supplementary materials: [PDF](){:target="_blank"}
+
+The full dissertation with supplementary materials: [PDF](){:target="_blank"}
 
 The slides for the Ph.D. defense: [PDF](){:target="_blank"}
 
