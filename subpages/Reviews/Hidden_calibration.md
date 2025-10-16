@@ -47,7 +47,7 @@ The paper identified the problem of potential bias brought by the output tokens 
 - The effectiveness of the proposed method is undermined by the fact that there is a training process that require more annotated data. Specifically, HC needs k*m demonstrations to complete the training process. In contrast, vanilla ICL only use k demonstrations and not all baseline calibration methods require extra annotated data, which means Figure 4 does not necessarily show a fair comparison.
 
 **Comments Suggestions And Typos:**  
-- Line 323: highest baseline ¡ú strongest baseline
+- Line 323: highest baseline â†’ strongest baseline
 - Line 500: For clustering algorithms, a larger inter-class averaged centroid distance should be more favorable. Is the diminishing pattern of the curve showing a negative sign here?
 
 **Confidence:** 5 = Positive that my evaluation is correct. I read the paper very carefully and am familiar with related work.  
@@ -129,7 +129,7 @@ I do not see major issues in this paper. There are some issues that are relative
 
 **High-level comments**
 
-1. In the introduction, the authors state that "However, some practices have pointed out that randomly changing label spaces doesn¡¯t critically influence ICL performance (Min et al., 2022c; Wei et al., 2023), which means the selected label subspaces are trivial and arbitrary. (line 56)". I don't think it's an appropriate way to motivate the proposed approach, because even though the verbalizer can be selected randomly, the mapping between the verbalizers and the labels usually need to be consistent for all ICL examples to achieve better performance. Also, I think for smaller models, using task-specific verbalizers still leads to better performance.
+1. In the introduction, the authors state that "However, some practices have pointed out that randomly changing label spaces doesnâ€™t critically influence ICL performance (Min et al., 2022c; Wei et al., 2023), which means the selected label subspaces are trivial and arbitrary. (line 56)". I don't think it's an appropriate way to motivate the proposed approach, because even though the verbalizer can be selected randomly, the mapping between the verbalizers and the labels usually need to be consistent for all ICL examples to achieve better performance. Also, I think for smaller models, using task-specific verbalizers still leads to better performance.
 2. The analyses in Section 5 do not bring many useful insights.
     1. The analysis in Section 5.1 shows the higher separability of hidden states of samples of different labels, which is cool, however, does not seem more informative than accuracy, as it is half of the lower bound of the error rate. Inspecting how far the error your approach has from the lower bound may make this part more insightful.
     2. I am not sure whether Section 5.2 provides some useful takeaway. In particular, I am curious why the inter-class centroid distance decreases when there are more examples. It seems to contradict the observation in Section 5.1 that the classes are more separable when there are more in-context examples?
