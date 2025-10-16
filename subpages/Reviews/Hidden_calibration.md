@@ -102,7 +102,7 @@ There are no concerns with this submission
 **Impact Of Knowledge Of Paper:** Not much  
 **Reviewer Certification:** I certify that the review I entered accurately reflects my assessment of the work. If you used any type of automated tool to help you craft your review, I hereby certify that its use was restricted to improving grammar and style, and the substance of the review is either my own work or the work of an acknowledged secondary reviewer.
 
-# Official Review of Submission1221 by Reviewer bczJ
+## Official Review of Submission1221 by Reviewer bczJ
 
 **Paper Summary:**
 This paper proposes a novel few-shot learning method using LLMs. They suggest constructing the decision boundary directly in the hidden representation space of the model before un-embedding instead of the probability space after softmax. Specifically, during the learning phase, they (1) encode each of the calibration examples with some in-context examples and then (2) find the centroid of each class's representations. During the inference time, they encode the test sample in the same way and choose the class whose centroid is closest to it as the prediction.
