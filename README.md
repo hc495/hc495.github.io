@@ -28,7 +28,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan  
 
-I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am in my graduation thread of Ph.D. at JAIST, with an expected early graduation in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference by mathematical and representation learning methods, and improving their performance robustly through this deeper understanding. I have published over 30 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NeurIPS.
+I graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am in my graduation thread of Ph.D. at JAIST with a fast-track schedule in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference by mathematical and representation learning methods, and improving their performance robustly through this deeper understanding. I have published over 30 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NeurIPS.
 
 I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
 
@@ -84,7 +84,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
   [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}, [Tohoku University](https://www.tohoku.ac.jp/en/){:target="_blank"}  
   Mentor: [Prof. Kentaro Inui](https://kentaro-inui.github.io/){:target="_blank"} -->
 
-- **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3)  
+- **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3), Fast-track Graduation  
   [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
   Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
 
