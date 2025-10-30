@@ -13,13 +13,15 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 - Chapter 5: [Token-based Decision Criteria Are Suboptimal in In-context Learning](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} (NAACL 2025 Long Paper) [h5=126, IF=16.5, Core A]
 - Chapter 6: [Mechanistic Fine-tuning for In-context Learning](https://arxiv.org/abs/2505.14233){:target="_blank"} (BlackboxNLP Workshop at EMNLP 2025)
 
-## Sources
+## Sources for Preliminary Defense
 
-The full dissertation with supplementary materials: [PDF](){:target="_blank"}
+The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}
 
-The slides for the Ph.D. defense: [PDF](){:target="_blank"}
+The slides for the Preliminary Defense: TBA
 
-The source codes for experiments: 
+## Other Online Resources
+
+The source codes for every experimental chapter are available at the following GitHub repositories: 
 
 - Chapter 3: [GitHub: ICL_Circuit](https://github.com/hc495/ICL_Circuit){:target="_blank"}
 - Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"}
