@@ -15,7 +15,7 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Sources for Preliminary Defense
 
-<span style='color:#fe97b5'>The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}</span>
+<span style='color:#fe97b5'>The full dissertation with supplementary materials (Preliminary Defense version):</span> [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}
 
 The slides for the Preliminary Defense: TBA
 
