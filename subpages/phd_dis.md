@@ -24,6 +24,6 @@ The slides for the Preliminary Defense: TBA
 The source codes for every experimental chapter are available at the following GitHub repositories: 
 
 - Chapter 3: [GitHub: ICL_Circuit](https://github.com/hc495/ICL_Circuit){:target="_blank"}
-- Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"}
+- Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"} (TBA)
 - Chapter 5: [GitHub: Hidden_Calibration](https://github.com/hc495/Hidden_Calibration){:target="_blank"}
 - Chapter 6: [GitHub: ICL_head_tuning](https://github.com/hc495/ICL_head_tuning){:target="_blank"}
