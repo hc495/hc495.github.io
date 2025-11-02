@@ -40,9 +40,11 @@
     - name: n-inoue
   venue: BlackBox
   year: 2025
-  basic_url: "https://arxiv.org/abs/2505.14233"
+  basic_url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
   pages: 28
   urls:
+    - url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
+      label: "ACL Anthology"
     - url: "https://arxiv.org/pdf/2505.14233"
       label: "PDF"
     - url: "https://arxiv.org/abs/2505.14233"
