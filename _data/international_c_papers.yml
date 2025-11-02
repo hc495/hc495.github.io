@@ -57,7 +57,7 @@
     @inproceedings{cho2025mechanistic,<br>
       &nbsp;&nbsp;&nbsp;&nbsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle = "Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",<br>
       &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2505.14233}<br>
     }
