@@ -10,7 +10,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 </div>
 
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
-**リサーチアシスタント・メンター** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
+**リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 
 **別名**: Yufeng Zhao（漢字表記：「趙 羽風」）  
 **生年**: 1999年, 北京生まれ  
