@@ -15,9 +15,9 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Resources for Preliminary Defense
 
-The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}
+### Dissertation
 
-<span style='color:red'>The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/11 revised):</span> [PDF](){:target="_blank"}
+The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}
 
 **Revision Note for 2025/11/11 version:**
 
@@ -27,6 +27,10 @@ The full dissertation with supplementary materials (Preliminary Defense version)
 - Fix one \ref issue in Appendix A.
 - Unify the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
+
+<span style='color:red'>The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/11 revised):</span> [PDF](){:target="_blank"}
+
+### Presentation Slides
 
 The slides for the Preliminary Defense: TBA
 
