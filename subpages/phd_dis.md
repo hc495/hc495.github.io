@@ -21,12 +21,14 @@ The full dissertation with supplementary materials (Preliminary Defense version)
 
 **Revision Note for 2025/11/11 version:**
 
-- Revise the title of committee member from Dr. to Assoc. Prof.
-- Fix 2 writting issues in the Abstract section.
-- Fix 1 writting issue in Acknowledgement section.
+- Revise the title of one committee member.
+- Fix two writting issues in the Abstract section.
+- Fix one writting issue in Acknowledgement section.
+- Revise some content in Acknowledgement section.
 - Fix one \ref issue in Appendix A.
 - Unify the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
+- Unified the color of all hyperlink jumps to #028390.
 
 <span style='color:red'>The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/11 revised):</span> [PDF](){:target="_blank"}
 
