@@ -93,7 +93,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 - **学士（化学）** 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部  
-  指導教員: [石 建兵 准教授](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
+  指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## 受賞歴
 

@@ -94,7 +94,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
   Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
-  Mentor: [A. Prof. Jianbing Shi](https://mse.bit.edu.cn/szdw/jgml/clwlyhxxg/ff4af2fd072b47beadc219b5c4e266f7.htm){:target="_blank"}
+  Mentor: [A. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## Awards
 
