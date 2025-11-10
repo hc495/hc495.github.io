@@ -17,13 +17,13 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ### Dissertation
 
-The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"}
+The full dissertation with supplementary materials (Preliminary Defense version): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"} (old)
 
 **Revision Note for 2025/11/11 version:**
 
 - Revise the title of committee member from Dr. to Assoc. Prof.
-- Fix one writting issue in the Abstract section.
-- Fix 2 writting issues in Acknowledgement section.
+- Fix 2 writting issues in the Abstract section.
+- Fix 1 writting issue in Acknowledgement section.
 - Fix one \ref issue in Appendix A.
 - Unify the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
