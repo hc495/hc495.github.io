@@ -31,7 +31,7 @@ Revision Note:
 - Fix one \ref issue in Appendix A.
 - Unify the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
-- Unified the color of all hyperlink jumps to #028390.
+- Unified the color of all hyperlink to #028390.
 
 **2025/10/30 Original**
 
