@@ -31,6 +31,8 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
 - Unified the color of all hyperlink jumps to #028390.
 
+----
+
 The full dissertation with supplementary materials (Preliminary Defense version, original): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"} (old)
 
 ### Presentation Slides
