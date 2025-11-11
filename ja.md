@@ -92,7 +92,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
   指導教員: 趙 羽風 (自主研究)
 
 - **学士（化学）** 2017年8月 ～ 2021年6月  
-  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部  
+  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## 受賞歴
@@ -103,5 +103,5 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 - 文部科学省外国人留学生学習奨励費 @ 文部科学省, 2023
 - 優秀口頭発表賞 @ 2022年欧亜フロンティアコンピュータ科学技術国際会議  
 - GPA向上賞 @ 北京理工大学, 2020
-<small>2019年に病気のため多くの試験を欠席したため、2020年の通常のGPAは顕著な向上と見なされました</small>
+<small>2019年に健康状態のため多くの試験を欠席したため、2020年の通常のGPAは顕著な向上と見なされました</small>
 - 北京理工大学 年間(GPA)優秀賞：2018, 2019, 2021, 2022, 2023  

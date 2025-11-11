@@ -93,7 +93,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
   Mentor: Yufeng Zhao (Self-motivated)
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
-  Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
+  Department of Basic Science, [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: [A. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## Awards
