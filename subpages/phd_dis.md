@@ -17,9 +17,11 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ### Dissertation
 
+**2025/11/12 Revision**
+
 <span style='color:red'>The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/12 revised):</span> [PDF](https://jstorage.box.com/s/z8zp84yh7yscx5abkaecbjimf8cpna3g){:target="_blank"}
 
-**Revision Note for 2025/11/12 version:**
+Revision Note:
 
 - Revise the title of one committee member.
 - Fix two writting issues in the Abstract section.
@@ -31,7 +33,7 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
 - Unified the color of all hyperlink jumps to #028390.
 
-----
+**2025/10/30 Original**
 
 The full dissertation with supplementary materials (Preliminary Defense version, original): [PDF](https://jstorage.box.com/s/zhzv8q65xlg5lxuwgcqr4q7bgstafeds){:target="_blank"} (old)
 
