@@ -195,24 +195,3 @@
       &nbsp;&nbsp;&nbsp;&nbsp;year={2024}<br>
     }
 
-# - title: "SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus"
-#   authors:
-#     - name: "Yufeng Zhao"
-#     - name: "et al."
-#   year: 2022
-#   basic_url: "https://arxiv.org/abs/2209.05741"
-#   pages: 14
-#   urls:
-#     - url: "https://arxiv.org/abs/2209.05741"
-#       label: "PDF"
-#     - url: "https://arxiv.org/abs/2209.05741"
-#       label: "arXiv"
-#   abstract: "BERT is a widely used pre-trained model in natural language processing. However, since BERT is quadratic to the text length, the BERT model is difficult to be used directly on the long-text corpus. In some fields, the collected text data may be quite long, such as in the health care field. Therefore, to apply the pre-trained language knowledge of BERT to long text, in this paper, imitating the skimming-intensive reading method used by humans when reading a long paragraph, the Skimming-Intensive Model (SkIn) is proposed. It can dynamically select the critical information in the text so that the sentence input into the BERT-Base model is significantly shortened, which can effectively save the cost of the classification algorithm. Experiments show that the SkIn method has achieved superior accuracy than the baselines on long-text classification datasets in the medical field, while its time and space requirements increase linearly with the text length, alleviating the time and space overflow problem of basic BERT on long-text data."
-#   id: "arxiv5"
-#   bibtex: |
-#     @article{zhao2022skin,<br>
-#       &nbsp;&nbsp;&nbsp;&nbsp;title={SkIn: Skimming-Intensive Long-Text Classification Using BERT for Medical Corpus},<br>
-#       &nbsp;&nbsp;&nbsp;&nbsp;author={Zhao, Yufeng and et al.},<br>
-#       &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2209.05741},<br>
-#       &nbsp;&nbsp;&nbsp;&nbsp;year={2022}<br>
-#     }
