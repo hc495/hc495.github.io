@@ -191,27 +191,27 @@
       &nbsp;&nbsp;&nbsp;&nbsp;url={https://aclanthology.org/2024.lrec-main.642/}<br>
     }
 
-- title: "Methods to Enhance BERT in Aspect-Based Sentiment Classification"
-  authors:
-    - name: "Yufeng Zhao"
-    - name: "Evelyn Soerjodjojo"
-    - name: "et al."
-  venue: "IEEE Euro-Asia Conference on Frontiers of Computer Science and Information Technology"
-  year: 2022
-  basic_url: "https://ieeexplore.ieee.org/abstract/document/10098237"
-  pages: 7
-  other: "Outstanding Oral Presentation Award"
-  urls:
-    - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098237"
-      label: "PDF"
-  abstract: "BERT is a widely used pre-trained model in Natural Language Processing tasks, including Aspect-Based sentiment classification. BERT is equipped with sufficient prior language knowledge in the enormous amount of pre-trained model parameters, for which the fine-tuning of BERT has become a critical issue. Previous works mainly focused on specialized downstream networks or additional knowledge to fine-tune the BERT to the sentiment classification tasks. In this paper, we design experiments to find the fine-tuning techniques that can be used by all models with BERT in the Aspect-Based Sentiment Classification tasks. Through these experiments, we verify different feature extraction, regularization, and continual learning methods, then we summarize 8 universally applicable conclusions to enhance the training and performance of the BERT model."
-  id: "euroasia1"
-  bibtex: |
-    @inproceedings{zhao2022methods,<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;title={Methods to enhance bert in aspect-based sentiment classification},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;author={Zhao, Yufeng and Soerjodjojo, Evelyn and Che, Haiying},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology (FCSIT)},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;pages={21--27},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;year={2022},<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;organization={IEEE}<br>
-    }
+# - title: "Methods to Enhance BERT in Aspect-Based Sentiment Classification"
+#   authors:
+#     - name: "Yufeng Zhao"
+#     - name: "Evelyn Soerjodjojo"
+#     - name: "et al."
+#   venue: "IEEE Euro-Asia Conference on Frontiers of Computer Science and Information Technology"
+#   year: 2022
+#   basic_url: "https://ieeexplore.ieee.org/abstract/document/10098237"
+#   pages: 7
+#   other: "Outstanding Oral Presentation Award"
+#   urls:
+#     - url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10098237"
+#       label: "PDF"
+#   abstract: "BERT is a widely used pre-trained model in Natural Language Processing tasks, including Aspect-Based sentiment classification. BERT is equipped with sufficient prior language knowledge in the enormous amount of pre-trained model parameters, for which the fine-tuning of BERT has become a critical issue. Previous works mainly focused on specialized downstream networks or additional knowledge to fine-tune the BERT to the sentiment classification tasks. In this paper, we design experiments to find the fine-tuning techniques that can be used by all models with BERT in the Aspect-Based Sentiment Classification tasks. Through these experiments, we verify different feature extraction, regularization, and continual learning methods, then we summarize 8 universally applicable conclusions to enhance the training and performance of the BERT model."
+#   id: "euroasia1"
+#   bibtex: |
+#     @inproceedings{zhao2022methods,<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;title={Methods to enhance bert in aspect-based sentiment classification},<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;author={Zhao, Yufeng and Soerjodjojo, Evelyn and Che, Haiying},<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;booktitle={2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology (FCSIT)},<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;pages={21--27},<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;year={2022},<br>
+#       &nbsp;&nbsp;&nbsp;&nbsp;organization={IEEE}<br>
+#     }
