@@ -17,6 +17,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 <!-- **所属**: 北陸先端科学技術大学院大学 ← 北京理工大学 -->
 
 **E-mail**: yfzhao [at] jaist.ac.jp  
+このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は、yfZhao495 [at] outlook.comにも併せて送ってみてください.  
 **リンク**:
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
