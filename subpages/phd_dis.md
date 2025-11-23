@@ -23,7 +23,7 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 Revision Note:
 
-- Merge the ICLR 2026 rebuttal revision into the Chapter 4. See [OpenReview](https://openreview.net/forum?id=VAv1rrPR1A&noteId=iSaPWnf9bw){:target="_blank"} for details.
+- Merge the ICLR 2026 rebuttal revision into the Chapter 4. See [OpenReview](https://openreview.net/forum?id=VAv1rrPR1A&noteId=iSaPWnf9bw){:target="_blank"} "Revision Note 2025/11/20 (AOE)" for details.
 - Removed some of previous works.
 - Revise the title of one committee member.
 - Fix two writting issues in the Abstract section.
