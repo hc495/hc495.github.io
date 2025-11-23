@@ -23,15 +23,15 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 Revision Note:
 
-- Merge the ICLR 2026 rebuttal revision into the Chapter 4. See [OpenReview](https://openreview.net/forum?id=VAv1rrPR1A&noteId=iSaPWnf9bw){:target="_blank"} "Revision Note 2025/11/20 (AOE)" for details.
+- Merged the ICLR 2026 rebuttal revision into the Chapter 4. See [OpenReview](https://openreview.net/forum?id=VAv1rrPR1A&noteId=iSaPWnf9bw){:target="_blank"} "Revision Note 2025/11/20 (AOE)" for details.
 - Removed some of previous works.
-- Revise the title of one committee member.
-- Fix two writting issues in the Abstract section.
-- Fix one writting issue in Acknowledgement section.
-- Revise some content in Acknowledgement section.
-- Improve the clarity of Abstract section.
-- Fix one \ref issue in Appendix A.
-- Unify the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
+- Revised the title of one committee member.
+- Fixed two writting issues in the Abstract section.
+- Fixed one writting issue in Acknowledgement section.
+- Revised some content in Acknowledgement section.
+- Improved the clarity of Abstract section.
+- Fixed one \ref issue in Appendix A.
+- Unified the name of LMs across diffenerent Chapters. The new name is something like Name-Scale (e.g., GPT 2-Small, Llama 2-7B, etc.)
 - Some adjustments on the layout of Chapter 6 to improve aesthetic.
 - Unified the color of all hyperlink to #028390.
 
