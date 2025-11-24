@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /phd_defense
-title: "Online Resources of Yufeng Zhao's Ph.D. Dissertation"
+title: "Online Resources of Yufeng Zhao's Ph.D. Dissertation: The Mechanistic Basis of In-context Learning"
 ---
 
 This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
