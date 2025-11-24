@@ -50,10 +50,15 @@ figcaption {
     text-align: center;
 }
 
+.body{
+    background: radial-gradient(circle at 10px 10px, #F2F2F2 3px, transparent 0);
+    background-size: 40pt 40pt;
+    background-color: #ffffff;
+}
+
 // Remove horizontal rule after headings
 body, .markdown-body {
     color: #00112e;
-    background-color: white;
     font-family: 'Noto Sans JP', Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
 }
