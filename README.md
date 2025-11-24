@@ -87,7 +87,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3), Fast-track Graduation  
   [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-  Mentor: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
+  Mentor: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}
 
 - **M.Eng.** in Software Engeering, 2021.9 ~ 2023.6   
   [Graduate School of Computer Science and Technology](https://cs.bit.edu.cn/){:target="_blank"}, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
@@ -95,7 +95,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
   Department of Basic Science, [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
-  Mentor: [A. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
+  Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## Awards
 
