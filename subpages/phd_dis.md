@@ -15,6 +15,8 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Resources for Preliminary Defense
 
+<span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span>
+
 ### Dissertation
 
 **2025/11/24 Revision**
