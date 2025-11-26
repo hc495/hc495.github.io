@@ -17,6 +17,10 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 <span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span>
 
+### Presentation Slides
+
+<span style='color:red'>The slides for the Preliminary Defense:</span> [PDF](https://jstorage.box.com/shared/static/9ov8lpz3o2fl2805i9opg828eh8mi2zv.pdf){:target="_blank"}
+
 ### Dissertation
 
 **2025/11/24 Revision**
@@ -54,10 +58,6 @@ Revision Note:
 **2025/10/30 Original**
 
 The full dissertation with supplementary materials (Preliminary Defense version, original): [Old Version Download Closed]
-
-### Presentation Slides
-
-The slides for the Preliminary Defense: TBA
 
 ## Other Online Resources
 
