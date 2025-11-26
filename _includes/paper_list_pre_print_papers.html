@@ -36,18 +36,6 @@
     {%- endfor -%}
 <br>
 Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
-    {%- if h5 or infl -%} [
-        {%- if h5 -%}
-            h5= {{ h5 }}
-        {%- endif -%}
-        {%- if h5 and infl -%}
-            ,&nbsp;
-        {%- endif -%}
-        {%- if infl -%}
-            IF= {{ infl }}
-        {%- endif -%}
-        ]
-    {%- endif -%}
     <br>
     {%- if urls -%}
         {%- for url in urls -%}
