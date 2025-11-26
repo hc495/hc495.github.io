@@ -15,9 +15,11 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Resources for Preliminary Defense
 
-<span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span>
+<p class="large"><span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span></p>
 
 ### Presentation Slides
+
+**2025/11/27 Original**
 
 <span style='color:red'>The slides for the Preliminary Defense:</span> [PDF](https://jstorage.box.com/shared/static/9ov8lpz3o2fl2805i9opg828eh8mi2zv.pdf){:target="_blank"}
 
