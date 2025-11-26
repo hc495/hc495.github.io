@@ -41,7 +41,7 @@ Revision Note:
    6. **[Generative Tasks]** (Appendix G) We added a discussion on generative tasks. Through eccentricity-based tests, we provide prototypical evidence that information removal also occurs in the English–Chinese translation task. Also, we include an additional limitation section concerning the complexity of the information filter.
    7. **[Numerical Results for Covariance out of Rank]** (Appendix I) We added numerical results for Covariance out of Rank.
    8. **[More Models]** We added experimental results for the 3B Instruct and 13B Instruct models. These results are broadly consistent with our main findings. Please see Table 2 and the Appendix I for details.
-- Removed some of previous works.
+- Removed some of previous works judged as less relevant to the main content.
 - Revised the title of one committee member.
 - Fixed two writting issues in the Abstract section.
 - Fixed one writting issue in Acknowledgement section.
