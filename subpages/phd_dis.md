@@ -21,7 +21,7 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 **2025/11/27 Original**
 
-<span style='color:red'>The slides for the Preliminary Defense:</span> [PDF](https://jstorage.box.com/shared/static/9ov8lpz3o2fl2805i9opg828eh8mi2zv.pdf){:target="_blank"}
+<span style='color:red'>The slides for the Preliminary Defense:</span> [PDF](https://jstorage.box.com/s/9ov8lpz3o2fl2805i9opg828eh8mi2zv){:target="_blank"}
 
 ### Dissertation
 
