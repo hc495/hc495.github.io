@@ -26,7 +26,7 @@ This email address is not always reachable. If I do not reply, please try CC the
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+<!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan  
 
