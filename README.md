@@ -6,7 +6,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="220">
-<figcaption>@Beijing Inst. Tech. 2023</figcaption>
+<figcaption>@ICLR 2025</figcaption>
 </div>
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
