@@ -4,8 +4,6 @@ permalink: /phd_defense
 title: "Ph.D. Dissertation: The Mechanistic Basis of In-context Learning"
 ---
 
-<font size="6"><span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span></font>
-
 This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
 
 Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publication details.
@@ -14,6 +12,8 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 - Chapter 4: [Mechanism of Task-oriented Information Removal in In-context Learning](https://arxiv.org/abs/2509.21012){:target="_blank"}
 - Chapter 5: [Token-based Decision Criteria Are Suboptimal in In-context Learning](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} (NAACL 2025 Long Paper) [h5=126, IF=16.5, Core A]
 - Chapter 6: [Mechanistic Fine-tuning for In-context Learning](https://arxiv.org/abs/2505.14233){:target="_blank"} (BlackboxNLP Workshop at EMNLP 2025)
+
+<font size="6"><span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span></font>
 
 ## Resources for Final Defense
 
