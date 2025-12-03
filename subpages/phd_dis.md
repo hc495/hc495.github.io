@@ -23,6 +23,8 @@ Revision Note:
 
 ### Dissertation
 
+**2025/12/05 Final**
+
 Revision Note:
 
 - Added a discussion on the correlation between the work in Chapter 3 and its subsequent related works.
@@ -83,6 +85,6 @@ The full dissertation with supplementary materials (Preliminary Defense version,
 The source codes for every experimental chapter are available at the following GitHub repositories: 
 
 - Chapter 3: [GitHub: ICL_Circuit](https://github.com/hc495/ICL_Circuit){:target="_blank"}
-- Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"} (TBA)
+- Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"} 
 - Chapter 5: [GitHub: Hidden_Calibration](https://github.com/hc495/Hidden_Calibration){:target="_blank"}
 - Chapter 6: [GitHub: ICL_head_tuning](https://github.com/hc495/ICL_head_tuning){:target="_blank"}
