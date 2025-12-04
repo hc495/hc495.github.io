@@ -18,14 +18,23 @@
         <a href="/">English</a>
         <a href="/ja">日本語</a>
         <script>
-          const path = location.pathname;
-          document.querySelectorAll('.top-lang-bar a').forEach(a => {
-            if (path.startsWith(a.getAttribute('href'))) {
-              a.style.fontWeight = 'bold';
-              a.style.color = '#000';
+          (function () {
+            var path = location.pathname; // 例如 "/", "/en/", "/en/paper/", "/ja/something"
+
+            // 1. 根据路径推断当前语言
+            var currentLang = 'en'; // 默认中文
+            if (path.indexOf('/ja/') === 0) {
+              currentLang = 'ja';
             }
-          });
-        </script>
+
+            // 2. 根据 data-lang 高亮对应链接
+            document.querySelectorAll('.top-lang-bar a').forEach(function (a) {
+              if (a.dataset.lang === currentLang) {
+                a.classList.add('active');
+              }
+            });
+          })();
+</script>
 </div>
     <!-- <div class="sidebar" style="width: 100%; padding: 10px; background-color: #f4f4f4; top: 0; left: 0;"></div>
         <ul style="list-style-type: none; padding: 0;">

@@ -65,6 +65,11 @@ a, .collapse-clicker {
     text-decoration: underline;
 }
 
+.top-lang-bar a.active {
+    font-weight: 600;
+    color: #000;
+}
+
 figcaption {
     font-size: 0.8em;
     color: #666;
