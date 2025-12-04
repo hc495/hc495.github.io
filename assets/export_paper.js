@@ -1,7 +1,6 @@
 // import fs from 'fs';
 // If running in a browser or server environment without direct file system access,
 // you should fetch the files via HTTP requests or use appropriate APIs.
-import path from 'path';
 import yaml from 'js-yaml';
 
 import fileURLToPath from 'url';
@@ -9,11 +8,11 @@ import fileURLToPath from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const authors_yml = await fetch(path.join('/_data/authors.yml')).then(res => res.text());
-const venues_yml = await fetch(path.join('/_data/venues.yml')).then(res => res.text());
-const international_confs_papers_yml = await fetch(path.join('/_data/international_c_papers.yml')).then(res => res.text());
-const domestic_confs_papers_yml = await fetch(path.join('/_data/domestic_c_papers.yml')).then(res => res.text());
-const preprints_yml = await fetch(path.join('/_data/preprints.yml')).then(res => res.text());
+const authors_yml = await fetch('/_data/authors.yml').then(res => res.text());
+const venues_yml = await fetch('/_data/venues.yml').then(res => res.text());
+const international_confs_papers_yml = await fetch('/_data/international_c_papers.yml').then(res => res.text());
+const domestic_confs_papers_yml = await fetch('/_data/domestic_c_papers.yml').then(res => res.text());
+const preprints_yml = await fetch('/_data/preprints.yml').then(res => res.text());
 // const authors_yml = fs.readFileSync(path.join(__dirname, '../_data/authors.yml'), 'utf8');
 // const venues_yml = fs.readFileSync(path.join(__dirname, '../_data/venues.yml'), 'utf8');
 // const international_confs_papers_yml = fs.readFileSync(path.join(__dirname, '../_data/international_c_papers.yml'), 'utf8');
