@@ -64,7 +64,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### (Thesis)
 
-1. **The Mechanistic Basis of In-context Learning**
+1. **The Mechanistic Basis of In-context Learning**    
     Yufeng Zhao   
     Ph.D. Dissertation - Expected Defense: March 2026 @ Japan Advanced Institute of Science and Technology. **2026**. 223 pages.
 2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    

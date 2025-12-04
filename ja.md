@@ -63,7 +63,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ### (学位論文)
 
-1. **大規模言語モデルにおける文脈内学習のメカニズム的基盤**
+1. **大規模言語モデルにおける文脈内学習のメカニズム的基盤**    
     Yufeng Zhao   
     博士論文 - 北陸先端科学技術大学院大学, **2026**. 223 pages.
 2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    
