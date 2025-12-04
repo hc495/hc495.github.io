@@ -34,11 +34,12 @@ console.log(`Loaded ${international_confs_papers.length} international conferenc
 console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`);
 console.log(`Loaded ${preprints.length} preprints.`);
 
-function getAuthorNames(authorEnt, lang='en') {
+function getAuthorName(authorEnt, lang='en') {
+    console.log("Author lookup:", authorEnt);
     const authorKey = authorEnt.name;
     if (lang == 'en') {
         const author = authors[authorKey];
-        console.log("Author lookup:", authorKey, author);
+        console.log("Author lookuped:", authorKey, author);
         return author ? author.name : authorKey;
     } else if (lang == 'jp') {
         const author = authors[authorKey];
@@ -63,7 +64,7 @@ function getVenueShortName(venueKey) {
 
 function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
-        const authorNames = paper.authors.map(getAuthorNames).join(', ');
+        const authorNames = paper.authors.map(getAuthorName).join(', ');
         if (preprints) {
             return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
