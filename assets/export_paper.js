@@ -40,7 +40,7 @@ function serializePaper(paper) {
     return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
 }
 
-function generateExportPaper() {
+window.generateExportPaper = async function generateExportPaper() {
     // International_papers
     let counter = 1;
     let string = '## International Conference Papers\n\n';
