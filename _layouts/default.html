@@ -17,6 +17,15 @@
         <div class="top-lang-bar">
         <a href="/">English</a>
         <a href="/ja">日本語</a>
+        <script>
+          const path = location.pathname;
+          document.querySelectorAll('.top-lang-bar a').forEach(a => {
+            if (path.startsWith(a.getAttribute('href'))) {
+              a.style.fontWeight = 'bold';
+              a.style.color = '#000';
+            }
+          });
+        </script>
 </div>
     <!-- <div class="sidebar" style="width: 100%; padding: 10px; background-color: #f4f4f4; top: 0; left: 0;"></div>
         <ul style="list-style-type: none; padding: 0;">
