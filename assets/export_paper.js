@@ -58,6 +58,7 @@ function serializePaper(paper, lang='en') {
 }
 
 window.generateExportPaper = async function generateExportPaper(lang='en') {
+    console.log("Generating export...");
     // International_papers
     let counter = 1;
     let string = '## International Conference Papers\n\n';
@@ -97,26 +98,32 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     URL.revokeObjectURL(url);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-  const link = document.getElementById('export-link');
-  if (!link) {
-    console.error('export-link not found');
-    return;
-  }
-  link.addEventListener('click', (e) => {
-    e.preventDefault();
-    generateExportPaper();
-  });
+generateExportPaper().then(() => {
+  // 导出完成后自动关闭或跳转
+  // window.close();      // 仅限用户主动打开的窗口
+  window.location.href = "/";    // 例如返回首页
 });
 
-document.addEventListener('DOMContentLoaded', () => {
-  const linkJp = document.getElementById('export-link-jp');
-  if (!linkJp) {
-    console.error('export-link-jp not found');
-    return;
-  }
-  linkJp.addEventListener('click', (e) => {
-    e.preventDefault();
-      generateExportPaper('jp');
-    });
-});
+// document.addEventListener('DOMContentLoaded', () => {
+//   const link = document.getElementById('export-link');
+//   if (!link) {
+//     console.error('export-link not found');
+//     return;
+//   }
+//   link.addEventListener('click', (e) => {
+//     e.preventDefault();
+//     generateExportPaper();
+//   });
+// });
+
+// document.addEventListener('DOMContentLoaded', () => {
+//   const linkJp = document.getElementById('export-link-jp');
+//   if (!linkJp) {
+//     console.error('export-link-jp not found');
+//     return;
+//   }
+//   linkJp.addEventListener('click', (e) => {
+//     e.preventDefault();
+//       generateExportPaper('jp');
+//     });
+// });
