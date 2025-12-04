@@ -72,9 +72,9 @@ function serializePaper(paper, lang='en', preprints=false) {
             const venueName = getVenueName(paper.venue);
             const venueShortName = getVenueShortName(paper.venue);
             if (venueShortName && venueShortName.length > 0) {
-                return `${authorNames}. ${paper.title}. ${venueName} (${venueShortName}). ${paper.year}.\n`;
+                return `${authorNames}. "${paper.title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
             } else {
-                return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}.\n`;
+                return `${authorNames}. "${paper.title}". ${venueName}. ${paper.year}.\n`;
             }
         }
     } else if (lang == 'jp') {
@@ -85,9 +85,9 @@ function serializePaper(paper, lang='en', preprints=false) {
             const venueName = getVenueName(paper.venue, 'jp');
             const venueShortName = getVenueShortName(paper.venue);
             if (venueShortName && venueShortName.length > 0) {
-                return `${authorNames}. ${paper.title}. ${venueName} (${venueShortName}). ${paper.year}.\n`;
+                return `${authorNames}. "${paper.title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
             } else {
-                return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}.\n`;
+                return `${authorNames}. "${paper.title}". ${venueName}. ${paper.year}.\n`;
             }
         }
     }
