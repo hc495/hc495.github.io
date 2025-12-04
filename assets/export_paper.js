@@ -129,6 +129,16 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
+
+    // Also show the export string in the page
+    let exportDiv = document.getElementById('export-paper-content');
+    if (!exportDiv) {
+        exportDiv = document.createElement('div');
+        exportDiv.id = 'export-paper-content';
+        exportDiv.style.whiteSpace = 'pre-wrap';
+        document.body.appendChild(exportDiv);
+    }
+    exportDiv.textContent = string;
 }
 
 generateExportPaper();
