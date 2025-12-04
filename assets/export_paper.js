@@ -29,6 +29,7 @@ console.log("Data loaded.");
 console.log(`Loaded ${authors.length} authors.`);
 console.log(`Loaded ${venues.length} venues.`);
 console.log("Venues content:", venues);
+console.log("Authors content:", authors);
 console.log(`Loaded ${international_confs_papers.length} international conference papers.`);
 console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`);
 console.log(`Loaded ${preprints.length} preprints.`);
@@ -53,6 +54,11 @@ function getVenueName(venueKey, lang='en') {
     }
 }
 
+function getVenueShortName(venueKey) {
+    const venue = venues[venueKey];
+    return venue && venue.short ? venue.short : '';
+}
+
 function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
         const authorNames = paper.authors.map(getAuthorNames).join(', ');
@@ -60,7 +66,12 @@ function serializePaper(paper, lang='en', preprints=false) {
             return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
             const venueName = getVenueName(paper.venue);
-            return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+            const venueShortName = getVenueShortName(paper.venue);
+            if (venueShortName && venueShortName.length > 0) {
+                return `${authorNames}. ${paper.title}. ${venueName} (${venueShortName}). ${paper.year}\n`;
+            } else {
+                return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+            }
         }
     } else if (lang == 'jp') {
         const authorNames = paper.authors.map(a => getAuthorNames(a, 'jp')).join('、 ');
@@ -68,7 +79,12 @@ function serializePaper(paper, lang='en', preprints=false) {
             return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
             const venueName = getVenueName(paper.venue, 'jp');
-            return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+            const venueShortName = getVenueShortName(paper.venue);
+            if (venueShortName && venueShortName.length > 0) {
+                return `${authorNames}. ${paper.title}. ${venueName} (${venueShortName}). ${paper.year}\n`;
+            } else {
+                return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+            }
         }
     }
 }
