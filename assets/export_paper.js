@@ -81,7 +81,7 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
         });
     } else if (lang === 'jp') {
         domestic_confs_papers.forEach(paper => {
-            string += `${counter}． ${serializePaper(paper, 'jp')}`;
+            string += `${counter}. ${serializePaper(paper, 'jp')}`;
             counter++;
         });
     }
