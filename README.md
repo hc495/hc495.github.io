@@ -100,7 +100,23 @@ I am actively seeking productive research collaborations in the mentioned area. 
   Department of Basic Science, [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
-## Awards
+## Professional Activities
+
+### International Conference Reviewer
+
+- Association for Computational Linguistics Rolling Review (ACL ARR): 2025 (May, July, October), 2026 (January)
+- Conference on Neural Information Processing Systems (NeurIPS): 2025
+- International Conference on Learning Representations (ICLR): 2025, 2026
+- International Conference on Machine Learning (ICML): 2025 Actionable Interpretability Workshop
+- Annual Meeting of the Association for Computational Linguistics (ACL): 2025 Student Research Workshop
+
+### Society Member
+
+- Student Member, The Japanese Association for Natural Language Processing
+- Student Member, The Japanese Society for Artificial Intelligence
+- Association for Computational Linguistics (ACL)
+
+### Awards
 
 - [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the Japanese Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 14 in 765, 2.0%)
 - [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ The 260th SIG for Natural Language, Information Processing Society of Japan (SIG-NL260, IPSJ). 2024.

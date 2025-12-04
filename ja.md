@@ -99,7 +99,23 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
-## 受賞歴
+## 学術活動
+
+### 国際会議査読
+
+- Association for Computational Linguistics Rolling Review (ACL ARR): 2025 (May, July, October), 2026 (January)
+- Conference on Neural Information Processing Systems (NeurIPS): 2025
+- International Conference on Learning Representations (ICLR): 2025, 2026
+- International Conference on Machine Learning (ICML): 2025 Actionable Interpretability Workshop
+- Annual Meeting of the Association for Computational Linguistics (ACL): 2025 Student Research Workshop
+
+### 所属学会
+
+- 言語処理学会 学生会員
+- 人工知能学会 学生会員
+- Association for Computational Linguistics (ACL)
+
+### 受賞歴
 
 - [優秀賞](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ 言語処理学会 第31回年次大会 (NLP2025, ANLP), 2025 (全765件中上位15件, 2.0%)  
 - [若手奨励賞](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ 情報処理学会 第260回NL研究会 (SIG-NL260), 2024  
