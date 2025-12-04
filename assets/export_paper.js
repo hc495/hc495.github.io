@@ -97,16 +97,26 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     URL.revokeObjectURL(url);
 }
 
-document
-    .getElementById('export-link')
-    .addEventListener('click', function (e) {
-      e.preventDefault();
-      generateExportPaper();
-    });
+document.addEventListener('DOMContentLoaded', () => {
+  const link = document.getElementById('export-link');
+  if (!link) {
+    console.error('export-link not found');
+    return;
+  }
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    generateExportPaper();
+  });
+});
 
-document
-    .getElementById('export-link-jp')
-    .addEventListener('click', function (e) {
-      e.preventDefault();
+document.addEventListener('DOMContentLoaded', () => {
+  const linkJp = document.getElementById('export-link-jp');
+  if (!linkJp) {
+    console.error('export-link-jp not found');
+    return;
+  }
+  linkJp.addEventListener('click', (e) => {
+    e.preventDefault();
       generateExportPaper('jp');
     });
+});
