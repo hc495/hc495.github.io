@@ -17,13 +17,20 @@
         <div class="top-lang-bar">
         <a href="/">English</a>
         <a href="/ja">日本語</a>
-        <script>
+        </div>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <h1>{{ page.title | escape }}</h1>
+      {{ content }}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    <script>
           (function () {
             var path = location.pathname; // 例如 "/", "/en/", "/en/paper/", "/ja/something"
 
             // 1. 根据路径推断当前语言
             var currentLang = 'en'; // 默认中文
-            if (path.indexOf('/ja/') === 0) {
+            if (path.indexOf('/ja') === 0) {
               currentLang = 'ja';
             }
 
@@ -35,29 +42,5 @@
             });
           })();
 </script>
-</div>
-    <!-- <div class="sidebar" style="width: 100%; padding: 10px; background-color: #f4f4f4; top: 0; left: 0;"></div>
-        <ul style="list-style-type: none; padding: 0;">
-            <li>
-                    {% if page.url != "/" %}
-                            <a href="{{ "/" | relative_url }}">English</a>
-                    {% else %}
-                            <span style="color: gray;">English</span>
-                    {% endif %}
-            </li> <li>
-                    {% if page.url != "/ja" %}
-                            <a href="{{ "/ja" | relative_url }}">Japanese</a>
-                    {% else %}
-                            <span style="color: gray;">Japanese</span>
-                    {% endif %}
-            </li>
-        </ul>
-    </div> -->
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1>{{ page.title | escape }}</h1>
-      {{ content }}
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
   </body>
 </html>
