@@ -35,20 +35,20 @@ console.log(`Loaded ${preprints.length} preprints.`);
 
 function getAuthorNames(authorKey, lang='en') {
     if (lang == 'en') {
-        const author = authors.find(a => a.key === authorKey);
+        const author = authors[authorKey];
         return author ? author.name : authorKey;
     } else if (lang == 'jp') {
-        const author = authors.find(a => a.key === authorKey);
+        const author = authors[authorKey];
         return author ? (author.name_jp || author.name) : authorKey;
     }
 }
 
 function getVenueName(venueKey, lang='en') {
     if (lang == 'en') {
-        const venue = venues.find(v => v.key === venueKey);
+        const venue = venues[venueKey];
         return venue ? venue.name : venueKey;
     } else if (lang == 'jp') {
-        const venue = venues.find(v => v.key === venueKey);
+        const venue = venues[venueKey];
         return venue ? (venue.name_jp || venue.name) : venueKey;
     }
 }
