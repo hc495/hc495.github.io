@@ -44,6 +44,27 @@ a, .collapse-clicker {
     }
 }
 
+.top-lang-bar {
+    width: 100%;
+    padding: 6px 0;
+    background: #f7f7f7;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    font-size: 14px;
+    font-family: system-ui, sans-serif;
+}
+
+.top-lang-bar a {
+    margin: 0 12px;
+    color: #555;
+    text-decoration: none;
+}
+
+.top-lang-bar a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
 figcaption {
     font-size: 0.8em;
     color: #666;
