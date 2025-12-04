@@ -3,11 +3,19 @@
 // you should fetch the files via HTTP requests or use appropriate APIs.
 import yaml from "https://unpkg.com/js-yaml@4/dist/js-yaml.mjs";
 
-const authors_yml = await fetch('/data/authors.yml').then(res => res.text());
-const venues_yml = await fetch('/data/venues.yml').then(res => res.text());
-const international_confs_papers_yml = await fetch('/data/international_c_papers.yml').then(res => res.text());
-const domestic_confs_papers_yml = await fetch('/data/domestic_c_papers.yml').then(res => res.text());
-const preprints_yml = await fetch('/data/preprints.yml').then(res => res.text());
+const [
+  authors_yml,
+  venues_yml,
+  international_confs_papers_yml,
+  domestic_confs_papers_yml,
+  preprints_yml
+] = await Promise.all([
+  fetch('/data/authors.yml').then(r => r.text()),
+  fetch('/data/venues.yml').then(r => r.text()),
+  fetch('/data/international_c_papers.yml').then(r => r.text()),
+  fetch('/data/domestic_c_papers.yml').then(r => r.text()),
+  fetch('/data/preprints.yml').then(r => r.text())
+]);
 
 const venues = yaml.load(venues_yml);
 const authors = yaml.load(authors_yml);
