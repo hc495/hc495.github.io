@@ -47,12 +47,15 @@ a, .collapse-clicker {
 
 .top-lang-bar {
     width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
     padding: 6px 0;
     background: #f7f7f7;
     border-bottom: 1px solid #ddd;
     text-align: center;
     font-size: 14px;
     font-family: system-ui, sans-serif;
+    overflow-x: auto;
 }
 
 .top-lang-bar a {
