@@ -1,6 +1,6 @@
-const fs = require('fs');
-const path = require('path');
-const yaml = require('js-yaml');
+import fs from 'fs';
+import path from 'path';
+import yaml from 'js-yaml';
 
 const authors_yml = fs.readFileSync(path.join(__dirname, '../_data/authors.yml'), 'utf8');
 const venues_yml = fs.readFileSync(path.join(__dirname, '../_data/venues.yml'), 'utf8');
@@ -54,5 +54,11 @@ function generateExportPaper() {
     });
     return string;
 }
+
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 // fs.writeFileSync(path.join(__dirname, 'exported_papers.txt'), generateExportPaper());
