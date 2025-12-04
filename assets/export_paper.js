@@ -78,6 +78,8 @@ function serializePaper(paper, lang='en', preprints=false) {
             }
         }
     } else if (lang == 'jp') {
+        console.log("Generating export in Japanese...");
+        console.log("Paper data:", paper);
         const authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
         if (preprints) {
             return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}\n`;
