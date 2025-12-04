@@ -67,7 +67,7 @@ function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
         const authorNames = paper.authors.map(a => getAuthorName(a, 'en')).join(', ');
         if (preprints) {
-            return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}\n`;
+            return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}.\n`;
         } else {
             const venueName = getVenueName(paper.venue);
             const venueShortName = getVenueShortName(paper.venue);
@@ -82,7 +82,7 @@ function serializePaper(paper, lang='en', preprints=false) {
         console.log("Paper data:", paper);
         const authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
         if (preprints) {
-            return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}\n`;
+            return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}.\n`;
         } else {
             const venueName = getVenueName(paper.venue, 'jp');
             const venueShortName = getVenueShortName(paper.venue);
