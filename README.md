@@ -45,9 +45,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Publications
 
-<!-- [[Export Publication List as TXT](/subpages/export.html?action=exportPaper){:target="_blank"}] -->
-
-<!-- [<a href="#" id="export-link">Export Publication List as TXT</a>] -->
+[[Export Publication List as TXT](/subpages/export.html?action=exportPaper){:target="_blank"}]
 
 {% include_relative _includes/paper_statics.html %}
 

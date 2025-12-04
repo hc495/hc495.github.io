@@ -47,6 +47,8 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 論文一覧
 
+[[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=ja){:target="_blank"}]
+
 {% include_relative _includes/paper_statics.html %}
 
 ### 国際会議
