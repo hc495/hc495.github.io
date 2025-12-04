@@ -43,11 +43,11 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 論文一覧
 
-[[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
-[[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
-[[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
-[[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
-[[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
+[[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] 
+[[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] 
+[[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"}] 
+[[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
+[[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 
 {% include_relative _includes/paper_statics.html %}
 
