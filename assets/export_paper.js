@@ -53,17 +53,24 @@ function getVenueName(venueKey, lang='en') {
     }
 }
 
-function serializePaper(paper, lang='en') {
+function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
         const authorNames = paper.authors.map(getAuthorNames).join(', ');
-        const venueName = getVenueName(paper.venue);
-        return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+        if (preprints) {
+            return `${authorNames}. ${paper.title}. ${paper.year}\n`;
+        } else {
+            const venueName = getVenueName(paper.venue);
+            return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+        }
     } else if (lang == 'jp') {
         const authorNames = paper.authors.map(a => getAuthorNames(a, 'jp')).join('、 ');
-        const venueName = getVenueName(paper.venue, 'jp');
-        return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+        if (preprints) {
+            return `${authorNames}. ${paper.title}. ${paper.year}\n`;
+        } else {
+            const venueName = getVenueName(paper.venue, 'jp');
+            return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+        }
     }
-    
 }
 
 window.generateExportPaper = async function generateExportPaper(lang='en') {
