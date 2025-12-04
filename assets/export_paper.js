@@ -24,9 +24,14 @@ const domestic_confs_papers = yaml.load(domestic_confs_papers_yml);
 const preprints = yaml.load(preprints_yml);
 
 
-function getAuthorNames(authorKey) {
-    const author = authors.find(a => a.key === authorKey);
-    return author ? author.name : authorKey;
+function getAuthorNames(authorKey, lang='en') {
+    if (lang == 'en') {
+        const author = authors.find(a => a.key === authorKey);
+        return author ? author.name : authorKey;
+    } else if (lang == 'jp') {
+        const author = authors.find(a => a.key === authorKey);
+        return author ? (author.name_jp || author.name) : authorKey;
+    }
 }
 
 function getVenueName(venueKey) {
@@ -34,13 +39,18 @@ function getVenueName(venueKey) {
     return venue ? venue.name : venueKey;
 }
 
-function serializePaper(paper) {
-    const authorNames = paper.authors.map(getAuthorNames).join(', ');
-    const venueName = getVenueName(paper.venue);
-    return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+function serializePaper(paper, lang='en') {
+    if (lang == 'en') {
+        const authorNames = paper.authors.map(getAuthorNames).join(', ');
+        const venueName = getVenueName(paper.venue);
+        return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
+    } else if (lang == 'jp') {
+
+    }
+    
 }
 
-window.generateExportPaper = async function generateExportPaper() {
+window.generateExportPaper = async function generateExportPaper(lang='en') {
     // International_papers
     let counter = 1;
     let string = '## International Conference Papers\n\n';
@@ -64,4 +74,9 @@ window.generateExportPaper = async function generateExportPaper() {
     return string;
 }
 
-// fs.writeFileSync(path.join(__dirname, 'exported_papers.txt'), generateExportPaper());
+document
+    .getElementById('export-link')
+    .addEventListener('click', function (e) {
+      e.preventDefault();
+      generateExportPaper();
+    });
