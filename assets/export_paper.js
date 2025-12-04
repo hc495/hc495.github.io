@@ -34,7 +34,8 @@ console.log(`Loaded ${international_confs_papers.length} international conferenc
 console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`);
 console.log(`Loaded ${preprints.length} preprints.`);
 
-function getAuthorNames(authorKey, lang='en') {
+function getAuthorNames(authorEnt, lang='en') {
+    const authorKey = authorEnt.name;
     if (lang == 'en') {
         const author = authors[authorKey];
         return author ? author.name : authorKey;
