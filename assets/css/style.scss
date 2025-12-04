@@ -9,7 +9,7 @@
 // overall margin
 .container-lg {
     max-width: none;
-    margin: 2% 15% 2% 15%;
+    margin: 2% 17% 2% 17%;
 }
 
 // Link styles
@@ -87,6 +87,16 @@ body, .markdown-body {
     color: #00112e;
     font-family: 'Noto Sans JP', Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
+    line-height: 1.4;
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    /* 限制短词的连字符，以避免过度断词 */
+    -webkit-hyphenate-limit-chars: 6 3;
+    hyphenate-limit-chars: 6 3;
 }
 
 // body, .markdown-body {
@@ -113,11 +123,6 @@ h3 {
     font-family: "Gentium Basic";
     color: #028390;
     font-size: 1.2em;
-}
-
-// Line Margin 行间距
-body, .markdown-body {
-    line-height: 1.4;
 }
 
 div.img_margin {
