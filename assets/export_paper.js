@@ -25,6 +25,9 @@ const international_confs_papers = yaml.load(international_confs_papers_yml);
 const domestic_confs_papers = yaml.load(domestic_confs_papers_yml);
 const preprints = yaml.load(preprints_yml);
 
+const params = new URLSearchParams(window.location.search);
+const lang = params.get('lang') || 'en';
+
 console.log("Data loaded.");
 console.log(`Loaded ${authors.length} authors.`);
 console.log(`Loaded ${venues.length} venues.`);
@@ -36,10 +39,8 @@ console.log(`Loaded ${preprints.length} preprints.`);
 
 function getAuthorName(authorEnt, lang='en') {
     const authorKey = authorEnt.name;
-    console.log("Author lookup:", authorKey);
     if (lang == 'en') {
         const author = authors[authorKey];
-        console.log("Author lookuped:", authorKey, author);
         return author ? author.name : authorKey;
     } else if (lang == 'jp') {
         const author = authors[authorKey];
@@ -146,7 +147,7 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     exportDiv.textContent = string;
 }
 
-generateExportPaper();
+generateExportPaper(lang);
 
 // document.addEventListener('DOMContentLoaded', () => {
 //   const link = document.getElementById('export-link');
