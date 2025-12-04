@@ -103,3 +103,10 @@ document
       e.preventDefault();
       generateExportPaper();
     });
+
+document
+    .getElementById('export-link-jp')
+    .addEventListener('click', function (e) {
+      e.preventDefault();
+      generateExportPaper('jp');
+    });
