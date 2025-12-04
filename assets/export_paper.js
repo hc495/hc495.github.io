@@ -96,7 +96,10 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     console.log("Generating export...");
     // International_papers
     let counter = 1;
-    let string = '## International Conference Papers\n\n';
+    const now = new Date();
+    const formattedDate = now.toLocaleString('en-US', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    let string = `Publication List at ${formattedDate}\n\n`;
+    string += '## International Conference Papers\n\n';
     international_confs_papers.forEach(paper => {
         string += `${counter}. ${serializePaper(paper)}`;
         counter++;
