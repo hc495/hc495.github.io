@@ -1,12 +1,7 @@
 // import fs from 'fs';
 // If running in a browser or server environment without direct file system access,
 // you should fetch the files via HTTP requests or use appropriate APIs.
-import yaml from 'js-yaml';
-
-import fileURLToPath from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import yaml from "https://unpkg.com/js-yaml@4/dist/js-yaml.mjs";
 
 const authors_yml = await fetch('/_data/authors.yml').then(res => res.text());
 const venues_yml = await fetch('/_data/venues.yml').then(res => res.text());
