@@ -35,8 +35,8 @@ console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`
 console.log(`Loaded ${preprints.length} preprints.`);
 
 function getAuthorName(authorEnt, lang='en') {
-    console.log("Author lookup:", authorEnt);
     const authorKey = authorEnt.name;
+    console.log("Author lookup:", authorKey);
     if (lang == 'en') {
         const author = authors[authorKey];
         console.log("Author lookuped:", authorKey, author);
