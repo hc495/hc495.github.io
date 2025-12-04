@@ -7,3 +7,5 @@ sass:
 google_analytics: G-RFM3S7GRYQ
 
 timezone: Asia/Tokyo
+
+data_dir: data

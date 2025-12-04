@@ -1,5 +1,318 @@
----
-layout: none
-permalink: /data/domestic_c_papers.yml
----
-{{ site.data.domestic_c_papers }}
+- title: "Conference Note: Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  title_jp: "学会記事: Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  authors:
+    - name: me
+    - name: n-inoue
+  venue: JNLP
+  pages: 6
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://www.jstage.jst.go.jp/article/jnlp/32/3/32_989/_pdf/-char/ja"
+  urls:
+    - url: "https://www.jstage.jst.go.jp/article/jnlp/32/3/32_989/_pdf/-char/ja"
+      label: "PDF"
+
+- title: "Measuring Intrinsic Dimension of Token Embeddings"
+  title_jp: "トークン埋め込みの内在次元を測る"
+  authors:
+    - name: "Takuya Kataiwa"
+      name_jp: "片岩拓也"
+    - name: me
+    - name: "Tetsushi Ohki"
+      name_jp: "大木哲史"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  venue: jsai
+  pages: 4
+  review: true
+  second: true
+  year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
+  urls:
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/3S4-GS-2-02/detail"
+      label: "PDF"
+  abstract: "本稿では，言語の埋め込み表現である単語ベクトルや埋め込み層について，表現に必要十分な次元である内在次元 (Intrinsic Dimension; ID) を計測し，その冗長度合いを定量評価する．具体的には，(1) Word2Vec や GloVe などの小規模モデルの埋め込みが持つIDを推定し，(2) Pythiaシリーズを代表とする大規模言語モデルの埋め込み層における ID をスケール別・学習過程別に解析する．実験の結果，埋め込み空間が外在次元に比べ低い次元の多様体上に分布する傾向が見られた．また，モデル規模の拡大に伴う冗長率の変化や，学習初期において ID が急速に収束する傾向が観察された．また，推定されたIDがLoRA適用時のランク選択に有効な可能性を示した．"
+  id: "jsai1"
+
+- title: "Analysis of Internal Representations of Knowledge with Expressions of Familiarity"
+  title_jp: "既知性を示す言語表現を伴う知識に関する内部表象の分析"
+  authors:
+    - name: "Kenshiro Tanaka"
+      name_jp: "田中健史朗"
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: me
+    - name: n-inoue
+    - name: "Kai Sato"
+      name_jp: "佐藤魁"
+    - name: "Ryosuke Takahashi"
+      name_jp: "高橋良允"
+    - name: "Benjamin Heinzerling"
+      name_jp: "Benjamin Heinzerling"
+    - name: i-kentaro
+  venue: jsai
+  pages: 4
+  review: true
+  second: false
+  year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId="
+  urls: 
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/2Win5-23/date?cryptoId="
+      label: "PDF"
+  abstract: "大規模言語モデル (LLM) の知識の既知性判断能力に関する研究が進められつつあるが、「It is known that…」のような既知性を示す言語表現を伴う知識を学習した際に、推論時にLLMがその知識の既知性を判断する能力については、検討されていない。本研究では、事前学習済みLLMに既知性を示す言語表現を付与した知識の記述を学習させ、その知識の内部表象を分析することで、既知性がどのようにLLMの内部に表現され得るのかを分析する。その結果、（1）知識の内部表象には、学習時に付与した言語表現毎に個別に既知性の情報が保持されていること、（2）既知性の情報は言語表現の記述位置毎に個別に保持されることが明らかになった。本研究は、LLMの既知性の判断能力のメカニズム解明の足がかりとなるものである。"
+  id: "jsai2"
+
+- title: "Internal Representations of Knowledge Recognition in Language Models"
+  title_jp: "言語モデルにおける知識の既知性判断の内部表象"
+  authors:
+    - name: "Kai Sato"
+      name_jp: "佐藤魁"
+    - name: "Ryosuke Takahashi"
+      name_jp: "高橋良允"
+    - name: "Benjamin Heinzerling"
+      name_jp: "Benjamin Heinzerling"
+    - name: "Kenshiro Tanaka"
+      name_jp: "田中健史朗"
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+    - name: i-kentaro
+  venue: jsai
+  pages: 4
+  review: true
+  second: false
+  year: 2025
+  basic_url: "https://confit.atlas.jp/guide/event/jsai2025/subject/1Win4-18/tables?cryptoId="
+  urls:
+    - url: "https://confit.atlas.jp/guide/event/jsai2025/subject/1Win4-18/tables?cryptoId="
+      label: "PDF"
+  abstract: "言語モデル（LM）の知識獲得能力は広く研究されているが，獲得した知識の既知性に関する判断機序については十分な理解が得られていない．本研究ではLMを用いて，特定の知識に対する出力生成時と既知性判断時の内部状態を比較分析した．結果として，言語モデルが実際に既知性判断を行う能力を持ち得ることが示され，（1）知識を学習した時点で，既知性を判断するための情報が内部表現中に存在すること，（2）既知と判断される知識と未知と判断される知識において，LMがそれぞれ異なる活性化パターンを示すことを明らかにした．これらの知見は，LMの既知性判断メカニズムの理解へ向けた手がかりを提供する．"
+  id: "jsai3"
+
+- title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+  title_jp: "大規模言語モデルにおける In-context Learning の推論回路"
+  authors:
+    - name: me
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A7-4.pdf"
+  pages: 6
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A7-4.pdf"
+      label: "PDF"
+    - url: "https://drive.google.com/file/d/1tSBHQgnDcuti2pZcE-KxJX90NZPthFo6/view"
+      label: "Slides"
+  other: "Oral, <span style='color:#fe97b5'><strong>Outstanding Paper</strong></span>"
+  other_jp: "Oral, <span style='color:#fe97b5'><strong>優秀賞</strong></span>"
+  abstract: "In-context Learning (ICL) は，言語モデルにおける新たな少数ショット学習パラダイムとして注目されているが，その内在的メカニズムは十分に解明されていない. 本研究では，ICL の推論ダイナミクスを3 つの基本操作に分解し，それらを基盤として推論回路を構築した上で精密な測定を行い，従来の研究で観察されてきた現象を統一的に説明することを試みた. さらに，提案した回路を無効化するアブレーション分析の結果，ICL の性能が顕著に低下することが確認され，提案した推論回路が ICL の主要なメカニズムであることが示唆された."
+  id: "anlp1"
+
+- title: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
+  title_jp: "Beyond the Induction Circuit: A Mechanistic Prototype for Out-of-domain In-context Learning"
+  authors:
+    - name: me
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: false
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf"
+  pages: 5
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-5.pdf"
+      label: "PDF"
+    - url: "https://drive.google.com/file/d/1CbeDjvkeSg8x0FObvuePCKkhfkjXVcf9/view"
+      label: "Poster"
+  abstract: "In-contextLearning (ICL) is a promising few-shot learning paradigm with unclear mechanisms. Existing explanations heavily rely on Induction Heads, which fail to account for out-of-domain ICL, where query labels are absent in demonstrations. To address this, we model ICL as attribute resolution, where queries are mixtures of some attributes, and ICL identifies and resolves relevant attributes for predictions. In this paper, we propose a mechanistic prototype using toy models trained on synthetic data, and observe: (1) even 1-layer Transformers achieve non-trivial accuracy, with limited benefit from additional demonstrations, (2) scaling models effectively improve accuracy, and (3) inference operations can be decomposed into label space identification and generalized induction, warranting further exploration."
+  id: "anlp2"
+
+- title: "Measuring Intrinsic Dimension of Token Embeddings"
+  title_jp: "埋め込み表現の内在次元を測る"
+  authors:
+    - name: "Takuya Kataiwa"
+      name_jp: "片岩拓也"
+    - name: me
+    - name: "Tetsushi Ohki"
+      name_jp: "大木哲史"
+      url: "https://sec.inf.shizuoka.ac.jp/people/ohki/"
+  venue: nlp
+  review: false
+  second: true
+  pages: 5
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-10.pdf"
+      label: "PDF"
+  abstract: "本研究では，言語の埋め込み表現である単語ベクトルや埋め込み層について，表現に必要十分な次元である内在次元 (Intrinsic Dimension; ID) を計測し，その冗長度合いを定量評価する．具体的には，(1)Word2Vec や GloVe などの小規模モデルの埋め込みが持つ ID を推定し，(2) Pythia 系列を代表とする大規模言語モデルの埋め込み層における ID をスケール別・学習過程別に解析する．実験の結果，埋め込み空間が外在的な次元に比べ低い次元の多様体上に分布する傾向が見られた．また，モデル規模の拡大に伴う冗長率の変化や，学習初期における急激な IDの形成が見られた．"
+  id: "anlp3"
+
+- title: "Affinity and Diversity: A Unified Metric for Demonstration Selection via Internal Representations"
+  title_jp: "文脈内学習におけるデモの親和性と多様性の提案"
+  authors:
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  pages: 6
+  year: 2025
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/Q8-17.pdf"
+      label: "PDF"
+  abstract: "文脈内学習 (In-Context Learning; ICL) において, デモンストレーション (デモ) の選択はタスク性能に大きな影響を与える. 既存研究ではデモの選択手順については研究されているが, 選択基準であるデモの性質は十分に調べられていない. 本研究では, デモの「親和性」と「多様性」という 2 つの性質を新たに提案し, その内の親和性が性質が複数のモデルおよびデータセットにおいてデモ選択に望ましい性質であることを示した. さらに, 既存手法で選ばれたデモが, 2 つの性質のタスク性能を向上させる方向へ集約していることを示し, デモ選択とタスク性能のメカニズム解明への示唆を得た."
+  id: "anlp4"
+
+- title: "StaICC: Standardized Evaluation for Classification Task in In-context Learning"
+  title_jp: "StaICC: 文脈内学習における分類タスクの標準的なベンチマーク"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: n-inoue
+  venue: yans
+  review: false
+  second: true
+  year: 2025
+  basic_url: "https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view"
+  urls:
+    - url: "https://drive.google.com/file/d/1eZ8O0aNWQqRntwm3m2SIGl-ixNk6Hzw4/view"
+      label: "Poster"
+  other: "Poster Only"
+  other_jp: "Poster Only"  
+
+- title: "Image Feature Vectors are Frozen Informative Tokens for Language Models"
+  title_jp: "画像特徴ベクトルは重みを固定した言語モデルで情報豊かなトークンである"
+  authors:
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: me
+    - name: "Zhenzhu Yan"
+      name_jp: "閻真竺"
+    - name: "Yuting Shi"
+      name_jp: "石钰婷"
+    - name: n-inoue
+  venue: yans
+  review: false
+  second: false
+  year: 2025
+  other: "Poster Only"
+  other_jp: "Poster Only"
+
+- title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  title_jp: "In-context Learning におけるトークンベース較正手法の用いる決定境界は最適でない"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: "Mariko Kato"
+      name_jp: "加藤万理子"
+    - name: "Kenshiro Tanaka"
+      name_jp: "田中健史朗"
+    - name: "Akira Ishii"
+      name_jp: "石井晶"
+    - name: n-inoue
+  venue_jp: 情報処理学会NL研第260回研究発表会
+  venue: The 260th SIG for Natural Language, Information Processing Society of Japan
+  venue_short: SIG-NL260, IPSJ
+  review: false
+  second: true
+  pages: 17
+  year: 2024
+  other: "Oral, <span style='color:#fe97b5'><strong>Research Award for Young Scholars</strong></span>"
+  other_jp: "Oral, <span style='color:#fe97b5'><strong>若手奨励賞</strong></span>"
+  basic_url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
+  urls:
+    - url: "https://ipsj.ixsq.nii.ac.jp/records/235105"
+      label: "PDF"
+    - url: "https://docs.google.com/presentation/d/17D59UYZBZ4OHpqoA3lKHPfNyqNifU7MZ/edit?slide=id.p1#slide=id.p1"
+      label: "Slides"
+  abstract: "文脈内学習 (In-Context Learning; ICL) のタスクでは通常，ラベル空間に含まれるラベルトークンの生成確率を比べることで推論結果を決定するが，そのラベルトークンの選択は人間により恣意的に行われる．いくつかの先行研究は，これらのラベルトークンの生成確率の較正が ICL の性能向上に寄与することを明らかにしたが，これらの手法には依然として，人間が最適ではないラベルトークンを選べてしまうという問題が残る．そこで，本研究ではまず (1) LLM の隠れ状態を分析することで，現行のトークンベースの較正手法では，隠れ状態が持つ有益な情報をうまく表現出来ないことを明らかにする．そして，(2) 人間によるラベルトークン選択の影響を低減し，隠れ状態に含まれる有益な情報を効果的に利用出来る新たな ICL の手法を提案する．実験の結果，我々の提案手法は 3 つのモデルと 10 個の分類データセットでの実験で，現在のトークンベースの較正手法を約 20% 上回る性能を発揮した．"
+  id: "ipsj1"
+
+- title: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
+  title_jp: "NoisyICL: A Little Noise in Model Parameters Can Calibrate In-context Learning"
+  authors:
+    - name: "Yufeng Zhao"
+      name_jp: "趙羽風"
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: true
+  year: 2024
+  pages: 6
+  other: "Oral"
+  other_jp: "Oral"
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A3-1.pdf"
+      label: "PDF"
+    - url: "https://drive.google.com/file/d/1E7HCA78rmTzUZPspck_RzMm9Lw5ttDLw/view"
+      label: "Slides"
+  abstract: "In-Context Learning (ICL), where language models learn tasks in a generative form from few-shot demonstrations without parameter update, is emerging while scaling up the language models. Nevertheless, the performance of ICL is still unsatisfactory. Some previous studies suggested that it is due to under-calibration and they fine-tuned language models for better ICL performance with enormous datasets and computing costs. In this paper, we propose NoisyICL, simply perturbing the model parameters by random noises to strive for a calibration. Our experiments on 2 models and 7 downstream task datasets show that NoisyICL helps perform ICL better. Our further analysis indicates that NoisyICL can enable the model to provide more fair predictions, with less unfaithful confidence. So, NoisyICL can be considered as an effective calibration."
+  id: "anlp6"
+
+- title: "Can LLM Learn Prompt Format in In-context Learning?"
+  title_jp: "In-context Learning においてLLMはフォーマットを学べるか"
+  authors:
+    - name: "Yoshihiro Sakai"
+      name_jp: "坂井吉弘"
+    - name: me
+    - name: n-inoue
+  venue: nlp
+  review: false
+  second: false
+  pages: 6
+  year: 2024
+  other: "<span style='color:#fe97b5'>SB Intuitions Awards</span>"
+  other_jp: "<span style='color:#fe97b5'>スポンサー賞</span>"
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
+      label: "PDF"
+  abstract: "In-Context Learning (文脈内学習；ICL) は，プロンプト中に与えられた少数のデモなどからパラメータを更新することなくタスクを学習する LLM の能力であるが，そのメカニズムは十分に明らかにされていない．先行研究の実験は，「タスクの入力の後にラベルを出力する」というフォーマットを LLM に示すことが特に重要である可能性を示唆する．そこで本研究では，LLM が与えられたデモから答え方のフォーマットを学習する様子を直接的に可視化した．結果として，(1) 確かに LLM はデモから答え方のフォーマットを学んでいること，(2) フォーマットの学習は意味の無いラベルについても可能であること，(3) 最悪のラベルが ICL の Macro-F1 を大きく向上させることを発見した．"
+  id: "anlp5"
+
+- title: "Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models"
+  title_jp: "Find-the-Common: Benchmarking Inductive Reasoning Ability on Vision-Language Models"
+  authors:
+    - name: "Yuting Shi"
+      name_jp: "Yuting Shi"
+    - name: "Naoya Inoue"
+      name_jp: "Naoya Inoue"
+      url: "https://naoya-i.info/"
+    - name: "Houjing Wei"
+      name_jp: "Houjing Wei"
+    - name: "Yufeng Zhao"
+      name_jp: "趙羽風"
+      url: "https://naoya-i.info/"
+    - name: "Tao Jin"
+      name_jp: "Tao Jin"
+  venue: nlp
+  review: false
+  second: true
+  pages: 6
+  year: 2024
+  basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf"
+  urls:
+    - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P3-13.pdf"
+      label: "PDF"
+  abstract: "Recent advances in Instruction-fine-tuned Vision and Language Models (IVLMs) have revolutionized the landscape of integrated vision and language understanding. However, Inductive Visual Reasoning—a vital skill for textimage understanding—remains underexplored due to the absence of benchmarks. So, in this paper, we introduce Find–the–Common (FTC): a new vision and language task for Inductive Visual Reasoning. In this task, models are required to identify an answer that explains the common attributes across visual scenes. We create a new dataset for the FTC and assess the performance of several contemporary approaches including implicit reasoning, symbolic reasoning, and implicit-symbolic reasoning with various models. Extensive experiments show that even state-ofthe-art models like GPT-4V can only archive with 48% accuracy on the FTC, for which, the FTC is a new challenge for the visual reasoning research community. Our dataset is available online."
+  id: "anlp7"

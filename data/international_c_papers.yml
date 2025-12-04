@@ -1,5 +1,192 @@
----
-layout: none
-permalink: /data/international_c_papers.yml
----
-{{ site.data.international_c_papers }}
+- title: "Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning"
+  authors:
+    - name: Haolin
+    - name: me
+    - name: "Yiqiao Zhong"
+    - name: n-inoue
+  venue: NeurIPS
+  year: 2025
+  basic_url: "https://openreview.net/forum?id=FIfjDqjV0B"
+  pages: 52
+  urls:
+    - url: "https://openreview.net/forum?id=FIfjDqjV0B"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=FIfjDqjV0B"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2505.18752"
+      label: "arXiv"
+    - url: "https://neurips.cc/virtual/2025/poster/119047"
+      label: "Poster"
+    - url: "https://github.com/HLYang2001/ICL_Hidden_Geometry"
+      label: "Github"
+  abstract: "The unusual properties of in-context learning (ICL) have prompted investigations into the internal mechanisms of large language models. Prior work typically focuses on either special attention heads or task vectors at specific layers, but lacks a unified framework linking these components to the evolution of hidden states across layers that ultimately produce the model's output. In this paper, we propose such a framework for ICL in classification tasks by analyzing two geometric factors that govern performance: the separability and alignment of query hidden states. A fine-grained analysis of layer-wise dynamics reveals a striking two-stage mechanism: separability emerges in early layers, while alignment develops in later layers. Ablation studies further show that Previous Token Heads drive separability, while Induction Heads and task vectors enhance alignment. Our findings thus bridge the gap between attention heads and task vectors, offering a unified account of ICL's underlying mechanisms."
+  id: "nips1"
+  bibtex: |
+    @inproceedings{<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;yang2025unifying,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=FIfjDqjV0B}<br>
+    }
+
+- title: "Mechanistic Fine-tuning for In-context Learning"
+  authors:
+    - name: me
+    - name: "Peng Luo"
+    - name: "Mariko Kato"
+    - name: "Rin Kaenbyou"
+    - name: n-inoue
+  venue: BlackBox
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
+  pages: 28
+  urls:
+    - url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
+      label: "ACL Anthology"
+    - url: "https://arxiv.org/pdf/2505.14233"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2505.14233"
+      label: "arXiv"
+    - url: "https://github.com/hc495/ICL_head_tuning"
+      label: "Github"
+  abstract: "In-context Learning (ICL) utilizes structured demonstration-query inputs to induce few-shot learning on Language Models (LMs), which are not originally pre-trained on ICL-style data. To bridge the gap between ICL and pre-training, some approaches fine-tune LMs on large ICL-style datasets by an end-to-end paradigm with massive computational costs. To reduce such costs, in this paper, we propose Attention Behavior Fine-Tuning (ABFT), utilizing the previous findings on the inner mechanism of ICL, building training objectives on the attention scores instead of the final outputs, to force the attention scores to focus on the correct label tokens presented in the context and mitigate attention scores from the wrong label tokens. Our experiments on 9 modern LMs and 8 datasets empirically find that ABFT outperforms in performance, robustness, unbiasedness, and efficiency, with only around 0.01% data cost compared to the previous methods. Moreover, our subsequent analysis finds that the end-to-end training objective contains the ABFT objective, suggesting the implicit bias of ICL-style data to the emergence of induction heads. Our work demonstrates the possibility of controlling specific module sequences within LMs to improve their behavior, opening up the future application of mechanistic interpretability."
+  id: "blackbox1"
+  bibtex: |
+    @inproceedings{cho2025mechanistic,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle = "Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2505.14233}<br>
+    }
+  other: "Workshop at EMNLP 2025"
+
+- title: "Revisiting In-context Learning Inference Circuit in Large Language Models"
+  authors:
+    - name: me
+    - name: "Mariko Kato"
+    - name: "Yoshihiro Sakai"
+    - name: n-inoue
+  venue: iclr
+  year: 2025
+  basic_url: "https://openreview.net/forum?id=xizpnYNvQq"
+  pages: 37
+  urls:
+    - url: "https://openreview.net/forum?id=xizpnYNvQq"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=xizpnYNvQq"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2410.04468"
+      label: "arXiv"
+    - url: "https://github.com/hc495/ICL_Circuit"
+      label: "Github"
+    - url: "https://iclr.cc/virtual/2025/poster/27767"
+      label: "Poster"
+    - url: "https://openreview.net/forum?id=xizpnYNvQq"
+      label: "Review"
+  abstract: "In-context Learning (ICL) is an emerging few-shot learning paradigm on Language Models (LMs) with inner mechanisms un-explored. There are already existing works describing the inner processing of ICL, while they struggle to capture all the inference phenomena in large language models. Therefore, this paper proposes a comprehensive circuit to model the inference dynamics and try to explain the observed phenomena of ICL. In detail, we divide ICL inference into 3 major operations: (1) Input Text Encode: LMs encode every input text (in the demonstrations and queries) into linear representation in the hidden states with sufficient information to solve ICL tasks. (2) Semantics Merge: LMs merge the encoded representations of demonstrations with their corresponding label tokens to produce joint representations of labels and demonstrations. (3) Feature Retrieval and Copy: LMs search the joint representations of demonstrations similar to the query representation on a task subspace, and copy the searched representations into the query. Then, language model heads capture these copied label representations to a certain extent and decode them into predicted labels. Through careful measurements, the proposed inference circuit successfully captures and unifies many fragmented phenomena observed during the ICL process, making it a comprehensive and practical explanation of the ICL inference process. Moreover, ablation analysis by disabling the proposed steps seriously damages the ICL performance, suggesting the proposed inference circuit is a dominating mechanism. Additionally, we confirm and list some bypass mechanisms that solve ICL tasks in parallel with the proposed circuit."
+  id: "iclr1"
+  bibtex: |
+    @inproceedings{cho2025revisiting,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Revisiting In-context Learning Inference Circuit in Large Language Models},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Hakaze Cho and Mariko Kato and Yoshihiro Sakai and Naoya Inoue},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Thirteenth International Conference on Learning Representations},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=xizpnYNvQq}<br>
+    }
+
+- title: "Token-based Decision Criteria Are Suboptimal in In-context Learning"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+    - name: "Mariko Kato"
+    - name: "Kenshiro Tanaka"
+    - name: "Akira Ishii"
+    - name: n-inoue
+  venue: naacl
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.naacl-long.278/"
+  pages: 24
+  urls:
+    - url: "https://aclanthology.org/2025.naacl-long.278/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2025.naacl-long.278.pdf"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2406.16535"
+      label: "arXiv"
+    - url: "https://github.com/hc495/Hidden_Calibration"
+      label: "Github"
+    - url: "https://drive.google.com/file/d/1bD4cWT50GeW1DxABqoLPV7Ljbw12BgrE/view"
+      label: "Poster"
+    - url: "/reviews/hidden_calibration"
+      label: "Review"
+  abstract: "In-Context Learning (ICL) typically utilizes classification criteria from output probabilities of manually selected label tokens. However, we argue that such token-based classification criteria lead to suboptimal decision boundaries, despite delicate calibrations through translation and constrained rotation applied. To address this problem, we propose Hidden Calibration, which renounces token probabilities and uses the nearest centroid classifier on the LM’s last hidden states. In detail, we assign the label of the nearest centroid previously estimated from a calibration set to the test sample as the predicted label. Our experiments on 6 models and 10 classification datasets indicate that Hidden Calibration consistently outperforms current token-based baselines by about 20%~50%, achieving a strong state-of-the-art in ICL. Our further analysis demonstrates that Hidden Calibration finds better classification criteria with less inter-class overlap, and LMs provide linearly separable intra-class clusters with the help of demonstrations, which supports Hidden Calibration and gives new insights into the principle of ICL. Our official code implementation can be found at https://github.com/hc495/Hidden_Calibration."
+  id: "naacl1"
+  bibtex: |
+    @inproceedings{cho2025token,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Token-based Decision Criteria Are Suboptimal in In-context Learning},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Hakaze Cho and Yoshihiro Sakai and Mariko Kato and Kenshiro Tanaka and Akira Ishii and Naoya Inoue},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://aclanthology.org/2025.naacl-long.278/}<br>
+    }
+
+- title: "Understanding Token Probability Encoding in Output Embeddings"
+  authors:
+    - name: me
+    - name: "Yoshihiro Sakai"
+    - name: "Kenshiro Tanaka"
+    - name: "Mariko Kato"
+    - name: n-inoue
+  venue: coling
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.coling-main.708/"
+  pages: 16
+  urls:
+    - url: "https://aclanthology.org/2025.coling-main.708/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2025.coling-main.708.pdf"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2406.01468"
+      label: "arXiv"
+    - url: "https://drive.google.com/file/d/1U11m_Qonq_F9d3GDD04b3yYO0KzFSGhJ/view"
+      label: "Poster"
+  abstract: "In this paper, we investigate the output token probability information in the output embedding of language models. We find an approximate common log-linear encoding of output token probabilities within the output embedding vectors and empirically demonstrate that it is accurate and sparse. As a causality examination, we steer the encoding in output embedding to modify the output probability distribution accurately. Moreover, the sparsity we find in output probability encoding suggests that a large number of dimensions in the output embedding do not contribute to causal language modeling. Therefore, we attempt to delete the output-unrelated dimensions and find more than 30% of the dimensions can be deleted without significant movement in output distribution and sequence generation. Additionally, in the pre-training dynamics of language models, we find that the output embeddings capture the corpus token frequency information in early steps, even before an obvious convergence of parameters starts."
+  id: "coling1"
+  bibtex: |
+    @inproceedings{cho2025understanding,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Understanding Token Probability Encoding in Output Embeddings},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Hakaze Cho and Yoshihiro Sakai and Kenshiro Tanaka and Mariko Kato and Naoya Inoue},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 31st International Conference on Computational Linguistics},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://aclanthology.org/2025.coling-main.708/}<br>
+    }
+
+- title: "Find-the-Common: A Benchmark for Explaining Visual Patterns from Images"
+  authors:
+    - name: "Yuting Shi"
+    - name: n-inoue
+    - name: "Houjing Wei"
+    - name: "Yufeng Zhao"
+    - name: "Tao Jin"
+  venue: lrec
+  year: 2024
+  basic_url: "https://aclanthology.org/2024.lrec-main.642/"
+  pages: 7
+  urls:
+    - url: "https://aclanthology.org/2024.lrec-main.642/"
+      label: "ACL Anthology"
+    - url: "https://aclanthology.org/2024.lrec-main.642.pdf"
+      label: "PDF"
+  abstract: "Recent advances in Instruction-fine-tuned Vision and Language Models (IVLMs), such as GPT-4V and InstructBLIP, have prompted some studies have started an in-depth analysis of the reasoning capabilities of IVLMs. However, Inductive Visual Reasoning, a vital skill for text-image understanding, remains underexplored due to the absence of benchmarks. In this paper, we introduce Find-the-Common (FTC): a new vision and language task for Inductive Visual Reasoning. In this task, models are required to identify an answer that explains the common attributes across visual scenes. We create a new dataset for the FTC and assess the performance of several contemporary approaches including Image-Based Reasoning, Text-Based Reasoning, and Image-Text-Based Reasoning with various models. Extensive experiments show that even state-of-the-art models like GPT-4V can only archive with 48% accuracy on the FTC, for which, the FTC is a new challenge for the visual reasoning research community. Our dataset has been released and is available online: https://github.com/SSSSSeki/Find-the-common."
+  id: "lrec1"
+  bibtex: |
+    @inproceedings{shi2024find,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Find-the-Common: A Benchmark for Explaining Visual Patterns from Images},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Yuting Shi and Naoya Inoue and Houjing Wei and Yufeng Zhao and Tao Jin},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://aclanthology.org/2024.lrec-main.642/}<br>
+    }

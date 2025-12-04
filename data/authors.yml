@@ -1,5 +1,29 @@
----
-layout: none
-permalink: /data/authors.yml
----
-{{ site.data.authors }}
+me:
+  name: "Hakaze Cho"
+  url: "https://www.hakaze-c.com/"
+  name_jp: "趙羽風"
+
+n-inoue:
+  name: "Naoya Inoue"
+  url: "https://naoya-i.info/"
+  name_jp: "井之上直也"
+
+i-kentaro:
+  name: "Kentaro Inui"
+  url: "https://kentaro-inui.github.io/"
+  name_jp: "乾健太郎"
+
+"Benjamin Heinzerling":
+  name: "Benjamin Heinzerling"
+  url: "https://bheinzerling.github.io/" 
+  name_jp: "Benjamin Heinzerling"
+
+Haolin:
+  name: "Haolin Yang"
+  url: "https://hlyang2001.github.io/hly/"
+  name_jp: "Haolin Yang"
+
+Gouki:
+  name: "Gouki Minegishi"
+  url: "https://gouki510.github.io/"
+  name_jp: "峰岸剛基"
