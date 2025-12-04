@@ -28,6 +28,7 @@ const preprints = yaml.load(preprints_yml);
 console.log("Data loaded.");
 console.log(`Loaded ${authors.length} authors.`);
 console.log(`Loaded ${venues.length} venues.`);
+console.log("Venues content:", venues);
 console.log(`Loaded ${international_confs_papers.length} international conference papers.`);
 console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`);
 console.log(`Loaded ${preprints.length} preprints.`);
