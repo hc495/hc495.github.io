@@ -34,9 +34,14 @@ function getAuthorNames(authorKey, lang='en') {
     }
 }
 
-function getVenueName(venueKey) {
-    const venue = venues.find(v => v.key === venueKey);
-    return venue ? venue.name : venueKey;
+function getVenueName(venueKey, lang='en') {
+    if (lang == 'en') {
+        const venue = venues.find(v => v.key === venueKey);
+        return venue ? venue.name : venueKey;
+    } else if (lang == 'jp') {
+        const venue = venues.find(v => v.key === venueKey);
+        return venue ? (venue.name_jp || venue.name) : venueKey;
+    }
 }
 
 function serializePaper(paper, lang='en') {
@@ -45,7 +50,9 @@ function serializePaper(paper, lang='en') {
         const venueName = getVenueName(paper.venue);
         return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
     } else if (lang == 'jp') {
-
+        const authorNames = paper.authors.map(a => getAuthorNames(a, 'jp')).join('、 ');
+        const venueName = getVenueName(paper.venue, 'jp');
+        return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
     }
     
 }
@@ -67,11 +74,27 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     });
     // Domestic_papers
     string += '\n## Domestic Conference Papers\n\n';
-    domestic_confs_papers.forEach(paper => {
-        string += `${counter}. ${serializePaper(paper)}`;
-        counter++;
-    });
-    return string;
+    if (lang === 'en') {
+        domestic_confs_papers.forEach(paper => {
+            string += `${counter}. ${serializePaper(paper)}`;
+            counter++;
+        });
+    } else if (lang === 'jp') {
+        domestic_confs_papers.forEach(paper => {
+            string += `${counter}． ${serializePaper(paper, 'jp')}`;
+            counter++;
+        });
+    }
+    // Download as TXT file
+    const blob = new Blob([string], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = lang === 'en' ? 'publication_list.txt' : '論文一覧.txt';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
 }
 
 document
