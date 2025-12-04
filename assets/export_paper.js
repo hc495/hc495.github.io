@@ -25,6 +25,12 @@ const international_confs_papers = yaml.load(international_confs_papers_yml);
 const domestic_confs_papers = yaml.load(domestic_confs_papers_yml);
 const preprints = yaml.load(preprints_yml);
 
+console.log("Data loaded.");
+console.log(`Loaded ${authors.length} authors.`);
+console.log(`Loaded ${venues.length} venues.`);
+console.log(`Loaded ${international_confs_papers.length} international conference papers.`);
+console.log(`Loaded ${domestic_confs_papers.length} domestic conference papers.`);
+console.log(`Loaded ${preprints.length} preprints.`);
 
 function getAuthorNames(authorKey, lang='en') {
     if (lang == 'en') {
@@ -100,11 +106,7 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     URL.revokeObjectURL(url);
 }
 
-generateExportPaper().then(() => {
-  // 导出完成后自动关闭或跳转
-  // window.close();      // 仅限用户主动打开的窗口
-  window.location.href = "/";    // 例如返回首页
-});
+generateExportPaper();
 
 // document.addEventListener('DOMContentLoaded', () => {
 //   const link = document.getElementById('export-link');
