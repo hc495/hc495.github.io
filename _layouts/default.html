@@ -24,23 +24,5 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    <script>
-          (function () {
-            var path = location.pathname; // 例如 "/", "/en/", "/en/paper/", "/ja/something"
-
-            // 1. 根据路径推断当前语言
-            var currentLang = 'en'; // 默认中文
-            if (path.indexOf('/ja') === 0) {
-              currentLang = 'ja';
-            }
-
-            // 2. 根据 data-lang 高亮对应链接
-            document.querySelectorAll('.top-lang-bar a').forEach(function (a) {
-              if (a.dataset.lang === currentLang) {
-                a.classList.add('active');
-              }
-            });
-          })();
-</script>
   </body>
 </html>
