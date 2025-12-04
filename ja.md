@@ -74,10 +74,10 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 履歴
 
-<div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
+<!-- <div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
     <img src="./assets/fig/jaist.png" height="105">
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
-</div>
+</div> -->
 
 - **基礎科学特別研究員 (SPDR)**, (2026年4月) ～ (2029年3月)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター 自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  

@@ -75,10 +75,10 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Resume
 
-<div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
+<!-- <div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
     <img src="./assets/fig/jaist.png" height="105">
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
-</div>
+</div> -->
 
 - **Special Postdoc Research Fellowship** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}  
