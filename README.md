@@ -64,10 +64,13 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### (Thesis)
 
-1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
+1. **The Mechanistic Basis of In-context Learning**
+    Yufeng Zhao   
+    Ph.D. Dissertation - Expected Defense: March 2026 @ Japan Advanced Institute of Science and Technology. **2026**. 223 pages.
+2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    
     Yufeng Zhao   
     Master's Thesis - Rank A @ Beijing Institute of Technology. **2023**. 81 pages.
-2. Synthesis and Self-Assembly of Aggregation-induced Emission Compounds   
+3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
 

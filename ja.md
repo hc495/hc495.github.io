@@ -63,10 +63,13 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ### (学位論文)
 
-1. Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space    
+1. **大規模言語モデルにおける文脈内学習のメカニズム的基盤**
+    Yufeng Zhao   
+    博士論文 - 北陸先端科学技術大学院大学, **2026**. 223 pages.
+2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    
     Yufeng Zhao   
     修士論文 - 評価A @ 北京理工大学, **2023**. 81 pages.
-2. Synthesis and Self-Assembly of Aggregation-induced Emission Compounds   
+3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    学士論文 @ 北京理工大学, **2021**. 52 pages.
 
