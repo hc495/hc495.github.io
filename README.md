@@ -45,7 +45,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Publications
 
-<a href="#" onclick="generateExportPaper()">[Export Publication List as TXT]</a>
+[<a href="#" onclick="generateExportPaper()">Export Publication List as TXT</a>]
 
 {% include_relative _includes/paper_statics.html %}
 
