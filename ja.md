@@ -20,10 +20,10 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は、yfZhao495 [at] outlook.comにも併せて送ってみてください.  
 
 **リンク**:
-[[Twitter](https://x.com/yfZhao495){:target="_blank"}] &nbsp;&nbsp;&nbsp;
-[[GitHub](https://github.com/hc495){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
+[Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 <!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
-[[CV](./assets/cv_yfzhao.pdf){:target="_blank"}] &nbsp;&nbsp;&nbsp;   
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
 
 私は中国のトップ大学である北京理工大学を卒業し, 2021年に化学の学士号, 2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており, 2026年3月の早期修了を目指しています.  
@@ -32,7 +32,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 この研究分野に関心のある方との共同研究を積極的に募集しています. ご興味をお持ちの方は, ぜひお気軽にご連絡ください. 専門家だけでなく, 意欲と学習効率の高い初心者との協力も歓迎します. また, 他分野での共同研究についても柔軟に対応いたします.
 
-[[English Site](https://www.hakaze-c.com/)]
+[English Site](https://www.hakaze-c.com/)
 
 ## 研究関心
 
