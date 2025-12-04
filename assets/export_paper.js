@@ -44,7 +44,7 @@ function getAuthorName(authorEnt, lang='en') {
         return author ? author.name : authorKey;
     } else if (lang == 'jp') {
         const author = authors[authorKey];
-        return author ? (author.name_jp || author.name) : authorKey;
+        return author ? (author.name_jp || authorEnt.name_jp || author.name) : authorKey;
     }
 }
 
