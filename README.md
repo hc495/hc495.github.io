@@ -80,13 +80,13 @@ I am actively seeking productive research collaborations in the mentioned area. 
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
-<!-- - **Special Postdoc Research Fellowship** (SPDR), (2026.4) ~ (2029.3)  
+- **Special Postdoc Research Fellowship** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [RIKEN Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}  
   Mentor: [Prof. Kentaro Inui](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **Postdoctoral Researcher** (2026.4) ~ (2029.3)  
   [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}, [Tohoku University](https://www.tohoku.ac.jp/en/){:target="_blank"}  
-  Mentor: [Prof. Kentaro Inui](https://kentaro-inui.github.io/){:target="_blank"} -->
+  Mentor: [Prof. Kentaro Inui](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **Ph.D.** in Computer Science, Research Assistant, 2023.10 ~ (2026.3), Fast-track Graduation  
   [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
@@ -115,6 +115,11 @@ I am actively seeking productive research collaborations in the mentioned area. 
 - Student Member, The Japanese Association for Natural Language Processing
 - Student Member, The Japanese Society for Artificial Intelligence
 - Association for Computational Linguistics (ACL)
+
+### Grants
+
+- **Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models**   
+  RIKEN SPDR Grant, 2026.4 ~ 2029.3, JPY 3,000,000.
 
 ### Awards
 

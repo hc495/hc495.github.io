@@ -79,13 +79,13 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div>
 
-<!-- - **基礎科学特別研究員 (SPDR)**, (2026年4月) ～ (2029年3月)  
+- **基礎科学特別研究員 (SPDR)**, (2026年4月) ～ (2029年3月)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター 自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
   メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **ポスドク研究員** (2026年4月) ～ (2029年3月)  
   [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"} [東北大学 自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}  
-  メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"} -->
+  メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **博士（情報科学）** リサーチアシスタント, 2023年10月 ～ (2026年3月) (予定, 早期修了)  
   [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
@@ -114,6 +114,11 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 - 言語処理学会 学生会員
 - 人工知能学会 学生会員
 - Association for Computational Linguistics (ACL)
+
+### 競争的研究経費
+
+- **機械論的制御可能性に向けた大規模言語モデルの回路ベース編集**   
+  理化学研究所 基礎科学特別研究員研究経費, 2026年4月 ～ 2029年3月, 300万円.
 
 ### 受賞歴
 
