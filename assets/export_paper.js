@@ -38,6 +38,7 @@ function getAuthorNames(authorEnt, lang='en') {
     const authorKey = authorEnt.name;
     if (lang == 'en') {
         const author = authors[authorKey];
+        console.log("Author lookup:", authorKey, author);
         return author ? author.name : authorKey;
     } else if (lang == 'jp') {
         const author = authors[authorKey];
