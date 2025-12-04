@@ -57,7 +57,7 @@ function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
         const authorNames = paper.authors.map(getAuthorNames).join(', ');
         if (preprints) {
-            return `${authorNames}. ${paper.title}. ${paper.year}\n`;
+            return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
             const venueName = getVenueName(paper.venue);
             return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
@@ -65,7 +65,7 @@ function serializePaper(paper, lang='en', preprints=false) {
     } else if (lang == 'jp') {
         const authorNames = paper.authors.map(a => getAuthorNames(a, 'jp')).join('、 ');
         if (preprints) {
-            return `${authorNames}. ${paper.title}. ${paper.year}\n`;
+            return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
             const venueName = getVenueName(paper.venue, 'jp');
             return `${authorNames}. ${paper.title}. ${venueName}. ${paper.year}\n`;
@@ -86,7 +86,7 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
     // Preprints
     string += '\n## Preprints\n\n';
     preprints.forEach(paper => {
-        string += `${counter}. ${serializePaper(paper)}`;
+        string += `${counter}. ${serializePaper(paper, 'en', true)}`;
         counter++;
     });
     // Domestic_papers
