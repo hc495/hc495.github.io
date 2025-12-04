@@ -17,8 +17,10 @@ const [
   fetch('/data/preprints.yml').then(r => r.text())
 ]);
 
-const venues = yaml.load(venues_yml);
-const authors = yaml.load(authors_yml);
+const venuesRaw = yaml.load(venues_yml);
+const venues = Array.isArray(venuesRaw) ? venuesRaw : Object.values(venuesRaw);
+const authorsRaw = yaml.load(authors_yml);
+const authors = Array.isArray(authorsRaw) ? authorsRaw : Object.values(authorsRaw);
 const international_confs_papers = yaml.load(international_confs_papers_yml);
 const domestic_confs_papers = yaml.load(domestic_confs_papers_yml);
 const preprints = yaml.load(preprints_yml);
