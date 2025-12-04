@@ -22,10 +22,6 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 **リンク**:
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
-[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 <!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"} &nbsp;&nbsp;&nbsp;   
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室  
@@ -47,7 +43,11 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 論文一覧
 
-[[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}]
+[[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] &nbsp;&nbsp;&nbsp; 
+[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 
 {% include_relative _includes/paper_statics.html %}
 
