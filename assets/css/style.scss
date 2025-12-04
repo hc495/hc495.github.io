@@ -9,7 +9,7 @@
 // overall margin
 .container-lg {
     max-width: none;
-    margin: 2% 20% 2% 20%;
+    margin: 2% 16% 2% 16%;
 }
 
 // Link styles
@@ -175,7 +175,7 @@ ul {
     text-align: justify;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 800px) {
     .markdown-body h1 {
         font-size: 1.5em;
         text-align: justify;
