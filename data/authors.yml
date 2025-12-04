@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /data/authors.yml
+---
+{{ site.data.authors }}

@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /data/international_c_papers.yml
+---
+{{ site.data.international_c_papers }}

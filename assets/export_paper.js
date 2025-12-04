@@ -8,11 +8,6 @@ const venues_yml = await fetch('/_data/venues.yml').then(res => res.text());
 const international_confs_papers_yml = await fetch('/_data/international_c_papers.yml').then(res => res.text());
 const domestic_confs_papers_yml = await fetch('/_data/domestic_c_papers.yml').then(res => res.text());
 const preprints_yml = await fetch('/_data/preprints.yml').then(res => res.text());
-// const authors_yml = fs.readFileSync(path.join(__dirname, '../_data/authors.yml'), 'utf8');
-// const venues_yml = fs.readFileSync(path.join(__dirname, '../_data/venues.yml'), 'utf8');
-// const international_confs_papers_yml = fs.readFileSync(path.join(__dirname, '../_data/international_c_papers.yml'), 'utf8');
-// const domestic_confs_papers_yml = fs.readFileSync(path.join(__dirname, '../_data/domestic_c_papers.yml'), 'utf8');
-// const preprints_yml = fs.readFileSync(path.join(__dirname, '../_data/preprints.yml'), 'utf8');
 
 const authors = yaml.load(authors_yml);
 const venues = yaml.load(venues_yml);

@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /data/preprints.yml
+---
+{{ site.data.preprints }}

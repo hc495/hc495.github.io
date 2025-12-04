@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /data/domestic_c_papers.yml
+---
+{{ site.data.domestic_c_papers }}

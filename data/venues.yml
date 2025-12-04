@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /data/venues.yml
+---
+{{ site.data.venues }}
