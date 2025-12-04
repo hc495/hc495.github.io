@@ -64,7 +64,7 @@ function getVenueShortName(venueKey) {
 
 function serializePaper(paper, lang='en', preprints=false) {
     if (lang == 'en') {
-        const authorNames = paper.authors.map(getAuthorName).join(', ');
+        const authorNames = paper.authors.map(a => getAuthorName(a, 'en')).join(', ');
         if (preprints) {
             return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
@@ -77,7 +77,7 @@ function serializePaper(paper, lang='en', preprints=false) {
             }
         }
     } else if (lang == 'jp') {
-        const authorNames = paper.authors.map(a => getAuthorNames(a, 'jp')).join('、 ');
+        const authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
         if (preprints) {
             return `${authorNames}. ${paper.title}. Pre-print. ${paper.year}\n`;
         } else {
