@@ -86,6 +86,27 @@ body{
     background-color: #F7F7FB;
 }
 
+// Add vertical divider lines to both sides of .markdown-body
+.markdown-body {
+    position: relative;
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        width: 2px;
+        height: 100%;
+        background: #ddd;
+        z-index: 1;
+    }
+    &::before {
+        left: -18px;
+    }
+    &::after {
+        right: -18px;
+    }
+}
+
 // Remove horizontal rule after headings
 body, .markdown-body {
     color: #00112e;
