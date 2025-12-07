@@ -158,6 +158,15 @@ ul {
 //     border-bottom: 0px solid #00112e;
 // }
 
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    border-bottom: 1px solid #b1b1b1;
+}
+
 .markdown-body hr {
     // background-color: #00112e;
     height: .20em;
