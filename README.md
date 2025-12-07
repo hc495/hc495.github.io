@@ -119,7 +119,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### Grants
 
-- **Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models**   
+- **Principal Investigator**: Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models   
   RIKEN SPDR Grant, 2026.4 ~ 2029.3, JPY 3,000,000.
 
 ### Awards
