@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: subpage
 permalink: /phd_defense
 title: "Ph.D. Dissertation: The Mechanistic Basis of In-context Learning"
 ---
+
+# Ph.D. Dissertation: The Mechanistic Basis of In-context Learning
 
 This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
 
