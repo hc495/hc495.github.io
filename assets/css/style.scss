@@ -178,7 +178,9 @@ ul {
 
 .markdown-body hr {
     // background-color: #00112e;
-    height: .20em;
+    border: none;
+    border-top: 3px double #00112e;
+    height: 0;
     // position: absolute;
     // left: 0;
     // transform: translate(0px, -52px);
