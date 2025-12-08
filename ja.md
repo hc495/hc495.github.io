@@ -21,9 +21,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
-[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
-<!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
-
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室   
 **E-mail**: yfzhao [at] jaist.ac.jp  
 このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は、yfZhao495 [at] outlook.comにも併せて送ってみてください.  

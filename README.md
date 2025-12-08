@@ -21,9 +21,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
-[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
-<!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
-
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
 **E-mail**: yfzhao [at] jaist.ac.jp  
 This email address is not always reachable. If I do not reply, please try CC the message to yfZhao495 [at] outlook.com.  
