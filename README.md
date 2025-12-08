@@ -16,13 +16,12 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 **Birth**: Beijing, 1999
 <!-- **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology   -->
 
-[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
-
 ### Contact
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
 <!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
 
 **E-mail**: yfzhao [at] jaist.ac.jp  

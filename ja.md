@@ -16,14 +16,14 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 **生年**: 1999年, 北京生まれ  
 <!-- **所属**: 北陸先端科学技術大学院大学 ← 北京理工大学 -->
 
-[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
-
 ### 連絡先
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[CV](./assets/cv_yfzhao.pdf){:target="_blank"}
 <!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
+
 **E-mail**: yfzhao [at] jaist.ac.jp  
 このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は、yfZhao495 [at] outlook.comにも併せて送ってみてください.  
 
