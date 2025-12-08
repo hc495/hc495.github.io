@@ -24,10 +24,9 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}
 <!-- [Blog](https://hakaze.notion.site/index?pvs=4){:target="_blank"} &nbsp;&nbsp;&nbsp;  -->
 
+**Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
 **E-mail**: yfzhao [at] jaist.ac.jp  
 This email address is not always reachable. If I do not reply, please try CC the message to yfZhao495 [at] outlook.com.  
-
-**Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan  
 
 ### Biography
 
