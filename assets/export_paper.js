@@ -123,7 +123,7 @@ window.generateExportPaper = async function generateExportPaper(lang='en') {
         counter++;
     });
     // Domestic_papers
-    string += '\n## Domestic Conference Papers\n\n';
+    string += '\n## Domestic Conference Papers / Journals / Miscellaneous\n\n';
     if (lang === 'en') {
         domestic_confs_papers.forEach(paper => {
             string += `${counter}. ${serializePaper(paper)}`;
