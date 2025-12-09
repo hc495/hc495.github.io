@@ -70,7 +70,7 @@ function serializePaper(paper, lang='en', preprints=false) {
             return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}.\n`;
         } else {
             const venueName = getVenueName(paper.venue);
-            const venueShortName = getVenueShortName(paper.venue);
+            let venueShortName = getVenueShortName(paper.venue);
             if (!venueShortName || venueShortName.length == 0) {
                 venueShortName = paper.venue_short || '';
             }
@@ -84,7 +84,7 @@ function serializePaper(paper, lang='en', preprints=false) {
         let title = paper.title_jp || paper.title;
         console.log("Generating export in Japanese...");
         console.log("Paper data:", paper);
-        const authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
+        let authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
         if (preprints) {
             return `${authorNames}. "${title}". Pre-print. ${paper.year}.\n`;
         } else {
