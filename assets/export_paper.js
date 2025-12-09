@@ -71,6 +71,9 @@ function serializePaper(paper, lang='en', preprints=false) {
         } else {
             const venueName = getVenueName(paper.venue);
             const venueShortName = getVenueShortName(paper.venue);
+            if (!venueShortName || venueShortName.length == 0) {
+                venueShortName = paper.venue_short || '';
+            }
             if (venueShortName && venueShortName.length > 0) {
                 return `${authorNames}. "${paper.title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
             } else {
