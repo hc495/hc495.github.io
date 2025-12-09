@@ -78,18 +78,19 @@ function serializePaper(paper, lang='en', preprints=false) {
             }
         }
     } else if (lang == 'jp') {
+        let title = paper.title_jp || paper.title;
         console.log("Generating export in Japanese...");
         console.log("Paper data:", paper);
         const authorNames = paper.authors.map(a => getAuthorName(a, 'jp')).join(', ');
         if (preprints) {
-            return `${authorNames}. "${paper.title}". Pre-print. ${paper.year}.\n`;
+            return `${authorNames}. "${title}". Pre-print. ${paper.year}.\n`;
         } else {
             const venueName = getVenueName(paper.venue, 'jp');
             const venueShortName = getVenueShortName(paper.venue);
             if (venueShortName && venueShortName.length > 0) {
-                return `${authorNames}. "${paper.title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
+                return `${authorNames}. "${title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
             } else {
-                return `${authorNames}. "${paper.title}". ${venueName}. ${paper.year}.\n`;
+                return `${authorNames}. "${title}". ${venueName}. ${paper.year}.\n`;
             }
         }
     }
