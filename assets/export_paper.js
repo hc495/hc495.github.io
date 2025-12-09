@@ -85,8 +85,16 @@ function serializePaper(paper, lang='en', preprints=false) {
         if (preprints) {
             return `${authorNames}. "${title}". Pre-print. ${paper.year}.\n`;
         } else {
-            const venueName = getVenueName(paper.venue, 'jp');
-            const venueShortName = getVenueShortName(paper.venue);
+            let venueName = '';
+            if (paper.venue_jp && paper.venue_jp.length > 0) {
+                venueName = paper.venue_jp;
+            } else {
+                venueName = getVenueName(paper.venue, 'jp');
+            }
+            let venueShortName = getVenueShortName(paper.venue);
+            if (!venueShortName || venueShortName.length == 0) {
+                venueShortName = paper.venue_short || '';
+            }
             if (venueShortName && venueShortName.length > 0) {
                 return `${authorNames}. "${title}". ${venueName} (${venueShortName}). ${paper.year}.\n`;
             } else {
