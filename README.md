@@ -10,7 +10,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 </div>
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-**Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
+**Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
 **Birth**: Beijing, 1999
@@ -133,3 +133,5 @@ I am actively seeking productive research collaborations in the mentioned area. 
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed (medical) many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
 - Annual Outstanding Academic (GPA) Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
+- First Prize @ 30th Chinese (High School) Chemistry Olympiad. 2016.
+- Second Prize @ 29th Chinese (High School) Chemistry Olympiad. 2015.
