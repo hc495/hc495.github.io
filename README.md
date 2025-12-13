@@ -10,7 +10,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 </div>
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-**Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [A. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
+**Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
 **Birth**: Beijing, 1999
@@ -101,7 +101,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
   Mentor: Yufeng Zhao (Self-motivated)
   
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
-  Department of Basic Science, [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
+  [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}   
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 
 ## Professional Activities
@@ -127,10 +127,12 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ### Awards
 
-- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the Japanese Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 14 in 765, 2.0%)
+- [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the (Japanese) Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 14 in 765, 2.0%)
 - [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ The 260th SIG for Natural Language, Information Processing Society of Japan (SIG-NL260, IPSJ). 2024.
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ The 30st Annual Conference of the Japanese Association for Natural Language Processing (NLP2024, ANLP). 2024.
 - Monbukagakusho Honors Scholarship @ Japanese Ministry of Education, Culture, Sports, Science and Technology. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed (medical) many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
 - Annual Outstanding Academic (GPA) Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
+- First Prize @ 30th Chinese (High School) Chemistry Olympiad. 2016.
+- Second Prize @ 29th Chinese (High School) Chemistry Olympiad. 2015.

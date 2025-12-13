@@ -29,9 +29,10 @@ Revision Note:
 
 Revision Note:
 
-- Inserted the structural abstract required by the rule of JAIST Ph.D. dissertation.
 - Added a discussion on the correlation between the work in Chapter 3 and its subsequent related works.
-- Revised one typo in Appendix.
+- Inserted the structural abstract required by the rule of JAIST Ph.D. dissertation.
+- Revised 2 typos in Appendix.
+- Revised some descriptions in Acknowledgement section for privacy consideration.
 
 ## Resources for Preliminary Defense
 
