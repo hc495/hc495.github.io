@@ -21,6 +21,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
 **住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室   
 **E-mail**: yfzhao [at] jaist.ac.jp  
@@ -46,6 +47,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"}] 
 [[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
+[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]
 
 {% include_relative _includes/paper_statics.html %}
 
