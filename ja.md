@@ -83,7 +83,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 </div> -->
 
 - **基礎科学特別研究員 (SPDR)**, (2026年4月) ～ (2029年3月)  
-  [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター 自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
+  [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
   メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **ポスドク研究員** (2026年4月) ～ (2029年3月)  
