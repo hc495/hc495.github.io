@@ -85,7 +85,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 </div> -->
 
 - **Special Postdoc Research Fellowship** (SPDR), (2026.4) ~ (2029.3)  
-  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [Riken](https://www.riken.jp/en/){:target="_blank"}  
+  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [RIKEN](https://www.riken.jp/en/){:target="_blank"}  
   Mentor: [Prof. Kentaro Inui](https://kentaro-inui.github.io/){:target="_blank"}
 
 - **Postdoctoral Researcher** (2026.4) ~ (2029.3)  
