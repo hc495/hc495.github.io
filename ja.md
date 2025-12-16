@@ -108,7 +108,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 学術活動
 
-### 国際会議査読
+### 論文査読
 
 - **Association for Computational Linguistics Rolling Review** (ACL ARR): 2025 (May, July, October), 2026 (January)
 - **Conference on Neural Information Processing Systems** (NeurIPS): 2025
