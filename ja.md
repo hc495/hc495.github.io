@@ -47,8 +47,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"}] 
 [[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
-[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]
-
+[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include_relative _includes/paper_statics.html %}
 
 ### 国際会議

@@ -46,8 +46,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 [[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] 
 [[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
-[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]
-
+[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include_relative _includes/paper_statics.html %}
 
 ### International Conference
