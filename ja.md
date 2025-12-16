@@ -36,12 +36,13 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ## 研究関心
 
 **キーワード**: 表現学習, 機械論的解釈可能性, 文脈内学習  
-- **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性, 低リソースモデル制御  
-  [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}]
-- **大規模言語モデル**: Transformer系大規模言語モデルの内部原理と改善  
-  [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
+- **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性（特にTransformer）  
+  [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
+- **人工ニューラルネットワークの制御可能性**: 低リソースモデル改善 / 機械論的視点からのモデル制御  
+  [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
 - **その他**: 多様体学習, 低数値精度ニューラルネットワーク, モデル訓練ダイナミクス  
-  [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] 
+  [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
+
 ## 論文一覧
 
 [[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] 
