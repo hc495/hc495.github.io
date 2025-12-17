@@ -54,7 +54,7 @@ small {
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 0;
-    background: #f7f7f7;
+    background: white;
     border-bottom: 1px solid #ddd;
     text-align: center;
     font-size: 14px;
@@ -85,9 +85,9 @@ figcaption {
 }
 
 body{
-    background: radial-gradient(circle at 10px 10px, #F2F2F2 3px, transparent 0);
+    background: radial-gradient(circle at 10px 10px, #ffffff 3px, transparent 0);
     background-size: 40pt 40pt;
-    background-color: #F7F7FB;
+    background-color: #dce8ff;
 }
 
 // Remove horizontal rule after headings
@@ -200,7 +200,7 @@ ul {
     padding: 3px 8px 3px 8px;
     font-size: 16px;
     border-radius: 8px;
-    background-color: #e4edff;
+    background-color: #ffffff;
     text-align: justify;
 }
 
