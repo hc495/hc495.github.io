@@ -5,7 +5,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
 <div class="img_margin">
-<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="320">
+<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="240">
 <figcaption>@ICLR 2025</figcaption>
 </div>
 
@@ -31,14 +31,19 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 私は中国のトップ大学である北京理工大学を卒業し, 2021年に化学の学士号, 2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており, 2026年3月の早期修了を目指しています. 研究テーマは, 人工ニューラルネットワーク, 特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を, 数学的および表現学習の手法によって解明し, その理解に基づく性能向上を目指すものです. 2023年以降、この分野において30本以上の論文および研究発表を発信しており、その中にはICLRやNeurIPSといったトップカンファレンスに採択されたものも含まれます.
 
-この研究分野に関心のある方との共同研究を積極的に募集しています. ご興味をお持ちの方は, ぜひお気軽にご連絡ください. 専門家だけでなく, 意欲と学習効率の高い初心者との協力も歓迎します. また, 他分野での共同研究についても柔軟に対応いたします.
+**研究協力募集.** この研究分野に関心のある方との共同研究を積極的に募集しています. ご興味をお持ちの方は, ぜひお気軽にご連絡ください. 専門家だけでなく, 意欲と学習効率の高い初心者との協力も歓迎します. また, 他分野での共同研究についても柔軟に対応いたします.
+
+**仕事募集.** 2026年4月より開始するフルタイムの雇用契約をすでに締結しており, 客員および非常勤での職も歓迎いたします. あわせて, 2029年4月開始の准教授職を探しております.
 
 ## 研究関心
 
 **キーワード**: 表現学習, 機械論的解釈可能性, 文脈内学習  
-- **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性, 低リソースモデル制御  
-- **大規模言語モデル**: Transformer系大規模言語モデルの内部原理と改善  
-- **その他**: 多様体学習, 低数値精度ニューラルネットワーク, モデル訓練ダイナミクス
+- **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性（特にTransformer）  
+  [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
+- **人工ニューラルネットワークの制御可能性**: 低リソースモデル改善 / 機械論的視点からのモデル制御  
+  [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
+- **その他**: 多様体学習, 低数値精度ニューラルネットワーク, モデル訓練ダイナミクス  
+  [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 
 ## 論文一覧
 
@@ -47,8 +52,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 [[ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"}] 
 [[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
-[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]
-
+[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include_relative _includes/paper_statics.html %}
 
 ### 国際会議
@@ -104,13 +108,9 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 ## 学術活動
 
-### 国際会議査読
+### 論文査読
 
-- **Association for Computational Linguistics Rolling Review** (ACL ARR): 2025 (May, July, October), 2026 (January)
-- **Conference on Neural Information Processing Systems** (NeurIPS): 2025
-- **International Conference on Learning Representations** (ICLR): 2025, 2026
-- **International Conference on Machine Learning** (ICML): 2025 Actionable Interpretability Workshop
-- **Annual Meeting of the Association for Computational Linguistics** (ACL): 2025 Student Research Workshop
+{% include_relative data/review_list.md %}
 
 ### 所属学会
 

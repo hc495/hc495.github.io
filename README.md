@@ -5,7 +5,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
 <div class="img_margin">
-<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="320">
+<img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="240">
 <figcaption>@ICLR 2025</figcaption>
 </div>
 
@@ -31,14 +31,19 @@ This email address is not always reachable. If I do not reply, please try CC the
 
 I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am in my graduation thread of Ph.D. at JAIST with a fast-track schedule in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference, by mathematical and representation learning methods, and improving their performance robustly through our deeper understanding. I have published over 30 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NeurIPS.
 
-I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
+**Research Collaboration Statement.** I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
+
+**Position Interests.** I have already signed a full-time contract starting in April 2026, and I welcome visiting and part-time positions. At the same time, I am seeking an associate professor position starting in April 2029.
 
 ## Research Interests
 
 **Keywords**: Representation Learning, Mechanistic Interpretability, In-context Learning  
-- **Interpretability for Artificial Neural Network**: Mechanistic Interpretability, Low-resource Model Controlling  
-- **Large Languages Models**: Mechanism of / Improving Transformer Large Language Models  
-- **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics
+- **Interpretability for Artificial Neural Network**: Mechanistic interpretability (especially for Transformer)   
+  [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
+- **Controllability for Artificial Neural Network**: Low-resource model behavior improvement / controlling from mechanistic perspective  
+  [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
+- **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics  
+  [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 
 ## Publications
 
@@ -46,8 +51,7 @@ I am actively seeking productive research collaborations in the mentioned area. 
 [[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] 
 [[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
-[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]
-
+[[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include_relative _includes/paper_statics.html %}
 
 ### International Conference
@@ -106,13 +110,9 @@ I am actively seeking productive research collaborations in the mentioned area. 
 
 ## Professional Activities
 
-### International Conference Reviewer
+### Peer Review
 
-- **Association for Computational Linguistics Rolling Review** (ACL ARR): 2025 (May, July, October), 2026 (January)
-- **Conference on Neural Information Processing Systems** (NeurIPS): 2025
-- **International Conference on Learning Representations** (ICLR): 2025, 2026
-- **International Conference on Machine Learning** (ICML): 2025 Actionable Interpretability Workshop
-- **Annual Meeting of the Association for Computational Linguistics** (ACL): 2025 Student Research Workshop
+{% include_relative data/review_list.md %}
 
 ### Society Member
 

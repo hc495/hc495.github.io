@@ -54,7 +54,7 @@ small {
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 0;
-    background: #f7f7f7;
+    background: white;
     border-bottom: 1px solid #ddd;
     text-align: center;
     font-size: 14px;
@@ -85,14 +85,14 @@ figcaption {
 }
 
 body{
-    background: radial-gradient(circle at 1px 1px, #F2F2F2 3px, transparent 0);
+    background: radial-gradient(circle at 1px 1px, #ffffff 3px, transparent 0);
     background-size: 40pt 40pt;
-    background-color: #F7F7FB;
+    background-color: #eff4ff;
 }
 
 // Remove horizontal rule after headings
 body, .markdown-body {
-    color: #00112e;
+    color: #000000;
     font-family: 'Noto Sans JP', Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
     line-height: 1.4;
@@ -124,13 +124,13 @@ h2 {
     font-family: "Gentium Basic", 'Noto Sans JP';
     font-size: 1.5em;
     // color: #028390;
-    color: #00112e;
+    color: #000000;
     padding: 20px 0 0 0;
 }
 
 h3 {
     font-family: "Gentium Basic";
-    color: #00112e;
+    color: #000000;
     font-size: 1.2em;
 }
 
@@ -156,11 +156,11 @@ ul {
 }
 
 // .markdown-body h1 {
-//     border-bottom: 0px solid #00112e;
+//     border-bottom: 0px solid #000000;
 // }
 
 // .markdown-body h2 {
-//     border-bottom: 0px solid #00112e;
+//     border-bottom: 0px solid #000000;
 // }
 
 .markdown-body h1 {
@@ -181,7 +181,7 @@ ul {
 }
 
 .markdown-body hr {
-    // background-color: #00112e;
+    // background-color: #000000;
     border: none;
     border-top: 3px double gray;
     height: 0;
@@ -200,7 +200,7 @@ ul {
     padding: 3px 8px 3px 8px;
     font-size: 16px;
     border-radius: 8px;
-    background-color: #e4edff;
+    background-color: #ffffff;
     text-align: justify;
 }
 
