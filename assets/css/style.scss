@@ -92,7 +92,7 @@ body{
 
 // Remove horizontal rule after headings
 body, .markdown-body {
-    color: #00112e;
+    color: #000000;
     font-family: 'Noto Sans JP', Tahoma, arial, helvetica, Sans-Serif, "Gentium Basic";
     font-size: 105%;
     line-height: 1.4;
@@ -124,13 +124,13 @@ h2 {
     font-family: "Gentium Basic", 'Noto Sans JP';
     font-size: 1.5em;
     // color: #028390;
-    color: #00112e;
+    color: #000000;
     padding: 20px 0 0 0;
 }
 
 h3 {
     font-family: "Gentium Basic";
-    color: #00112e;
+    color: #000000;
     font-size: 1.2em;
 }
 
@@ -156,11 +156,11 @@ ul {
 }
 
 // .markdown-body h1 {
-//     border-bottom: 0px solid #00112e;
+//     border-bottom: 0px solid #000000;
 // }
 
 // .markdown-body h2 {
-//     border-bottom: 0px solid #00112e;
+//     border-bottom: 0px solid #000000;
 // }
 
 .markdown-body h1 {
@@ -181,7 +181,7 @@ ul {
 }
 
 .markdown-body hr {
-    // background-color: #00112e;
+    // background-color: #000000;
     border: none;
     border-top: 3px double gray;
     height: 0;
