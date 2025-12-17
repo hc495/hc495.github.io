@@ -112,11 +112,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 ### Peer Review
 
-- **Association for Computational Linguistics Rolling Review** (ACL ARR): 2025 (May, July, October), 2026 (January)
-- **Conference on Neural Information Processing Systems** (NeurIPS): 2025
-- **International Conference on Learning Representations** (ICLR): 2025, 2026
-- **International Conference on Machine Learning** (ICML): 2025 Actionable Interpretability Workshop
-- **Annual Meeting of the Association for Computational Linguistics** (ACL): 2025 Student Research Workshop
+{% include_relative data/review_list.md %}
 
 ### Society Member
 
