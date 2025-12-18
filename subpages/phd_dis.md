@@ -54,8 +54,6 @@ Revision Note:
 
 **2025/12/05 Final**
 
-The full dissertation with supplementary materials (Final version, 2025/12/05 revised): 
-
 Revision Note:
 
 - Added a discussion on the correlation between the work in Chapter 3 and its subsequent related works.
