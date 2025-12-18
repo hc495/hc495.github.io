@@ -23,9 +23,38 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 Revision Note:
 
+1. Removed some minor content from the slides to keep the story more clear and reduce the presentation time. In detail:
+   1. Removed the analysis on the non-monotonicity of eccentricity of Chapter 4.
+   2. Removed the discussion on the lower bound of information removal and the role of $W_\text{enc}$ and $W_\text{dec}$. 
+2. Added “main contributions” in each chapter to handle the question “Chapter 3: Which part is new insight? What is the main contribution of this study?”.
+3. We considered some of the questions in the pre-defense as issues of clarity and enhanced the detailed description of these questioned parts.
+   1. We add a summary of experimental settings of each chapter in the slides to handle these questions:
+      1. “Experiment with any other models? Because Llama is obsolete.”
+      2. “Multi-modal, multilingual?”
+      3. “Did you try with other models? And, was the results consistent across models?”
+      4. “What other tasks did you try, or is it cherry-picked”
+   2. For question “At which layer, which step were conducted?”, we put the Fig. 3.8 to the sildes.
+   3. We add a detailed dependency graph of conclusions, and enhance the narrative to handle these questions:
+      1. “Connection between theoretical part and hidden calibration?”
+      2. “Chapter 5 and 6 seem unrelated to ICL.”
+      3. “How is Chapter 6 inspired by the previous research?”
+      4. “Connection between analysis and application?”
+   Especially, we emphasized the relation of Chapter 5 and ICL, that is, the method in Chapter 5 activates LM's correct utilization of demonstrations. And the relation of Chapter 6 to ICL is clear, since the training is built on ICL samples.
+   4. Revised the presentation details to handle these questions:
+      1. “Why 3 steps? Which step is the most important one to ICL accuracy?” -> Emphasized the related works, and the ablation results.
+      2. “Why did you adopt this 3-step framework among all other possible frameworks?” -> Emphasized the related works.
+      3. “How did you define simple and difficult here? Why?” -> Emphasized: we use the perplexity as the difficult measure to align the previous works.
+      4. “Kernel alignment: did you try other similarity metrics?” -> Described: Other metrcis are difficult to utilize in the scenario.
+      5. “Did you investigate other types of forerunner tokens?” -> Added an instruction to refer to the Appendix.
+      6. “Why did you use these two metrics?” -> Emphasized: the magnitude and correctness are two most important properties of information removal.
+      7. “Can you describe Hidden Calibration?” -> Added a detailed description of Hidden Calibration.
+4. Other questions, they are not in the main story, or future work related, so I write some instructions in the slides “such as ‘please refer to Appendix X’” but still want to leave it to the QA stage.
+
 ### Dissertation
 
 **2025/12/05 Final**
+
+The full dissertation with supplementary materials (Final version, 2025/12/05 revised): 
 
 Revision Note:
 
@@ -44,13 +73,13 @@ Preliminary Defense Date: Dec 3rd, 2025.
 
 **2025/11/27 Original**
 
-<span style='color:red'>The slides for the Preliminary Defense:</span> [PDF](https://jstorage.box.com/s/9ov8lpz3o2fl2805i9opg828eh8mi2zv){:target="_blank"}
+[Private] The slides for the Preliminary Defense: [PDF](https://jstorage.box.com/s/9ov8lpz3o2fl2805i9opg828eh8mi2zv){:target="_blank"}
 
 ### Dissertation
 
 **2025/11/24 Revision**
 
-<span style='color:red'>The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/24 revised):</span> [PDF](https://jstorage.box.com/s/0ieqpurrjqm3a0h3nxlquzuhrc5vud6j){:target="_blank"}
+[Private] The full dissertation with supplementary materials (Preliminary Defense version, 2025/11/24 revised): [PDF](https://jstorage.box.com/s/0ieqpurrjqm3a0h3nxlquzuhrc5vud6j){:target="_blank"}
 
 Revision Note:
 
