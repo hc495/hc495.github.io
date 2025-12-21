@@ -11,14 +11,6 @@ timezone: Asia/Tokyo
 data_dir: data
 
 toplinks_left:
-  - title: "Twitter"
-    url: "https://x.com/yfZhao495"
-  - title: "GitHub"
-    url: "https://github.com/hc495"
-  - title: "ORCID"
-    url: "https://orcid.org/0000-0002-7127-1954"
-  - title: "CV"
-    url: "./assets/cv_yfzhao.pdf"
 
 toplinks_right:
   - title: "English"
