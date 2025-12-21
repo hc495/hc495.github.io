@@ -69,9 +69,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
 
 
-### (Thesis)
-
-<div class="wide_list">
+### Thesis
 
 1. **The Mechanistic Basis of In-context Learning**    
     Yufeng Zhao   
@@ -83,16 +81,12 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
 
-</div>
-
 ## Resume
 
 <!-- <div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
     <img src="./assets/fig/jaist.png" height="105">
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div> -->
-
-<div class="wide_list">
 
 - **[Special Postdoc Research Fellowship](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [RIKEN](https://www.riken.jp/en/){:target="_blank"}, Japan  
@@ -109,8 +103,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
   [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}, China   
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
-
-</div>
 
 ## Professional Activities
 

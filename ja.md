@@ -68,9 +68,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 {% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
 
-### (学位論文)
-
-<div class="wide_list">
+### 学位論文
 
 1. **大規模言語モデルにおける文脈内学習のメカニズム的基盤**    
     Yufeng Zhao   
@@ -82,16 +80,12 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
    Yufeng Zhao   
    学士論文 @ 北京理工大学, **2021**. 52 pages.
 
-</div>
-
 ## 履歴
 
 <!-- <div class="img_margin" style="display: flex; align-items: center; gap: 10px;">
     <img src="./assets/fig/jaist.png" height="105">
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div> -->
-
-<div class="wide_list">
 
 - **[基礎科学特別研究員](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}** (SPDR), (2026年4月) ～ (2029年3月)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
@@ -108,8 +102,6 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 - **学士（化学）** 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
-
-</div>
 
 ## 学術活動
 
