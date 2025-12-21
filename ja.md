@@ -90,19 +90,15 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 - **[基礎科学特別研究員](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}** (SPDR), (2026年4月) ～ (2029年3月)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
   メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-
 - **ポスドク研究員** (2026年4月) ～ (2029年3月)  
   [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"} [東北大学 自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}  
   メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-
 - **博士（情報科学）** リサーチアシスタント, 2023年10月 ～ (2026年3月) (予定, 早期修了)  
   [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
   指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
-
 - **修士（ソフトウェア工学）** 2021年9月 ～ 2023年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
   指導教員: 趙 羽風 (自主研究)
-
 - **学士（化学）** 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
