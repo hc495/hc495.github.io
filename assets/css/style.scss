@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 .anchorjs-link {
@@ -109,9 +110,9 @@ figcaption {
 }
 
 body{
-    background: radial-gradient(circle at 20px 20px, #ffffff 5px, transparent 0);
+    background: {{ site.background-pattern }};
     background-size: 40pt 40pt;
-    background-color: #e9f0ff;
+    background-color: {{ site.background-color }};
 }
 
 // Remove horizontal rule after headings
