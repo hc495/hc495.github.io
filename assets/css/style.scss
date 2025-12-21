@@ -109,11 +109,20 @@ figcaption {
     text-align: center;
 }
 
-body{
-    background: {{ site.background-pattern }};
-    background-size: 40pt 40pt;
-    background-color: {{ site.background-color }};
-}
+{{ if site.background-image }}
+    body {
+        background-image: url('{{ site.background-image }}');
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+    }
+{{ else }}
+    body{
+        background: {{ site.background-pattern }};
+        background-size: {{ site.background-pattern-size }};
+        background-color: {{ site.background-color }};
+    }
+{{ endif }}
 
 // Remove horizontal rule after headings
 body, .markdown-body {
