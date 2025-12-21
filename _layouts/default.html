@@ -15,7 +15,11 @@
   </head>
 <body>
       <div class="top-lang-bar">
-        <div> </div>
+        <div class="left"> 
+          {%- for item in site.toplinks_left -%}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          {%- endfor -%}
+        </div>
         <div class="right">
           {%- for item in site.toplinks_right -%}
             <a href="{{ item.url }}">{{ item.title }}</a>
