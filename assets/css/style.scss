@@ -184,7 +184,13 @@ div.img_margin {
     margin-bottom: auto;
 }
 
-.publish_list ol {
+.wide_list ol {
+    li {
+        margin-bottom: 0.6em;
+    }
+}
+
+.wide_list ul {
     li {
         margin-bottom: 0.6em;
     }
