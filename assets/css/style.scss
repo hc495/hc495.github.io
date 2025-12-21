@@ -45,6 +45,10 @@ small {
     line-height: 0.75;
 }
 
+.left{
+  /* 保持普通块级布局，<br> 正常工作 */
+}
+
 .right {
   margin-left: auto;
 }
