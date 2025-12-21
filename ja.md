@@ -45,6 +45,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 - **その他**: 多様体学習, 低数値精度ニューラルネットワーク, モデル訓練ダイナミクス  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 
+<a id="Publications"></a>
 ## 論文一覧
 
 [[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] 
