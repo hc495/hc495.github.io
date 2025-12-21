@@ -35,8 +35,8 @@ a, .collapse-clicker {
     margin-bottom: 0 !important;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 2% !important;
+    padding-right: 2% !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -67,6 +67,7 @@ small {
     padding: 6px 0;
     background: #f1f1f1;
     border: 1px dotted #949494;
+    padding-left: 2% !important;
     text-align: left;
     font-size: 14px;
     font-family: system-ui, sans-serif;
