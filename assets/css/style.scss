@@ -123,6 +123,7 @@ figcaption {
         background: {{ site.background-pattern }};
         background-size: {{ site.background-pattern-size }};
         background-color: {{ site.background-color }};
+        background-attachment: fixed;
     }
 {%- endif -%}
 
