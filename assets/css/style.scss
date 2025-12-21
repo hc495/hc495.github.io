@@ -37,20 +37,6 @@ a, .collapse-clicker {
     padding-bottom: 1rem;
 }
 
-.top-lang-bar {
-    width: 60%;
-    min-width: 0;
-    box-sizing: border-box;
-    padding: 6px 0;
-    background: #efefef;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
-    font-size: 14px;
-    font-family: system-ui, sans-serif;
-    overflow-x: auto;
-    margin: 0 auto;
-}
-
 small {
     line-height: 0.8;
 }
@@ -72,16 +58,17 @@ small {
 }
 
 .top-lang-bar {
-    width: 100%;
+    width: 60%;
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 0;
-    background: white;
+    background: #d4d4d4;
     border-bottom: 1px solid #ddd;
-    text-align: center;
+    text-align: left;
     font-size: 14px;
     font-family: system-ui, sans-serif;
     overflow-x: auto;
+    margin: 0 auto;
 }
 
 .top-lang-bar a {
