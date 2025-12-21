@@ -42,7 +42,11 @@ a, .collapse-clicker {
 }
 
 small {
-    line-height: 0.8;
+    line-height: 0.75;
+}
+
+.right {
+  margin-left: auto;
 }
 
 .markdown-body a:not([href]) {
