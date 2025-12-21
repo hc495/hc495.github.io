@@ -46,7 +46,7 @@ small {
 }
 
 .right {
-  margin-left: auto;
+  text-align: right;
 }
 
 .markdown-body a:not([href]) {
@@ -66,6 +66,7 @@ small {
 }
 
 .top-lang-bar {
+    display: flex;
     width: 64%;
     min-width: 0;
     box-sizing: border-box;
