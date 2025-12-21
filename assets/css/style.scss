@@ -109,9 +109,9 @@ figcaption {
 }
 
 body{
-    background: "{{ site.background-pattern }}";
+    background: radial-gradient(circle at 20px 20px, #ffffff 5px, transparent 0);
     background-size: 40pt 40pt;
-    background-color: "{{ site.background-color }}";
+    background-color: #e9f0ff;
 }
 
 // Remove horizontal rule after headings
