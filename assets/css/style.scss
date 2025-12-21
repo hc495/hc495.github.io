@@ -260,7 +260,7 @@ ul {
         border-radius: 4px;
     }
     .top-lang-bar {
-        width: 100%;
-        margin: 0 auto;
+        max-width: none;
+        border-radius: 0;
     }
 }
