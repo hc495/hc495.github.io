@@ -9,7 +9,7 @@
 // overall margin
 .container-lg {
     max-width: none;
-    margin: 2% 20% 2% 20%;
+    margin: 2% 18% 2% 18%;
     min-width: 600px;
 }
 
@@ -35,6 +35,8 @@ a, .collapse-clicker {
     margin-bottom: 0 !important;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 small {
@@ -58,7 +60,7 @@ small {
 }
 
 .top-lang-bar {
-    width: 60%;
+    width: 64%;
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 0;
