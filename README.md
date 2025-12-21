@@ -71,9 +71,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 ### Thesis
 
-<div class="wide_list">
-
-
 1. **The Mechanistic Basis of In-context Learning**    
     Yufeng Zhao   
     Ph.D. Dissertation @ Japan Advanced Institute of Science and Technology. **2026**. 223 pages.
@@ -83,9 +80,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
-
-
-</div>
 
 ## Resume
 
