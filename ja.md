@@ -86,7 +86,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
     <img src="./assets/fig/bit_xiaohui.jpg" height="150">
 </div> -->
 
-- **基礎科学特別研究員 (SPDR)**, (2026年4月) ～ (2029年3月)  
+- **[基礎科学特別研究員 (SPDR)](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}**, (2026年4月) ～ (2029年3月)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
   メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 
