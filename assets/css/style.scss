@@ -29,6 +29,29 @@ a, .collapse-clicker {
     }
 }
 
+.container-lg.px-3.my-5.markdown-body {
+    background-color: rgb(246, 249, 255);
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.top-lang-bar {
+    width: 60%;
+    min-width: 0;
+    box-sizing: border-box;
+    padding: 6px 0;
+    background: #efefef;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    font-size: 14px;
+    font-family: system-ui, sans-serif;
+    overflow-x: auto;
+    /* align-items: center; */
+    margin: 0 auto;
+}
+
 small {
     line-height: 0.8;
 }
@@ -236,5 +259,9 @@ ul {
         padding: 3px 8px 3px 8px;
         font-size: 83%;
         border-radius: 4px;
+    }
+    .top-lang-bar {
+        width: 100%;
+        margin: 0 auto;
     }
 }
