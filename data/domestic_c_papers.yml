@@ -281,8 +281,8 @@
   second: false
   pages: 6
   year: 2024
-  other: "<span style='color:#fe97b5'>SB Intuitions Awards</span>"
-  other_jp: "<span style='color:#fe97b5'>スポンサー賞</span>"
+  other: "<span style='color:#fe97b5'><strong>SB Intuitions Awards</strong></span>"
+  other_jp: "<span style='color:#fe97b5'><strong>スポンサー賞</strong></span>"
   basic_url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
   urls:
     - url: "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P9-14.pdf"
