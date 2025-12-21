@@ -62,8 +62,8 @@ small {
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 0;
-    background: #929292;
-    border-bottom: 1px solid #ddd;
+    background: #ebebeb;
+    border-bottom: 1px solid #a7a7a7;
     text-align: left;
     font-size: 14px;
     font-family: system-ui, sans-serif;
@@ -94,7 +94,7 @@ figcaption {
 }
 
 body{
-    background: radial-gradient(circle at 1px 1px, #ffffff 3px, transparent 0);
+    background: radial-gradient(circle at 2px 2px, #ffffff 3px, transparent 0);
     background-size: 40pt 40pt;
     background-color: #eff4ff;
 }
