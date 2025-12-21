@@ -2,6 +2,7 @@
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
+<div class="publish_list">
 <ol>
 {%- for item in papers -%}
     {%- assign title = item.title -%}
@@ -69,4 +70,5 @@ Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pa
     </li>
     {%- endfor -%}
 </ol>
+</div>
 {%- endif -%}

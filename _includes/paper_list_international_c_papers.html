@@ -3,6 +3,7 @@
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
+<div class="publish_list">
 <ol>
 {%- for item in papers -%}
     {%- assign title = item.title -%}
@@ -103,4 +104,5 @@
     </li>
     {%- endfor -%}
 </ol>
+</div>
 {%- endif -%}
