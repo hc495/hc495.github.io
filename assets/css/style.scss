@@ -184,13 +184,13 @@ div.img_margin {
     margin-bottom: auto;
 }
 
-.wide_list ol {
+.wide_list ol, .wide_list ul {
     li {
         margin-bottom: 0.6em;
     }
 }
 
-.wide_list ul {
+ol.wide_list, ul.wide_list {
     li {
         margin-bottom: 0.6em;
     }
