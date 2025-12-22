@@ -96,6 +96,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
 {:.wide_list}
+
 {:.lang .lang-en}
 
 ## Resume
@@ -117,6 +118,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
   [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}, China   
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.wide_list}
+
 {:.lang .lang-en}
 
 ## Professional Activities
@@ -224,11 +226,13 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 {% include_relative _includes/paper_list_international_c_papers.html %}
+{:.lang .lang-jp}
 
 ### プレプリント
 {:.lang .lang-jp}
 
 {% include_relative _includes/paper_list_pre_print_papers.html %}
+{:.lang .lang-jp}
 
 ### 国内会議・ジャーナル・その他<br><span style="font-size:0.8em">(† = 国際会議論文の日本国内再録; 通常: 査読なし, ▲ = 査読あり)</span>
 {:.lang .lang-jp}
