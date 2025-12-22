@@ -95,9 +95,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
-{:.wide_list}
-
 {:.lang .lang-en}
+{:.wide_list}
 
 ## Resume
 {:.lang .lang-en}
@@ -117,9 +116,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - **B.Eng.** in Chemistry, 2017.8 ~ 2021.6  
   [School of Material Science and Engineering](https://mse.bit.edu.cn/){:target="_blank"}, Department of Basic Science, [Beijing Institute of Technology](https://www.bit.edu.cn/){:target="_blank"}, China   
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
-{:.wide_list}
-
 {:.lang .lang-en}
+{:.wide_list}
 
 ## Professional Activities
 {:.lang .lang-en}
@@ -252,9 +250,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    学士論文 @ 北京理工大学, **2021**. 52 pages.
-{:.wide_list}
-
 {:.lang .lang-jp}
+{:.wide_list}
 
 ## 履歴
 {:.lang .lang-jp}
@@ -274,9 +271,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - **学士（化学）** 2017年8月 ～ 2021年6月  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
-{:.wide_list}
-
 {:.lang .lang-jp}
+{:.wide_list}
 
 ## 学術活動
 {:.lang .lang-jp}
