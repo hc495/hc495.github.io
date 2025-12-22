@@ -34,7 +34,7 @@
 
     document.querySelectorAll(".lang-link").forEach(a => {
       a.addEventListener("click", e => {
-        e.preventDefault();                 // ⭐ 阻止跳转
+        e.preventDefault();
         applyLang(a.dataset.lang);
       });
     });
