@@ -46,6 +46,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-en}
 
 **Keywords**: Representation Learning, Mechanistic Interpretability, In-context Learning  
+{:.lang .lang-en}
+
 - **Interpretability for Artificial Neural Network**: Mechanistic interpretability (especially for Transformer)   
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
 - **Controllability for Artificial Neural Network**: Low-resource model behavior improvement / controlling from mechanistic perspective  
@@ -158,6 +160,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 
 
+
+
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
 **リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-jp}
@@ -195,12 +199,15 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 **キーワード**: 表現学習, 機械論的解釈可能性, 文脈内学習  
+{:.lang .lang-jp}
+
 - **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性（特にTransformer）  
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
 - **人工ニューラルネットワークの制御可能性**: 低リソースモデル改善 / 機械論的視点からのモデル制御  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
 - **その他**: 多様体学習, 低数値精度ニューラルネットワーク, モデル訓練ダイナミクス  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
+{:.lang .lang-jp}
 
 ## 論文一覧
 {:.lang .lang-jp}
@@ -242,6 +249,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
    Yufeng Zhao   
    学士論文 @ 北京理工大学, **2021**. 52 pages.
 {:.wide_list}
+
 {:.lang .lang-jp}
 
 ## 履歴
@@ -263,6 +271,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.wide_list}
+
 {:.lang .lang-jp}
 
 ## 学術活動
