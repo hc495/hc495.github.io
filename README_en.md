@@ -11,41 +11,21 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
-{:.lang .lang-en}
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
 **Birth**: Beijing, 1999
-{:.lang .lang-en}
-
-**博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}, [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
-**リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, 指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
-{:.lang .lang-jp}
-
-**Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
-**Birth**: Beijing, 1999
-{:.lang .lang-jp}
+<!-- **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology   -->
 
 ### Contact
-{:.lang .lang-en}
-
-### 連絡先
-{:.lang .lang-jp}
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
-
 **Physical Address**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
 **E-mail**: yfzhao [at] jaist.ac.jp  
 This email address is not always reachable. If I do not reply, please try CC the message to yfZhao495 [at] outlook.com.  
-{:.lang .lang-en}
-
-**住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室   
-**E-mail**: yfzhao [at] jaist.ac.jp  
-このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は、yfZhao495 [at] outlook.comにも併せて送ってみてください.  
-{:.lang .lang-jp}
 
 ### Biography
 

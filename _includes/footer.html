@@ -1,0 +1,43 @@
+<script>
+(function () {
+  const KEY = "site_lang";
+
+  function normalizeLang(lang) {
+    if (!lang) return null;
+    lang = lang.toLowerCase();
+    if (lang.startsWith("ja")) return "jp";
+    if (lang.startsWith("en")) return "en";
+    return null;
+  }
+
+  function applyLang(lang) {
+    document.querySelectorAll(".lang").forEach(el => el.classList.remove("active"));
+    document.querySelectorAll(".lang-" + lang).forEach(el => el.classList.add("active"));
+    localStorage.setItem(KEY, lang);
+
+    // 高亮当前语言链接（可选）
+    document.querySelectorAll(".lang-link").forEach(a => {
+      a.classList.toggle("active", a.dataset.lang === lang);
+    });
+
+    // 若使用 MathJax，切换后重排
+    if (window.MathJax && window.MathJax.typesetPromise) {
+      MathJax.typesetPromise();
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const saved = normalizeLang(localStorage.getItem(KEY));
+    const auto = normalizeLang(navigator.language) || "en";
+    const lang = saved || auto;
+    applyLang(lang);
+
+    document.querySelectorAll(".lang-link").forEach(a => {
+      a.addEventListener("click", e => {
+        e.preventDefault();                 // ⭐ 阻止跳转
+        applyLang(a.dataset.lang);
+      });
+    });
+  });
+})();
+</script>

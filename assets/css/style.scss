@@ -54,6 +54,21 @@ small {
   margin-left: auto;
 }
 
+.lang { display: none; }
+.lang.active { display: block; }
+
+.lang-link {
+  text-decoration: none;
+  color: #028390;
+  margin: 0 6px;
+  cursor: pointer;
+}
+
+.lang-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 .markdown-body a:not([href]) {
     color: #2a66cc;
     text-decoration: none;
