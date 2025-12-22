@@ -71,11 +71,13 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-en}
 
 {% include_relative _includes/paper_list_international_c_papers.html %}
+{:.lang .lang-en}
 
 ### Pre-print
 {:.lang .lang-en}
 
 {% include_relative _includes/paper_list_pre_print_papers.html %}
+{:.lang .lang-en}
 
 ### Domestic Conferences / Journal / Miscellaneous<br><span style="font-size:0.8em">(† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed)</span>
 {:.lang .lang-en}
