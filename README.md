@@ -4,6 +4,8 @@ permalink: /
 title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
+{::options parse_block_html="true" /}
+
 <div class="img_margin">
 <img src="./assets/fig/photo.png" alt="" title="@Beijing Inst. Tech. 2023" height="240">
 <figcaption>@ICLR 2025</figcaption>
