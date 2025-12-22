@@ -60,13 +60,15 @@ small {
 .lang-link {
   text-decoration: none;
   color: #028390;
-  margin: 0 6px;
   cursor: pointer;
 }
 
 .lang-link.active {
-  font-weight: bold;
-  text-decoration: underline;
+  color: #333; 
+  cursor: default; 
+  pointer-events: none; 
+  text-decoration: none;
+  font-weight: 600;       
 }
 
 .markdown-body a:not([href]) {
