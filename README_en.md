@@ -14,7 +14,6 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 
 **Alias**: Yufeng Zhao, both from the hieroglyph “趙 羽風”  
 **Birth**: Beijing, 1999
-<!-- **Affiliation**: Japan Advanced Institute of Science and Technology ← Beijing Institute of Technology   -->
 
 ### Contact
 
