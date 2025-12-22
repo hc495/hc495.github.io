@@ -4,10 +4,13 @@ permalink: /
 title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
+{%- if site.photo-path -%}
 <div class="img_margin">
 <img src="{{ site.photo-path }}" alt="" height="240">
 <figcaption>{{ photo-caption }}</figcaption>
 </div>
+{%- else -%}
+{%- endif -%}
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
