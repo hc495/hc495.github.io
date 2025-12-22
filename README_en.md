@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /en
 title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 ---
 
