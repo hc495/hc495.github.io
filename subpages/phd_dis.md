@@ -15,7 +15,7 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 - Chapter 5: [Token-based Decision Criteria Are Suboptimal in In-context Learning](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} (NAACL 2025 Long Paper) [h5=126, IF=16.5, Core A]
 - Chapter 6: [Mechanistic Fine-tuning for In-context Learning](https://arxiv.org/abs/2505.14233){:target="_blank"} (BlackboxNLP Workshop at EMNLP 2025)
 
-<font size="6"><span style='color:red'>Please note that all materials should remain internal until JST January 24th, 2026.</span></font>
+<span style='color:red'>Please note that all materials should remain internal until JST January 27th, 2026.</span>
 
 ## Resources for Final Defense
 
