@@ -436,7 +436,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
   导师：[井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
 - 软件工程 **硕士**，2021.9 ~ 2023.6   
   [计算机学院](https://cs.bit.edu.cn/){:target="_blank"}，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
-  导师：----
+  导师：---
 - 化学 **学士**，2017.8 ~ 2021.6  
   [材料学院](https://mse.bit.edu.cn/){:target="_blank"}，理学与材料学部，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
   导师：[石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
