@@ -12,6 +12,8 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 {%- else -%}
 {%- endif -%}
 
+<div class="lang lang-en">
+
 # Hakaze Cho / Yufeng Zhao / 趙 羽風   
 {:.lang .lang-en}
 
@@ -166,7 +168,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - Second Prize @ 29th Chinese (High School) Chemistry Olympiad. 2015.
 {:.lang .lang-en}
 
-
+</div>
 
 <!-- ==================================================================================== -->
 
