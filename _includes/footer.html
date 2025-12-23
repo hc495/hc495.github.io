@@ -87,16 +87,7 @@
     if (!content) return;
     console.log(content)
 
-    const langRoot = content.querySelector(`${LANG_CONTAINER_PREFIX}${lang}`) 
-                  || content.querySelector(`.lang.lang-${lang}`);
-    if (!langRoot) {
-      toc.innerHTML = "";
-      return;
-    }
-    console.log(langRoot)
-
-    const headings = Array.from(langRoot.querySelectorAll(HEADING_SELECTOR))
-      .filter(isVisible);
+    const headings = Array.from(content.querySelectorAll(HEADING_SELECTOR)).filter(isVisible);
     console.log(headings)
 
     if (!headings.length) {
