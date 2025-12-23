@@ -481,3 +481,5 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - 一等奖 @ 第30届中国（高中）化学奥林匹克. 2016.
 - 二等奖 @ 第29届中国（高中）化学奥林匹克. 2015.
 {:.lang .lang-zh}
+
+<div class="end-mark"></div>
