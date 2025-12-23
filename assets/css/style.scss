@@ -177,12 +177,12 @@ body, .markdown-body {
 // }
 
 h1 {
-    font-family: "Gentium Basic", "Noto Serif JP";
+    font-family: "Gentium Basic", "Noto Serif JP" !important;
     font-size: 1.55em !important;
 }
 
 h2 {
-    font-family: "Gentium Basic", "Noto Serif JP";
+    font-family: "Gentium Basic", "Noto Serif JP" !important;
     font-size: 1.4em;
     // color: #028390;
     color: #000000;
@@ -190,7 +190,7 @@ h2 {
 }
 
 h3 {
-    font-family: "Gentium Basic", "Noto Serif JP";
+    font-family: "Gentium Basic", "Noto Serif JP" !important;
     color: #000000;
     font-size: 1.1em;
 }
