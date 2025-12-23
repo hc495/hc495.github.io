@@ -23,6 +23,8 @@
     if (window.MathJax && window.MathJax.typesetPromise) {
       MathJax.typesetPromise();
     }
+
+    if (window.updateTocForLang) window.updateTocForLang(lang);
   }
 
   document.addEventListener("DOMContentLoaded", () => {
@@ -37,6 +39,87 @@
         applyLang(a.dataset.lang);
       });
     });
+  });
+})();
+</script>
+
+<script>
+(function () {
+  const TOC_ID = "toc";
+  const CONTENT_SELECTOR = ".markdown-body";  
+  const HEADING_SELECTOR = "h1, h2, h3";      
+  const LANG_CONTAINER_PREFIX = ".lang-";     
+
+  function slugify(s) {
+    return s.trim()
+      .toLowerCase()
+      .replace(/[^\p{L}\p{N}\s-]/gu, "") 
+      .replace(/\s+/g, "-");
+  }
+
+  function ensureHeadingId(h, lang) {
+    if (h.id && h.id.startsWith(lang + "-")) return h.id;
+
+    const base = slugify(h.textContent);
+    let id = `${lang}-${base || "section"}`;
+    let k = 2;
+    while (document.getElementById(id)) {
+      id = `${lang}-${base || "section"}-${k++}`;
+    }
+    h.id = id;
+    return id;
+  }
+
+  function isVisible(el) {
+    return !!(el.offsetWidth || el.offsetHeight || el.getClientRects().length);
+  }
+
+  function buildToc(lang) {
+    const toc = document.getElementById(TOC_ID);
+    if (!toc) return;
+
+    const content = document.querySelector(CONTENT_SELECTOR);
+    if (!content) return;
+
+    const langRoot = content.querySelector(`${LANG_CONTAINER_PREFIX}${lang}`) 
+                  || content.querySelector(`.lang.lang-${lang}`);
+    if (!langRoot) {
+      toc.innerHTML = "";
+      return;
+    }
+
+    const headings = Array.from(langRoot.querySelectorAll(HEADING_SELECTOR))
+      .filter(isVisible);
+
+    if (!headings.length) {
+      toc.innerHTML = "";
+      return;
+    }
+
+    const ul = document.createElement("ul");
+    headings.forEach(h => {
+      const id = ensureHeadingId(h, lang);
+      const li = document.createElement("li");
+      li.className = `lv-${h.tagName}`; 
+
+      const a = document.createElement("a");
+      a.href = `#${id}`;
+      a.textContent = h.textContent;
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+
+    toc.innerHTML = "";
+    toc.appendChild(ul);
+  }
+
+  window.updateTocForLang = function(lang) {
+    buildToc(lang);
+  };
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const lang = document.documentElement.dataset.lang || "en";
+    buildToc(lang);
   });
 })();
 </script>
