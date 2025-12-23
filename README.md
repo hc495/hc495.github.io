@@ -354,14 +354,14 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ## 研究方向
 {:.lang .lang-zh}
 
-**关键词**: 表征学习，机制可解释性，上下文学习  
+**关键词**：表征学习，机制可解释性，上下文学习  
 {:.lang .lang-zh}
 
-- **人工神经网络的可解释性**: （Transformer模型的）机制可解释性   
+- **人工神经网络的可解释性**：（Transformer模型的）机制可解释性   
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
-- **人工神经网络的可控制性**: 从机制可解释性视角的低资源模型行为优化 / 控制  
+- **人工神经网络的可控制性**：从机制可解释性视角的低资源模型行为优化与控制  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
-- **其它**: 流形学习，低数值精度神经网络，神经网络训练动力学  
+- **其它**：流形学习，低数值精度神经网络，神经网络训练动力学  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 {:.lang .lang-zh}
 
