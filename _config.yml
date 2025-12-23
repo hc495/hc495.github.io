@@ -10,6 +10,11 @@ timezone: Asia/Tokyo
 
 data_dir: data
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  
+
 toplinks_left: 
   - url: '/phd_defense'
     label: 'PhD Defense'
