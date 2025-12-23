@@ -16,7 +16,7 @@ title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-en}
 
-**Alias**: Yufeng Zhao (quite difficult to pronounce, so I select the Japanese spell for publication, both from the hieroglyph “趙 羽風”)  
+**Official Name**: Yufeng Zhao (quite difficult to pronounce, so I select the Japanese spell for publication, both from the hieroglyph “趙 羽風”)  
 **Birth**: Beijing, 1999
 {:.lang .lang-en}
 
@@ -169,7 +169,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 **リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-jp}
 
-**別名**: Yufeng Zhao（漢字表記：「趙 羽風」，発音は難しいので日本語発音を選択しました）  
+**正式名**: Yufeng Zhao（漢字表記：「趙 羽風」，発音は難しいので日本語発音を選択しました）  
 **生年**: 1999年, 北京生まれ  
 {:.lang .lang-jp}
 
