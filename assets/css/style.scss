@@ -53,23 +53,6 @@ small {
   margin-left: auto;
 }
 
-.lang { display: none; }
-.lang.active { display: block; }
-
-.lang-link {
-  text-decoration: none;
-  color: #028390;
-  cursor: pointer;
-}
-
-.lang-link.active {
-  color: #333; 
-  cursor: default; 
-  pointer-events: none; 
-  text-decoration: none;
-  font-weight: 600;       
-}
-
 .lang-en{
     font-family: 'Noto Sans JP', "Gentium Basic";
 }
@@ -104,7 +87,7 @@ small {
     width: 64%;
     min-width: 0;
     box-sizing: border-box;
-    padding: 6px 2% 6px 2%;
+    padding: 6px 2.2% 6px 2.2%;
     text-align: left;
     font-size: 14px;
     font-family: system-ui, sans-serif;
@@ -125,9 +108,20 @@ small {
     text-decoration: underline;
 }
 
-.top-lang-bar a.active {
-    font-weight: 600;
-    color: #000;
+.lang { display: none; }
+.lang.active { display: block; }
+
+.lang-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.lang-link.active {
+  color: #000;
+  cursor: default; 
+  pointer-events: none; 
+  text-decoration: none;
+  font-weight: 600;       
 }
 
 figcaption {
