@@ -247,10 +247,12 @@ ul {
 
 .markdown-body h1 {
     border-bottom: 3px double gray;
+    font-weight: 800;
 }
 
 .markdown-body h2 {
     border-bottom: 1px solid gray;
+    font-weight: 800;
 }
 
 .markdown-body h3,
@@ -260,6 +262,7 @@ ul {
     border-bottom: 0px solid gray;
     width: fit-content;
     max-width: 100%;
+    font-weight: 600;
 }
 
 .markdown-body hr {
