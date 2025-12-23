@@ -449,7 +449,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 - **项目负责人**: Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models   
-  理化学研究所基础科学特别研究员科研经费, 2026.4 ~ 2029.3, JPY 3,000,000.
+  理化学研究所基础科学特别研究员科研经费, 2026.4 ~ 2029.3, 3,000,000 日元.
 {:.lang .lang-zh}
 
 ### 获奖
