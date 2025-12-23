@@ -306,13 +306,13 @@ ul {
 }
 
 .end-mark{
-  margin: 48px auto 32px;
+  margin: 32px auto 32px;
   width: 60%;
   height: 16px;
   background:
-    radial-gradient(circle, rgba(0,0,0,.45) 3px, transparent 4px) center/16px 16px no-repeat,
-    linear-gradient(to right, rgba(0,0,0,.35), rgba(0,0,0,.35)) left 50%/calc(50% - 12px) 2px no-repeat,
-    linear-gradient(to right, rgba(0,0,0,.35), rgba(0,0,0,.35)) right 50%/calc(50% - 12px) 2px no-repeat;
+    radial-gradient(circle, rgb(0, 0, 0) 2px, transparent 4px) center/16px 16px no-repeat,
+    linear-gradient(to right, rgba(0,0,0,.35), rgb(0, 0, 0)) left 50%/calc(50% - 12px) 1.5px no-repeat,
+    linear-gradient(to right, rgb(0, 0, 0), rgba(0,0,0,.35)) right 50%/calc(50% - 12px) 1.5px no-repeat;
 }
 
 @media (max-width: 640px) {
