@@ -318,8 +318,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 <!-- ==================================================================================== -->
 
 
-**博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}，[Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-**全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
+**博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+**全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-zh}
 
 **正式姓名**: 赵羽风 (Yufeng Zhao: 该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式)  
