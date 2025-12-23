@@ -78,12 +78,14 @@
 
   function buildToc(lang) {
     console.log(lang)
+
     const toc = document.getElementById(TOC_ID);
     if (!toc) return;
-
     console.log(toc)
+
     const content = document.querySelector(CONTENT_SELECTOR);
     if (!content) return;
+    console.log(content)
 
     const langRoot = content.querySelector(`${LANG_CONTAINER_PREFIX}${lang}`) 
                   || content.querySelector(`.lang.lang-${lang}`);
@@ -91,6 +93,7 @@
       toc.innerHTML = "";
       return;
     }
+    console.log(langRoot)
 
     const headings = Array.from(langRoot.querySelectorAll(HEADING_SELECTOR))
       .filter(isVisible);
@@ -99,6 +102,7 @@
       toc.innerHTML = "";
       return;
     }
+    console.log(headings)
 
     const ul = document.createElement("ul");
     headings.forEach(h => {
