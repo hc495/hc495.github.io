@@ -318,12 +318,12 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 <!-- ==================================================================================== -->
 
 
-**博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
-**全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
+**博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}，[Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
+**全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-zh}
 
 **正式姓名**: 赵羽风 (Yufeng Zhao: 该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式)  
-**出生**: 北京市, 1999
+**出生**: 北京市，1999
 {:.lang .lang-zh}
 
 ### 联系方式
@@ -361,7 +361,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
 - **人工神经网络的可控制性**: 从机制可解释性视角的低资源模型行为优化 / 控制  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
-- **其它**: 流形学习, 低数值精度神经网络, 神经网络训练动力学  
+- **其它**: 流形学习，低数值精度神经网络，神经网络训练动力学  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 {:.lang .lang-zh}
 
@@ -388,7 +388,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-zh}
 
-### 日本国内会议 / 期刊 / 杂项<br><span style="font-size:0.8em">(† = 国际会议论文的日本国内二次出版; 默认: 无同行评审, ▲= 有同行评审)</span>
+### 日本国内会议 / 期刊 / 杂项<br><span style="font-size:0.8em">(† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审)</span>
 {:.lang .lang-zh}
 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
@@ -411,20 +411,20 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ## 经历
 {:.lang .lang-zh}
 
-- **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR), (2026.4) ~ (2029.3)  
-  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [理化学研究所](https://www.riken.jp/en/){:target="_blank"}, Japan  
+- **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR)，(2026.4) ~ (2029.3)  
+  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}，[Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}，[理化学研究所](https://www.riken.jp/en/){:target="_blank"}，日本  
   导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **研究员** (2026.4) ~ (2029.3)  
-  [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}, [东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"}, Japan  
+  [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}，[东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"}，日本
   导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-- 计算机科学 **博士**，科研助理, 2023.10 ~ (2026.3), 提前毕业  
-  [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [JAIST](https://www.jaist.ac.jp/){:target="_blank"}, Japan  
+- 计算机科学 **博士**，科研助理，2023.10 ~ (2026.3)，提前毕业  
+  [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}，[JAIST](https://www.jaist.ac.jp/){:target="_blank"}，日本
   导师: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
-- 软件工程 **硕士**, 2021.9 ~ 2023.6   
-  [计算机学院](https://cs.bit.edu.cn/){:target="_blank"}, [北京理工大学](https://www.bit.edu.cn/){:target="_blank"}, China   
+- 软件工程 **硕士**，2021.9 ~ 2023.6   
+  [计算机学院](https://cs.bit.edu.cn/){:target="_blank"}，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
   导师: --
-- 化学 **学士** in Chemistry, 2017.8 ~ 2021.6  
-  [材料学院](https://mse.bit.edu.cn/){:target="_blank"}, 理学与材料学部, [北京理工大学](https://www.bit.edu.cn/){:target="_blank"}, China   
+- 化学 **学士**，2017.8 ~ 2021.6  
+  [材料学院](https://mse.bit.edu.cn/){:target="_blank"}，理学与材料学部，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
   导师: [石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-zh .wide_list}
 
@@ -449,7 +449,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 - **项目负责人**: Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models   
-  理化学研究所基础科学特别研究员科研经费, 2026.4 ~ 2029.3, 3,000,000 日元.
+  理化学研究所基础科学特别研究员科研经费，2026.4 ~ 2029.3，3,000,000 日元.
 {:.lang .lang-zh}
 
 ### 获奖
@@ -461,7 +461,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - 文部科学省外国人留学生学习奖励费 @ 日本文部科学省. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
 - 成绩进步奖 @ 北京理工大学. 2020. <small>由于健康原因，我缺席了大量2019年的期末考试，故我2020年的常规GPA被视为显著的进步.</small>
-- 年度奖学金 @ 北京理工大学. 2018, 2019, 2021, 2022, 2023.
+- 年度奖学金 @ 北京理工大学. 2018，2019，2021，2022，2023.
 - 一等奖 @ 第30届中国（高中）化学奥林匹克. 2016.
 - 二等奖 @ 第29届中国（高中）化学奥林匹克. 2015.
 {:.lang .lang-zh}
