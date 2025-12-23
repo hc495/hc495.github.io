@@ -166,11 +166,11 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
-**リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
+**リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-jp}
 
-**正式名**: Yufeng Zhao（漢字表記：「趙 羽風」，発音は難しいので日本語発音を選択しました）  
-**生年**: 1999年, 北京生まれ  
+**正式名**：Yufeng Zhao（漢字表記：「趙 羽風」，発音は難しいので日本語発音を選択しました）  
+**生年**：1999年, 北京生まれ  
 {:.lang .lang-jp}
 
 ### 連絡先
@@ -181,8 +181,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
-**住所**: 石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室   
-**E-mail**: yfzhao [at] jaist.ac.jp  
+**住所**：石川県能美市旭台1-1 北陸先端科学技術大学院大学 情報科学研究科 I棟 I-52室   
+**E-mail**：yfzhao [at] jaist.ac.jp  
 このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は，yfZhao495 [at] outlook.comにも併せて送ってみてください.  
 {:.lang .lang-jp}
 
@@ -201,14 +201,14 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ## 研究関心
 {:.lang .lang-jp}
 
-**キーワード**: 表現学習，機械論的解釈可能性，文脈内学習  
+**キーワード**：表現学習，機械論的解釈可能性，文脈内学習  
 {:.lang .lang-jp}
 
-- **人工ニューラルネットワークの解釈可能性**: 機械論的解釈可能性（特にTransformer）  
+- **人工ニューラルネットワークの解釈可能性**：機械論的解釈可能性（特にTransformer）  
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
-- **人工ニューラルネットワークの制御可能性**: 低リソースモデル改善 / 機械論的視点からのモデル制御  
+- **人工ニューラルネットワークの制御可能性**：低リソースモデル改善 / 機械論的視点からのモデル制御  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
-- **その他**: 多様体学習，低数値精度ニューラルネットワーク，モデル訓練ダイナミクス  
+- **その他**：多様体学習，低数値精度ニューラルネットワーク，モデル訓練ダイナミクス  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
 {:.lang .lang-jp}
 
@@ -235,7 +235,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-jp}
 
-### 国内会議・ジャーナル・その他<br><span style="font-size:0.8em">(† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり)</span>
+### 国内会議・ジャーナル・その他<br><span style="font-size:0.8em">（† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり）</span>
 {:.lang .lang-jp}
 
 {% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
@@ -258,21 +258,21 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ## 履歴
 {:.lang .lang-jp}
 
-- **[基礎科学特別研究員](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}** (SPDR)，(2026年4月) ～ (2029年3月)  
+- **[基礎科学特別研究員](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}** (SPDR)，(2026.4) ～ (2029.3)  
   [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
-  メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-- **ポスドク研究員** (2026年4月) ～ (2029年3月)  
+  メンター：[乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+- **ポスドク研究員** (2026.4) ～ (2029.3)  
   [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"} [東北大学 自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}  
-  メンター: [乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-- **博士（情報科学）** リサーチアシスタント，2023年10月 ～ (2026年3月) (予定，早期修了)  
+  メンター：[乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+- **博士（情報科学）** リサーチアシスタント，2023.10 ～ (2026.3) (予定，早期修了)  
   [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
-  指導教員: [井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
-- **修士（ソフトウェア工学）** 2021年9月 ～ 2023年6月  
+  指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
+- **修士（ソフトウェア工学）** 2021.9 ～ 2023.6  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
-  指導教員: 趙 羽風 (自主研究)
-- **学士（化学）** 2017年8月 ～ 2021年6月  
+  指導教員：趙 羽風 (自主研究)
+- **学士（化学）** 2017.8 ～ 2021.6.  
   [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
-  指導教員: [石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
+  指導教員：[石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-jp .wide_list}
 
 ## 学術活動
@@ -295,7 +295,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ### 競争的研究経費
 {:.lang .lang-jp}
 
-- **Principal Investigator**: 機械論的制御可能性に向けた大規模言語モデルの回路ベース編集   
+- **Principal Investigator**：機械論的制御可能性に向けた大規模言語モデルの回路ベース編集   
   理化学研究所 基礎科学特別研究員研究経費，2026年4月 ～ 2029年3月，300万円.
 {:.lang .lang-jp}
 
@@ -322,8 +322,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 **全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-zh}
 
-**正式姓名**: 赵羽风 (Yufeng Zhao: 该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式)  
-**出生**: 北京市，1999
+**正式姓名**：赵羽风（Yufeng Zhao: 该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式）  
+**出生**：北京市，1999
 {:.lang .lang-zh}
 
 ### 联系方式
@@ -334,8 +334,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
-**物理地址**: Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
-**E-mail**: yfzhao [at] jaist.ac.jp  
+**物理地址**：Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
+**E-mail**：yfzhao [at] jaist.ac.jp  
 本邮箱地址并非完全可达. 如果您未收到我的回复，请尝试抄送至 yfZhao495 [at] outlook.com.  
 {:.lang .lang-zh}
 
@@ -388,7 +388,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-zh}
 
-### 日本国内会议 / 期刊 / 杂项<br><span style="font-size:0.8em">(† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审)</span>
+### 日本国内会议 / 期刊 / 杂项<br><span style="font-size:0.8em">（† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审）</span>
 {:.lang .lang-zh}
 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
@@ -413,19 +413,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 - **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR)，(2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}，[Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}，[理化学研究所](https://www.riken.jp/en/){:target="_blank"}，日本  
-  导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+  导师：[乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **研究员** (2026.4) ~ (2029.3)  
   [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}，[东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"}，日本   
-  导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+  导师：[乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - 计算机科学 **博士**，科研助理，2023.10 ~ (2026.3)，提前毕业  
   [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}，[JAIST](https://www.jaist.ac.jp/){:target="_blank"}，日本   
-  导师: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
+  导师：[井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
 - 软件工程 **硕士**，2021.9 ~ 2023.6   
   [计算机学院](https://cs.bit.edu.cn/){:target="_blank"}，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
-  导师: --
+  导师：----
 - 化学 **学士**，2017.8 ~ 2021.6  
   [材料学院](https://mse.bit.edu.cn/){:target="_blank"}，理学与材料学部，[北京理工大学](https://www.bit.edu.cn/){:target="_blank"}，中国   
-  导师: [石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
+  导师：[石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-zh .wide_list}
 
 ## 学术活动
@@ -448,7 +448,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 ### 科研经费
 {:.lang .lang-zh}
 
-- **项目负责人**: Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models   
+- **项目负责人**：Towards Mechanistic Controllability: Circuit-based Behavior Correction for Large Language Models   
   理化学研究所基础科学特别研究员科研经费，2026.4 ~ 2029.3，3,000,000 日元.
 {:.lang .lang-zh}
 
