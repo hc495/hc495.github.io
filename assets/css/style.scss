@@ -305,44 +305,14 @@ ul {
     border: 2px solid #b0c8ff;
 }
 
-.end-mark {
-  position: relative;
+.end-mark{
   margin: 48px auto 32px;
   width: 60%;
   height: 16px;
-}
-
-.end-mark::before,
-.end-mark::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  width: 45%;
-  border-top: 1.5px dashed rgba(0,0,0,0.35);
-  transform: translateY(-50%);
-}
-
-.end-mark::before {
-  left: 0;
-  pointer-events: none;
-  border-top-style: dashed;
-  z-index: 0;
-}
-
-.end-mark::after {
-  right: 0;
-  pointer-events: none;
-  border-top-style: dashed;
-  z-index: 0;
-}
-
-.end-mark::marker { display: none; }
-
-.end-mark {
   background:
-    radial-gradient(circle at center, rgba(0,0,0,0.45) 3px, transparent 4px);
-  background-repeat: no-repeat;
-  background-position: center;
+    radial-gradient(circle, rgba(0,0,0,.45) 3px, transparent 4px) center/16px 16px no-repeat,
+    linear-gradient(to right, rgba(0,0,0,.35), rgba(0,0,0,.35)) left 50%/calc(50% - 12px) 2px no-repeat,
+    linear-gradient(to right, rgba(0,0,0,.35), rgba(0,0,0,.35)) right 50%/calc(50% - 12px) 2px no-repeat;
 }
 
 @media (max-width: 640px) {
