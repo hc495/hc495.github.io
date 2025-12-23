@@ -414,7 +414,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [理化学研究所](https://www.riken.jp/en/){:target="_blank"}, Japan  
   Mentor: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
-- **Postdoctoral Researcher** (2026.4) ~ (2029.3)  
+- **研究员** (2026.4) ~ (2029.3)  
   [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}, [东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"}, Japan  
   Mentor: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - 计算机科学 **博士**，科研助理, 2023.10 ~ (2026.3), 提前毕业  
@@ -458,10 +458,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the (Japanese) Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 14 in 765, 2.0%)
 - [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ The 260th SIG for Natural Language, Information Processing Society of Japan (SIG-NL260, IPSJ). 2024.
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ The 30st Annual Conference of the Japanese Association for Natural Language Processing (NLP2024, ANLP). 2024.
-- Monbukagakusho Honors Scholarship @ Japanese Ministry of Education, Culture, Sports, Science and Technology. 2023.
+- 文部科学省外国人留学生学习奖励费 @ 日本文部科学省. 2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
-- GPA Improvement Award @ Beijing Institute of Technology. 2020. <small>I missed (medical) many exams in 2019, so my regular GPA in 2020 were considered a significant improvement.</small>
-- Annual Outstanding Academic (GPA) Scholarship @ Beijing Institute of Technology. 2018, 2019, 2021, 2022, 2023.
+- 成绩进步奖 @ 北京理工大学. 2020. <small>由于健康原因，我缺席了大量2019年的期末考试，故我2020年的常规GPA被视为显著的进步.</small>
+- 年度奖学金 @ 北京理工大学. 2018, 2019, 2021, 2022, 2023.
 - 一等奖 @ 第30届中国（高中）化学奥林匹克. 2016.
 - 二等奖 @ 第29届中国（高中）化学奥林匹克. 2015.
 {:.lang .lang-zh}
