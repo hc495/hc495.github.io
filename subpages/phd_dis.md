@@ -19,6 +19,8 @@ Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publ
 
 ## Resources for Final Defense
 
+Preliminary Defense Date: Feb 4th, 2026.
+
 ### Presentation Slides
 
 Revision Note:
