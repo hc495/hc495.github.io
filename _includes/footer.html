@@ -97,12 +97,12 @@
 
     const headings = Array.from(langRoot.querySelectorAll(HEADING_SELECTOR))
       .filter(isVisible);
+    console.log(headings)
 
     if (!headings.length) {
       toc.innerHTML = "";
       return;
     }
-    console.log(headings.length)
 
     const ul = document.createElement("ul");
     headings.forEach(h => {
