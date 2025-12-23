@@ -39,7 +39,7 @@ This email address is not always reachable. If I do not reply, please try CC the
 I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am in my graduation thread of Ph.D. at JAIST with a fast-track schedule in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference, by mathematical and representation learning methods, and improving their performance robustly through our deeper understanding. I have published over 30 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NeurIPS.
 {:.lang .lang-en}
 
-**Research Collaboration Statement.** I am actively seeking productive (My standard for being “productive” is to produce two to three top-tier conference papers per year. This is a benchmark I set for myself, not an expectation I impose on others.) research collaborations in the mentioned area. If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
+**Research Collaboration Statement.** I am actively seeking productive research collaborations in the mentioned area. (My standard for being “productive” is to produce two to three top-tier conference papers per year. This is a benchmark I set for myself, not an expectation I impose on others.) If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome collaborations with both experts and motivated beginners—being a novice is not a drawback if you are eager and efficient to learn. Additionally, I am open to exploring collaborations in other areas as well. 
 {:.lang .lang-en}
 
 **Position Interests.** I have already signed a full-time contract starting in April 2026, and I welcome visiting and part-time positions. At the same time, I am seeking an associate professor position starting in April 2029.
@@ -192,7 +192,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 私は中国のトップ大学である北京理工大学を卒業し，2021年に化学の学士号，2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており，2026年3月の早期修了を目指しています. 研究テーマは，人工ニューラルネットワーク，特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を，数学的および表現学習の手法によって解明し，その理解に基づく性能向上を目指すものです. 2023年以降，この分野において30本以上の論文および研究発表を発信しており，その中にはICLRやNeurIPSといったトップカンファレンスに採択されたものも含まれます.
 {:.lang .lang-jp}
 
-**研究協力募集.** この研究分野に関心のある方との効率的な（私が考える「効率的な」の基準は，1年にトップカンファレンスの論文を2〜3本発表することである. これは他人に求めるものではなく，あくまで自分自身に課している目標である.）共同研究を積極的に募集しています. ご興味をお持ちの方は，ぜひお気軽にご連絡ください. 専門家だけでなく，意欲と学習効率の高い初心者との協力も歓迎します. また，他分野での共同研究についても柔軟に対応いたします.
+**研究協力募集.** この研究分野に関心のある方との効率的な共同研究を積極的に募集しています. （私が考える「効率的な」の基準は，1年にトップカンファレンスの論文を2〜3本発表することである. これは他人に求めるものではなく，あくまで自分自身に課している目標である.）ご興味をお持ちの方は，ぜひお気軽にご連絡ください. 専門家だけでなく，意欲と学習効率の高い初心者との協力も歓迎します. また，他分野での共同研究についても柔軟に対応いたします.
 {:.lang .lang-jp}
 
 **仕事募集.** 2026年4月より開始するフルタイムの雇用契約をすでに締結しており，客員および非常勤での職も歓迎いたします. あわせて，2029年4月開始の准教授職を探しております.
