@@ -82,7 +82,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-en}
 
-### Domestic Conferences / Journal / Miscellaneous<br><span style="font-size:0.8em">(† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed)</span>
+### Domestic Conferences / Journal / Miscellaneous
+{:.lang .lang-en}
+
+<span style="font-size:0.8em">(† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed)</span>
 {:.lang .lang-en}
 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
@@ -235,7 +238,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-jp}
 
-### 国内会議・ジャーナル・その他<br><span style="font-size:0.8em">（† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり）</span>
+### 国内会議・ジャーナル・その他
+{:.lang .lang-jp}
+
+<span style="font-size:0.8em">（† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり）</span>
 {:.lang .lang-jp}
 
 {% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
@@ -388,7 +394,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_list_pre_print_papers.html %}
 {:.lang .lang-zh}
 
-### 日本国内会议 / 期刊 / 杂项<br><span style="font-size:0.8em">（† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审）</span>
+### 日本国内会议 / 期刊 / 杂项
+{:.lang .lang-zh}
+
+<span style="font-size:0.8em">（† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审）</span>
 {:.lang .lang-zh}
 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
