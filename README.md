@@ -357,7 +357,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 **关键词**: 表征学习，机制可解释性，上下文学习  
 {:.lang .lang-zh}
 
-- **人工神经网络的可解释性**: 机制可解释性 (特别关注Transformer模型)   
+- **人工神经网络的可解释性**: （Transformer模型的）机制可解释性   
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
 - **人工神经网络的可控制性**: 从机制可解释性视角的低资源模型行为优化 / 控制  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
