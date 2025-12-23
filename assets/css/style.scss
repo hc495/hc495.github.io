@@ -113,16 +113,15 @@ small {
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 6pt;
     border: 2pt solid #ffffff;
+    font-family: 'Noto Sans JP', "Noto Sans SC";
 }
 
 .top-lang-bar a {
     margin: 0 12px;
-    color: #000000;
     text-decoration: none;
 }
 
 .top-lang-bar a:hover {
-    color: #000;
     text-decoration: underline;
 }
 
