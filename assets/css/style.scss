@@ -159,7 +159,7 @@ figcaption {
   position: fixed;
   right: 18px;
   top: 110px;
-  width: 240px;
+  width: 330px;
   max-height: 70vh;
   overflow: auto;
   background-color: rgba(255, 255, 255, 0.5);
@@ -167,7 +167,6 @@ figcaption {
   border-radius: 10px;
   padding: 10px 12px;
   font-size: 14px;
-  color: #727272;
   font-family: 'Noto Sans JP', "Noto Sans SC";
 }
 #toc ul { list-style: none; padding-left: 0; margin: 0; }
@@ -348,5 +347,8 @@ ul {
         max-width: none;
         border-radius: 3pt;
         font-size: 12px;
+    }
+    #toc {
+        display: none !important;
     }
 }
