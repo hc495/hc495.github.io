@@ -162,11 +162,13 @@ figcaption {
   width: 240px;
   max-height: 70vh;
   overflow: auto;
-  background: rgba(255,255,255,0.85);
-  border: 1px solid rgba(0,0,0,0.08);
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 2pt solid #ffffff;
   border-radius: 10px;
   padding: 10px 12px;
-  font-size: 13px;
+  font-size: 14px;
+  color: #727272;
+  font-family: 'Noto Sans JP', "Noto Sans SC";
 }
 #toc ul { list-style: none; padding-left: 0; margin: 0; }
 #toc li { margin: 4px 0; }
