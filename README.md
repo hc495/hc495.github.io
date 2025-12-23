@@ -409,7 +409,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh .wide_list}
 
 ## 经历
-{:.lang .lang-en}
+{:.lang .lang-zh}
 
 - **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [理化学研究所](https://www.riken.jp/en/){:target="_blank"}, Japan  
