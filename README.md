@@ -322,7 +322,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 **全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-zh}
 
-**正式姓名**: Yufeng Zhao (该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式)  
+**正式姓名**: 赵羽风 (Yufeng Zhao: 该拼写对于不同文化背景的人存在不可克服的发音困难，因此我选择使用姓名汉字的日文拼写方式)  
 **出生**: 北京市, 1999
 {:.lang .lang-zh}
 
@@ -413,19 +413,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 - **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR), (2026.4) ~ (2029.3)  
   [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [理化学研究所](https://www.riken.jp/en/){:target="_blank"}, Japan  
-  Mentor: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+  导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **研究员** (2026.4) ~ (2029.3)  
   [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}, [东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"}, Japan  
-  Mentor: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
+  导师: [乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - 计算机科学 **博士**，科研助理, 2023.10 ~ (2026.3), 提前毕业  
   [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [JAIST](https://www.jaist.ac.jp/){:target="_blank"}, Japan  
-  Mentor: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
+  导师: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
 - 软件工程 **硕士**, 2021.9 ~ 2023.6   
   [计算机学院](https://cs.bit.edu.cn/){:target="_blank"}, [北京理工大学](https://www.bit.edu.cn/){:target="_blank"}, China   
-  Mentor: Yufeng Zhao (Self-motivated)
+  导师: --
 - 化学 **学士** in Chemistry, 2017.8 ~ 2021.6  
-  [材料学院](https://mse.bit.edu.cn/){:target="_blank"}, Department of Basic Science, [北京理工大学](https://www.bit.edu.cn/){:target="_blank"}, China   
-  Mentor: [石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
+  [材料学院](https://mse.bit.edu.cn/){:target="_blank"}, 理学与材料学部, [北京理工大学](https://www.bit.edu.cn/){:target="_blank"}, China   
+  导师: [石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-zh .wide_list}
 
 ## 学术活动
