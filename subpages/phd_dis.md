@@ -9,7 +9,7 @@ langs:
 
 This dissertation is composed of the following 4 peer-reviewed top-tier international conference papers. Notice that the author use the name Hakaze Cho in his publications.
 
-Refer the [main page](https://www.hakaze-c.com/){:target="_blank"} for more publication details.
+Refer the [main page](https://www.hakaze-c.com/) for more publication details.
 
 - Chapter 3: [Revisiting In-context Learning Inference Circuit in Large Language Models](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} (ICLR 2025 Poster) [h5=362, IF=48.9, Core A*]
 - Chapter 4: [Mechanism of Task-oriented Information Removal in In-context Learning](https://arxiv.org/abs/2509.21012){:target="_blank"}
