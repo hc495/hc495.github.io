@@ -1,7 +1,8 @@
 ---
-layout: subpage
+layout: page
 permalink: /reviews/hidden_calibration
 title: "Review for 'Token-based Decision Criteria Are Suboptimal in In-context Learning' @ ACL ARR 2024 October"
+langs:
 ---
 
 # Review for "Token-based Decision Criteria Are Suboptimal in In-context Learning" @ ACL ARR 2024 October

@@ -2,6 +2,13 @@
 layout: page
 permalink: /
 title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
+langs:
+  - marker: 'en'
+    label: 'English'
+  - marker: 'jp'
+    label: '日本語'
+  - marker: 'zh'
+    label: '简体中文'
 ---
 
 {%- if site.photo-path -%}

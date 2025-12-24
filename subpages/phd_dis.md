@@ -1,7 +1,8 @@
 ---
-layout: subpage
+layout: page
 permalink: /phd_defense
 title: "Ph.D. Dissertation: The Mechanistic Basis of In-context Learning"
+langs:
 ---
 
 # Ph.D. Dissertation: The Mechanistic Basis of In-context Learning
