@@ -11,16 +11,17 @@ langs:
     label: '简体中文'
 ---
 
+# Hakaze Cho / Yufeng Zhao / 趙 羽風   
+{:.lang .lang-en}
+
 {%- if site.photo-path -%}
 <div class="img_margin">
 <img src="{{ site.photo-path }}" alt="" height="240">
 <figcaption>{{ photo-caption }}</figcaption>
 </div>
+{:.lang .lang-en}
 {%- else -%}
 {%- endif -%}
-
-# Hakaze Cho / Yufeng Zhao / 趙 羽風   
-{:.lang .lang-en}
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
@@ -177,6 +178,15 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 # Hakaze Cho / Yufeng Zhao / 趙 羽風   
 {:.lang .lang-jp}
+
+{%- if site.photo-path -%}
+<div class="img_margin">
+<img src="{{ site.photo-path }}" alt="" height="240">
+<figcaption>{{ photo-caption }}</figcaption>
+</div>
+{:.lang .lang-jp}
+{%- else -%}
+{%- endif -%}
 
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
 **リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
@@ -335,6 +345,15 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 # Hakaze Cho / Yufeng Zhao / 赵羽风   
 {:.lang .lang-zh}
+
+{%- if site.photo-path -%}
+<div class="img_margin">
+<img src="{{ site.photo-path }}" alt="" height="240">
+<figcaption>{{ photo-caption }}</figcaption>
+</div>
+{:.lang .lang-zh}
+{%- else -%}
+{%- endif -%}
 
 **博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
