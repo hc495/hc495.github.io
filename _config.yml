@@ -13,7 +13,7 @@ data_dir: data
 markdown: kramdown
 kramdown:
   input: GFM
-  
+
 
 toplinks_left: 
   - url: '/'
@@ -32,5 +32,5 @@ background-pattern-size: "40pt 40pt"
 
 background-image: 
 
-photo-path: 
+photo-path: "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png"
 photo-caption:
