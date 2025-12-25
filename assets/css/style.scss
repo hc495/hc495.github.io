@@ -32,6 +32,23 @@ a, .collapse-clicker {
     }
 }
 
+.markdown-body a:not([href]) {
+    color: #2a66cc;
+    text-decoration: none;
+
+    &:hover {
+        color: {{ site.font_colors.link_normal }};
+        text-decoration: underline !important;
+        text-decoration-style: dotted !important;
+        cursor: pointer !important;
+    }
+    
+    &:active {
+        color: {{ site.font_colors.link_clicked }};
+        text-decoration: underline;
+    }
+}
+
 .container-lg.px-3.my-5.markdown-body {
     background-color: {{ site.writing_area.background_color }};
     margin-top: 0% !important;
@@ -288,6 +305,7 @@ ul {
         width: 100%;
         max-width: none;
         border-radius: 3pt;
+        font-size: 9px;
     }
     #toc {
         display: none !important;
