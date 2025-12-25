@@ -78,13 +78,13 @@
             {%- endfor -%}
         {%- endif -%}
         {%- if item.abstract -%}
-            [<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
+            [<a class="collapse-clicker" onclick="$('.{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
         {%- endif -%}
         {%- if item.bibtex -%}
-            [<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
+            [<a class="collapse-clicker" onclick="$('.{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
         {%- endif -%}
         {%- if item.abstract -%}
-            <div class="collapse" id="{{ item.id }}_abstract">
+            <div class="collapse {{ item.id }}_abstract" id="{{ item.id }}_abstract">
                 <div class="panel panel-primary">
                     <div class="panel-body details-panel">
                         {{- item.abstract -}}
@@ -93,7 +93,7 @@
             </div>
         {%- endif -%}
         {%- if item.bibtex -%}
-            <div class="collapse" id="{{ item.id }}_bibtex">
+            <div class="collapse {{ item.id }}_bibtex" id="{{ item.id }}_bibtex">
                 <div class="panel panel-primary">
                     <div class="panel-body details-panel">
                         {{- item.bibtex -}}
