@@ -1,4 +1,6 @@
+{%- if site.toc.enabled -%}
 <nav id="toc"></nav>
+{%- endif -%}
 
 <script>
 (function () {
@@ -49,7 +51,7 @@
 (function () {
   const TOC_ID = "toc";
   const CONTENT_SELECTOR = ".page-container .markdown-body";  
-  const HEADING_SELECTOR = "h1, h2";      
+  const HEADING_SELECTOR = "{{ site.toc.levels }}";
 
   function slugify(s) {
     return s.trim()
@@ -117,3 +119,5 @@
   });
 })();
 </script>
+
+{{ site.more_footers }}

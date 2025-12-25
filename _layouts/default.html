@@ -2,18 +2,22 @@
 <html lang="en-US">
 {% include header.html %}
   <body>
-    <div class="top-lang-bar">
-      <div class="left"> 
-        {%- for item in site.toplinks_left -%}
-          <a href="{{ item.url }}" target="{{ item.target }}">{{ item.label }}</a>
-        {%- endfor -%}
+    {%- if site.navbar.enable -%}
+      <div class="top-lang-bar">
+        <div class="left"> 
+          {%- for item in site.navbar.links -%}
+            <a href="{{ item.url }}" target="{{ item.target }}">{{ item.label }}</a>
+          {%- endfor -%}
+        </div>
+        <div class="right">
+          {%- for item in page.langs -%}
+            <a href="#" class="lang-link" data-lang="{{ item.marker }}">{{ item.label }}</a>
+          {%- endfor -%}
+        </div>
       </div>
-      <div class="right">
-        {%- for item in page.langs -%}
-          <a href="#" class="lang-link" data-lang="{{ item.marker }}">{{ item.label }}</a>
-        {%- endfor -%}
-      </div>
-    </div>
+    {%- else -%}
+      <div></div><br>
+    {%- endif -%}
     <div class="container-lg px-3 my-5 markdown-body">
       <div class="page-container">
         <div class="markdown-body">

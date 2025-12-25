@@ -10,34 +10,33 @@
 // overall margin
 .container-lg {
     max-width: none;
-    margin: 2% 18% 2% 18%;
+    margin: 2% {{ site.writing_area.margin }}% 2% {{ site.writing_area.margin }}%;
     min-width: 600px;
 }
 
 // Link styles
 a, .collapse-clicker {
-    // color: #3580ff;
-    color: #2a66cc;
+    color: {{ site.font_colors.link_normal }} !important;
     text-decoration: none;
 
     &:hover {
-        color: #2a66cc;
-        text-decoration: underline;
+        color: {{ site.font_colors.link_normal }} !important;
+        text-decoration: underline !important;
+        text-decoration-style: dotted !important;
+        cursor: pointer !important;
     }
 
     &:active {
-        color: #070a7d;
+        color: {{ site.font_colors.link_clicked }} !important;
+        text-decoration: underline;
     }
 }
 
 .container-lg.px-3.my-5.markdown-body {
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: {{ site.writing_area.background_color }};
     margin-top: 0% !important;
     margin-bottom: 0 !important;
-    padding-bottom: 1.5% !important;
-    padding-top: 2% !important;
-    padding-left: 3% !important;
-    padding-right: 3% !important;
+    padding: {{ site.writing_area.padding }} !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
@@ -46,45 +45,22 @@ small {
 }
 
 .left{
-  /* 保持普通块级布局，<br> 正常工作 */
 }
 
 .right {
   margin-left: auto;
 }
 
-.lang-en{
-    font-family: 'Noto Sans JP', "Gentium Basic";
+{%- for pair in site.fonts.normal -%}
+.lang-{{ pair[0] }} {
+    font-family: {{ pair[1] }};
 }
-
-.lang-jp{
-    font-family: 'Noto Sans JP', Tahoma, arial, helvetica;
-}
-
-.lang-zh{
-    font-family: "Noto Sans SC", 
-}
-
-.markdown-body a:not([href]) {
-    color: #2a66cc;
-    text-decoration: none;
-
-    &:hover {
-        color: #2a66cc;
-        text-decoration: underline;
-        cursor: pointer;
-    }
-
-    &:active {
-        color: #070a7d;
-        cursor: pointer;
-    }
-}
+{%- endfor -%}
 
 .top-lang-bar {
     display: flex;
     min-width: 600px;
-    width: 64%;
+    width: calc(100% - 2 * {{ site.writing_area.margin }}%);
     min-width: 0;
     box-sizing: border-box;
     padding: 6px 2.2% 6px 2.2%;
@@ -93,31 +69,22 @@ small {
     font-family: system-ui, sans-serif;
     overflow-x: auto;
     margin: 0.75% auto 0.75% auto;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: {{ site.toc.background_color }};
     border-radius: 6pt;
-    border: 2pt solid #ffffff;
-    font-family: 'Noto Sans JP', "Noto Sans SC";
+    border: {{ site.toc.boarder }};
+    font-family: {{ site.toc.fonts }};
 }
 
 .top-lang-bar a {
     margin: 0 12px;
-    text-decoration: none;
-}
-
-.top-lang-bar a:hover {
-    text-decoration: underline;
 }
 
 .lang { display: none; }
+
 .lang.active { display: block; }
 
-.lang-link {
-  text-decoration: none;
-  cursor: pointer;
-}
-
 .lang-link.active {
-  color: #000;
+  color: {{ site.font_colors.normal }};
   cursor: default; 
   pointer-events: none; 
   text-decoration: none;
@@ -132,7 +99,7 @@ figcaption {
 
 {%- if site.background_image -%}
     body {
-        background-image: url('{{ site.background_image }}');
+        background-image: url('{{ site.background.image }}');
         min-height: 100%;
         background-size: cover;
         background-attachment: fixed;
@@ -141,28 +108,35 @@ figcaption {
     }
 {%- else -%}
     body{
-        background: {{ site.background_pattern }};
-        background-size: {{ site.background_pattern-size }};
-        background-color: {{ site.background_color }};
+        background: {{ site.background.pattern }};
+        background-size: {{ site.background.pattern_size }};
+        background-color: {{ site.background.color }};
         background-attachment: fixed;
     }
 {%- endif -%}
 
+// TOC settings
+{%- assign toc_dis = 100.4 | minus: site.writing_area.margin -%}
+
+{%- if site.toc.locationX == "left" -%}
+  {%- assign toc_dis = 100.4 | minus: site.writing_area.margin -%}
+{% endif %}
+
 #toc {
   position: fixed;
-  left: 82.4%;
-  bottom: 50%;
+  {{ site.toc.locationX }}: {{ toc_dis }}%;
+  bottom: {{ site.toc.locationY }};
   transform: translateY(50%);
   width: auto;
   max-height: 70vh;
   max-width: 17.4%;
   overflow: auto;
-  background-color: rgba(255, 255, 255, 0.5);
-  border: 2pt solid #ffffff;
+  background-color: {{ site.toc.background_color }};
+  border: {{ site.toc.boarder }};
   border-radius: 8px;
   padding: 10px 12px;
-  font-size: 14px;
-  font-family: 'Noto Sans JP', "Noto Sans SC";
+  font-size: {{ site.toc.fontsize }};
+  font-family: {{ site.toc.fonts }};
 }
 #toc ul { list-style: none; padding-left: 0; margin: 0; }
 #toc li { margin: 4px 0; }
@@ -171,9 +145,9 @@ figcaption {
 
 // Remove horizontal rule after headings
 body, .markdown-body {
-    color: #000000;
-    font-family: 'Noto Sans JP', "Noto Sans SC", Tahoma, arial, helvetica, Sans-Serif;
-    font-size: 100%;
+    color: {{ site.font_colors.normal }};
+    font-size: {{ site.font_scale }};
+    font-family: {{ site.fonts.default }};
     line-height: 1.3;
     text-align: justify;
     text-justify: inter-word;
@@ -181,37 +155,38 @@ body, .markdown-body {
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
-    /* 限制短词的连字符，以避免过度断词 */
     -webkit-hyphenate-limit-chars: 6 3;
     hyphenate-limit-chars: 6 3;
 }
 
-// body, .markdown-body {
-//     background-image: url('/assets/fig/background.png');
-//     background-size: 160px 160px;
-//     background-repeat: no-repeat;
-//     background-attachment: fixed;
-//     background-position: center;
-// }
-
-h1 {
-    font-family: "Gentium Basic", "Noto Serif JP", "Noto Serif SC" !important;
+.markdown-body h1 {
+    font-family: {{ site.fonts.title }} !important;
     font-size: 1.55em !important;
     margin-top: 0 !important;
+    border-bottom: 3px double {{ site.font_colors.title_underline_color }};
+    font-weight: 800;
 }
 
-h2 {
-    font-family: "Gentium Basic", "Noto Serif JP", "Noto Serif SC" !important;
+.markdown-body h2 {
+    font-family: {{ site.fonts.title }} !important;
     font-size: 1.4em !important;
-    // color: #028390;
-    color: #000000;
     padding: 20px 0 0 0;
+    border-bottom: 1px solid {{ site.font_colors.title_underline_color }};
+    font-weight: 800;
 }
 
-h3 {
-    font-family: "Gentium Basic", "Noto Serif JP", "Noto Serif SC" !important;
-    color: #000000;
+.markdown-body h3 {
+    font-family: {{ site.fonts.title }} !important;
     font-size: 1.25em !important;
+}
+
+.markdown-body h3
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    border-bottom: 0px;
+    max-width: 100%;
+    font-weight: 600;
 }
 
 div.img_margin {
@@ -252,45 +227,6 @@ ul {
     }
 }
 
-// .markdown-body h1 {
-//     border-bottom: 0px solid #000000;
-// }
-
-// .markdown-body h2 {
-//     border-bottom: 0px solid #000000;
-// }
-
-.markdown-body h1 {
-    border-bottom: 3px double gray;
-    font-weight: 800;
-}
-
-.markdown-body h2 {
-    border-bottom: 1px solid gray;
-    font-weight: 800;
-}
-
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6 {
-    border-bottom: 0px solid gray;
-    width: fit-content;
-    max-width: 100%;
-    font-weight: 600;
-}
-
-.markdown-body hr {
-    // background-color: #000000;
-    border: none;
-    border-top: 3px double gray;
-    height: 0;
-    margin: 24px 0 4px 0
-    // position: absolute;
-    // left: 0;
-    // transform: translate(0px, -52px);
-}
-
 .collapse {
     display: none;
 }
@@ -300,9 +236,9 @@ ul {
     padding: 3px 8px 3px 8px;
     font-size: 16px;
     border-radius: 8px;
-    background-color: #eff4ff;
+    background-color: {{ site.details_panel.background_color }};
     text-align: justify;
-    border: 2px solid #b0c8ff;
+    border: {{ site.details_panel.border }};
 }
 
 .end-mark{
@@ -310,9 +246,9 @@ ul {
   width: 75%;
   height: 16px;
   background:
-    radial-gradient(circle, rgb(0, 0, 0) 2.5px, transparent 2.5px) center/16px 16px no-repeat,
-    linear-gradient(to right, rgba(0,0,0,.35), rgb(0, 0, 0)) left 50%/calc(50% - 12px) 1.5px no-repeat,
-    linear-gradient(to right, rgb(0, 0, 0), rgba(0,0,0,.35)) right 50%/calc(50% - 12px) 1.5px no-repeat;
+    radial-gradient(circle, {{ site.font_colors.end_mark_color }} 2.5px, transparent 2.5px) center/16px 16px no-repeat,
+    linear-gradient(to right, rgba(0,0,0,0), {{ site.font_colors.end_mark_color }}) left 50%/calc(50% - 12px) 1.5px no-repeat,
+    linear-gradient(to right, {{ site.font_colors.end_mark_color }}, rgba(0,0,0,0)) right 50%/calc(50% - 12px) 1.5px no-repeat;
 }
 
 @media (max-width: 640px) {

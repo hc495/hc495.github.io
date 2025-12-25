@@ -1,6 +1,7 @@
 <head>
 
-{% if site.google_analytics%}
+<!-- Google Analytics -->
+{% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -13,6 +14,7 @@
 
 <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 
+<!-- Math -->
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
@@ -32,8 +34,10 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+JP:wght@200..900&family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
+
+{{ site.fonts.includes }}
+
+{{ site.more_heads }}
 
 </head>
     
