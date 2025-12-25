@@ -27,6 +27,7 @@ langs:
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
@@ -66,7 +67,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 [[Export Publication List as TXT](/subpages/export.html?action=exportPaper){:target="_blank"}] 
 [[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] 
-[[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include paper_statics.html lang='en' %}
@@ -164,6 +164,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
@@ -203,7 +204,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 [[Export Publication List as TXT](/subpages/export.html?action=exportPaper&lang=jp){:target="_blank"}] 
 [[Google Scholar](https://scholar.google.com/citations?user=q_eQAcwAAAAJ){:target="_blank"}] 
-[[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include paper_statics.html lang='jp' %}
@@ -303,6 +303,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 [Twitter](https://x.com/yfZhao495){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/hc495){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"} &nbsp;&nbsp;&nbsp; 
 [OpenReview](https://openreview.net/profile?id=%7EHakaze_Cho1){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [ORCID](https://orcid.org/0000-0002-7127-1954){:target="_blank"} &nbsp;&nbsp;&nbsp;
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
