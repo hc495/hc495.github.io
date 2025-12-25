@@ -1,0 +1,17 @@
+<!-- Include pattern: {% publication_list_style/index.html style=item.style file=item.file &} -->
+
+{%- if include.style == 'international_conf' -%}
+    {{ include publication_list_style/international_conf.html file=item.file }}
+{%- endif -%}
+
+{%- if include.style == 'domestic_conf_jp' -%}
+    {{ include publication_list_style/domestic_conf_jp.html file=item.file }}
+{%- endif -%}
+
+{%- if include.style == 'domestic_conf_en' -%}
+    {{ include publication_list_style/domestic_conf_en.html file=item.file }}
+{%- endif -%}
+
+{%- if include.style == 'preprint' -%}
+    {{ include publication_list_style/preprint.html file=item.file }}
+{%- endif -%}

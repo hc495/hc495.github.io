@@ -11,8 +11,8 @@
 
 {%- assign count_total = 3 | plus: count_c | plus: count_p | plus: count_i -%}
 
-{%- assign sumpages = 356 -%}
-{%- assign suminfl = 0 -%}
+{%- assign sumpages = site.publication_statics.init_pages -%}
+{%- assign suminfl = site.publication_statics.init_if -%}
 
 
 {%- for item in papers_all -%}

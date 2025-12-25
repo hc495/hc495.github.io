@@ -1,0 +1,13 @@
+<!-- Include pattern: {% include publication_list.html lang='en' &} -->
+
+{%- assign current_lang = include.lang -%}
+
+{%- for item in site.publication_list -%}
+    {%- if item.title[current_lang] -%}
+### {{ item.title[current_lang] }}
+        {%- if item.instructions[current_lang] -%}
+<span style="font-size:0.9em">{{ item.instructions[current_lang] }}</span>
+        {%- endif -%}
+        {%- include publication_list_style/index.html style=item.style file=item.file -%}
+    {%- endif -%}
+{%- endfor -%}

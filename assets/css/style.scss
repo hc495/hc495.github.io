@@ -130,9 +130,9 @@ figcaption {
     text-align: center;
 }
 
-{%- if site.background-image -%}
+{%- if site.background_image -%}
     body {
-        background-image: url('{{ site.background-image }}');
+        background-image: url('{{ site.background_image }}');
         min-height: 100%;
         background-size: cover;
         background-attachment: fixed;
@@ -141,9 +141,9 @@ figcaption {
     }
 {%- else -%}
     body{
-        background: {{ site.background-pattern }};
-        background-size: {{ site.background-pattern-size }};
-        background-color: {{ site.background-color }};
+        background: {{ site.background_pattern }};
+        background-size: {{ site.background_pattern-size }};
+        background-color: {{ site.background_color }};
         background-attachment: fixed;
     }
 {%- endif -%}
