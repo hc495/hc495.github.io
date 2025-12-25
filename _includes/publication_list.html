@@ -1,5 +1,7 @@
 {%- assign current_lang = include.lang -%}
 
+{{ current_lang }}
+
 {%- for item in site.publication_list -%}
     {%- if item.title.current_lang -%}
 ### {{ item.title.current_lang }}
