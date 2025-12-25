@@ -16,18 +16,18 @@
 
 // Link styles
 a, .collapse-clicker {
-    color: {{ site.font_colors.link_normal }} !important;
+    color: {{ site.font_colors.link_normal }};
     text-decoration: none;
 
     &:hover {
-        color: {{ site.font_colors.link_normal }} !important;
+        color: {{ site.font_colors.link_normal }};
         text-decoration: underline !important;
         text-decoration-style: dotted !important;
         cursor: pointer !important;
     }
 
     &:active {
-        color: {{ site.font_colors.link_clicked }} !important;
+        color: {{ site.font_colors.link_clicked }};
         text-decoration: underline;
     }
 }
@@ -84,7 +84,7 @@ small {
 .lang.active { display: block; }
 
 .lang-link.active {
-  color: {{ site.font_colors.normal }};
+  color: {{ site.font_colors.normal }} !important;
   cursor: default; 
   pointer-events: none; 
   text-decoration: none;
