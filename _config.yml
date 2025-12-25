@@ -20,35 +20,36 @@ background_pattern-size: "40pt 40pt"
 background_image: 
 
 # Publication List
+# If the language is not presented in the title dictionary, the list will not be presented in such language.
 publication_list:
   - file: 'international_c_papers'
-    title: # If the language is not presented in the title dictionary, the list will not be presented in such language.
-      - en: 'International Conference'
-      - jp: '国際会議'
-      - zh: '国际会议'
+    title: 
+      en: 'International Conference'
+      jp: '国際会議'
+      zh: '国际会议'
     style: 'international_conf'
     calculate_statics: True
   - file: 'preprints'
     title: 
-      - en: 'Pre-print'
-        jp: 'プレプリント'
-        zh: '预印本'
+      en: 'Pre-print'
+      jp: 'プレプリント'
+      zh: '预印本'
     style: 'preprint'
     calculate_statics: True
   - file: 'domestic_c_papers'
     title: 
-      - en: 'Domestic Conferences / Journal / Miscellaneous'
-        zh: '日本国内会议 / 期刊 / 杂项'
+      en: 'Domestic Conferences / Journal / Miscellaneous'
+      zh: '日本国内会议 / 期刊 / 杂项'
     instructions:
-      - en: '† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed'
-        zh: '† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审'
+      en: '† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed'
+      zh: '† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审'
     style: 'domestic_conf_en'
     calculate_statics: True
   - file: 'domestic_c_papers'
     title: 
-      - jp: '国内会議・ジャーナル・その他'
+      jp: '国内会議・ジャーナル・その他'
     instructions:
-      - jp: '† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり'
+      jp: '† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり'
     style: 'domestic_conf_en'
     calculate_statics: False
 
@@ -60,6 +61,20 @@ name_to_bold: # Which author name should be bold?
 publication_statics: # Init-* = e.g. statics of the Thesis
   init_pages: 356
   init_if: 0
+  init_count: 3
+  translations:
+    en:
+      total_publications: 'Total Publications: '
+      cif: 'Cumulative Impact Factor: '
+      pages: 'Total Pages: '
+    jp:
+      total_publications: '発表数: '
+      cif: '累積IF: '
+      pages: '総ページ数: '
+    zh:
+      total_publications: '论文数: '
+      cif: '累计影响因子: '
+      pages: '总页数: '
 
 # ------------------------------------------
 # The following should be kept fixed.

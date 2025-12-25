@@ -1,0 +1,7 @@
+.old/
+.bundle/
+_site/
+vendor/
+
+Gemfile
+Gemfile.lock

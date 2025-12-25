@@ -2,72 +2,72 @@
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
-<div class="wide_list">
-<ol>
-{%- for item in papers -%}
-    {%- assign title = item.title -%}
-    {%- assign authors = item.authors -%}
-    {%- assign venue = item.venue -%}
-    {%- assign pages = item.pages -%}
-    {%- assign year = item.year -%}
-    {%- assign basic_url = item.basic_url -%}
-    {%- assign urls = item.urls -%}
-
-<li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
-    {%- for author in authors -%}
-        {%- if know_authors[author.name] -%}
-            {%- assign displayname = know_authors[author.name].name -%}
-            {%- assign displayurl = know_authors[author.name].url -%}
-        {%- else -%}
-            {%- assign displayname = author.name -%}
-            {%- assign displayurl = author.url -%}
-        {%- endif -%}
-        {%- if forloop.first == false -%}
-            ,&nbsp;
-        {%- endif -%}
-        {%- if displayname in site.name_to_bold -%}
-            <strong><a href="{{ displayurl }}" target="_blank">{{ displayname }}</a></strong>
-        {%- else -%}
-            {%- if displayurl -%}
-                <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
+    <div class="wide_list">
+    <ol>
+    {%- for item in papers -%}
+        {%- assign title = item.title -%}
+        {%- assign authors = item.authors -%}
+        {%- assign venue = item.venue -%}
+        {%- assign pages = item.pages -%}
+        {%- assign year = item.year -%}
+        {%- assign basic_url = item.basic_url -%}
+        {%- assign urls = item.urls -%}
+    
+        <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+        {%- for author in authors -%}
+            {%- if know_authors[author.name] -%}
+                {%- assign displayname = know_authors[author.name].name -%}
+                {%- assign displayurl = know_authors[author.name].url -%}
             {%- else -%}
-                {{ displayname }}
+                {%- assign displayname = author.name -%}
+                {%- assign displayurl = author.url -%}
             {%- endif -%}
-        {%- endif -%}
-    {%- endfor -%}
-<br>
-Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
-    <br>
-    {%- if urls -%}
-        {%- for url in urls -%}
-            [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+            {%- if forloop.first == false -%}
+                ,&nbsp;
+            {%- endif -%}
+            {%- if site.name_to_bold contains displayname -%}
+                <strong><a href="{{ displayurl }}" target="_blank">{{ displayname }}</a></strong>
+            {%- else -%}
+                {%- if displayurl -%}
+                    <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
+                {%- else -%}
+                    {{ displayname }}
+                {%- endif -%}
+            {%- endif -%}
         {%- endfor -%}
-    {%- endif -%}
-    {%- if item.abstract -%}
-[<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
-    {%- endif -%}
-    {%- if item.bibtex -%}
-[<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
-    {%- endif -%}
-    {%- if item.abstract -%}
-        <div class="collapse" id="{{ item.id }}_abstract">
-            <div class="panel panel-primary">
-                <div class="panel-body details-panel">
-                    {{- item.abstract -}}
+        <br>
+        Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
+        <br>
+        {%- if urls -%}
+            {%- for url in urls -%}
+                [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+            {%- endfor -%}
+        {%- endif -%}
+        {%- if item.abstract -%}
+            [<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
+        {%- endif -%}
+        {%- if item.bibtex -%}
+            [<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
+        {%- endif -%}
+        {%- if item.abstract -%}
+            <div class="collapse" id="{{ item.id }}_abstract">
+                <div class="panel panel-primary">
+                    <div class="panel-body details-panel">
+                        {{- item.abstract -}}
+                    </div>
                 </div>
             </div>
-        </div>
-    {%- endif -%}
-    {%- if item.bibtex -%}
-        <div class="collapse" id="{{ item.id }}_bibtex">
-            <div class="panel panel-primary">
-                <div class="panel-body details-panel">
-                    {{- item.bibtex -}}
+        {%- endif -%}
+        {%- if item.bibtex -%}
+            <div class="collapse" id="{{ item.id }}_bibtex">
+                <div class="panel panel-primary">
+                    <div class="panel-body details-panel">
+                        {{- item.bibtex -}}
+                    </div>
                 </div>
             </div>
-        </div>
-    {%- endif -%}
-    </li>
+        {%- endif -%}
+        </li>
     {%- endfor -%}
 </ol>
 </div>

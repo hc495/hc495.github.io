@@ -1,34 +1,30 @@
-{%- assign papers_c = site.data.domestic_c_papers -%}
-{%- assign papers_p = site.data.preprints -%}
-{%- assign papers_i = site.data.international_c_papers -%}
-{%- assign venues = site.data.venues -%}
-
-{%- assign papers_all = papers_c | concat: papers_p | concat: papers_i -%}
-
-{%- assign count_c = papers_c | size -%}
-{%- assign count_p = papers_p | size -%}
-{%- assign count_i = papers_i | size -%}
-
-{%- assign count_total = 3 | plus: count_c | plus: count_p | plus: count_i -%}
-
 {%- assign sumpages = site.publication_statics.init_pages -%}
 {%- assign suminfl = site.publication_statics.init_if -%}
+{%- assign count = site.publication_statics.init_count -%}
+{%- assign venues = site.data.venues -%}
 
-
-{%- for item in papers_all -%}
-    {%- assign pages = item.pages -%}
-    {%- assign venue = item.venue -%}
-    {%- if venues[venue] -%}
-        {%- assign infl = venues[venue].infl -%}
-    {%- else -%}
-        {%- assign infl = item.infl -%}
-    {%- endif -%}
-    {%- if pages -%}
-        {%- assign sumpages = sumpages | plus: pages -%}
-    {%- endif -%}
-    {%- if infl -%}
-        {%- assign suminfl = suminfl | plus: infl -%}
+{%- for item in site.publication_list -%}
+    {%- if item.calculate_statics -%}
+        {%- assign papers = site.data[item.file] -%}
+        {%- for item in papers -%}
+            {%- assign count = count | plus: 1 -%}
+            {%- assign pages = item.pages -%}
+            {%- assign venue = item.venue -%}
+            {%- if venues[venue] -%}
+                {%- assign infl = venues[venue].infl -%}
+            {%- else -%}
+                {%- assign infl = item.infl -%}
+            {%- endif -%}
+            {%- if pages -%}
+                {%- assign sumpages = sumpages | plus: pages -%}
+            {%- endif -%}
+            {%- if infl -%}
+                {%- assign suminfl = suminfl | plus: infl -%}
+            {%- endif -%}
+        {%- endfor -%}
     {%- endif -%}
 {%- endfor -%}
 
-Total Publications: {{ count_total }}, Cumulative Impact Factor: {{ suminfl }}, Total Pages: {{ sumpages }}.
+{%- assign lang = include.lang -%}
+
+{{ site.publication_statics.translations[lang].total_publications}} {{ count }}, {{ site.publication_statics.translations[lang].cif }} {{ suminfl }}, {{ site.publication_statics.translations[lang].pages }} {{ sumpages }}.

@@ -76,18 +76,14 @@
   }
 
   function buildToc(lang) {
-    console.log(lang)
 
     const toc = document.getElementById(TOC_ID);
     if (!toc) return;
-    console.log(toc)
 
     const content = document.querySelector(CONTENT_SELECTOR);
     if (!content) return;
-    console.log(content)
 
     const headings = Array.from(content.querySelectorAll(HEADING_SELECTOR)).filter(isVisible);
-    console.log(headings)
 
     if (!headings.length) {
       toc.innerHTML = "";

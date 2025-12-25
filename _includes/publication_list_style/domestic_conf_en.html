@@ -3,106 +3,106 @@
 {%- assign know_authors = site.data.authors -%}
 
 {%- if papers -%}
-<div class="wide_list">
-<ol>
-{%- for item in papers -%}
-    {%- assign title = item.title -%}
-    {%- assign authors = item.authors -%}
-    {%- assign venue = item.venue -%}
-    {%- assign pages = item.pages -%}
-    {%- if venues[venue] -%}
-        {%- assign venue_name = venues[venue].name -%}
-        {%- assign venue_short = venues[venue].short -%}
-        {%- assign h5 = venues[venue].h5 -%}
-        {%- assign infl = venues[venue].infl -%}
-    {%- else -%}
-        {%- assign venue_name = item.venue -%}
-        {%- assign venue_short = item.venue_short -%}
-        {%- assign h5 = item.h5 -%}
-        {%- assign infl = item.infl -%}
-    {%- endif -%}
-    {%- assign year = item.year -%}
-    {%- assign basic_url = item.basic_url -%}
-    {%- assign urls = item.urls -%}
-
-    {%- if item.basic_url -%}
-        <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
-    {%- else -%}
-        <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<strong>{{ title }}</strong><br>
-    {%- endif -%}
-    {%- for author in authors -%}
-        {%- if know_authors[author.name] -%}
-            {%- assign displayname = know_authors[author.name].name -%}
-            {%- assign displayurl = know_authors[author.name].url -%}
+    <div class="wide_list">
+    <ol>
+    {%- for item in papers -%}
+        {%- assign title = item.title -%}
+        {%- assign authors = item.authors -%}
+        {%- assign venue = item.venue -%}
+        {%- assign pages = item.pages -%}
+        {%- if venues[venue] -%}
+            {%- assign venue_name = venues[venue].name -%}
+            {%- assign venue_short = venues[venue].short -%}
+            {%- assign h5 = venues[venue].h5 -%}
+            {%- assign infl = venues[venue].infl -%}
         {%- else -%}
-            {%- assign displayname = author.name -%}
-            {%- assign displayurl = author.url -%}
+            {%- assign venue_name = item.venue -%}
+            {%- assign venue_short = item.venue_short -%}
+            {%- assign h5 = item.h5 -%}
+            {%- assign infl = item.infl -%}
         {%- endif -%}
-        {%- if forloop.first == false -%}
-            ,&nbsp;
-        {%- endif -%}
-        {%- if displayname in site.name_to_bold -%}
-            <strong><a href="{{ displayurl }}" target="_blank">{{ displayname }}</a></strong>
+        {%- assign year = item.year -%}
+        {%- assign basic_url = item.basic_url -%}
+        {%- assign urls = item.urls -%}
+    
+        {%- if item.basic_url -%}
+            <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
         {%- else -%}
-            {%- if displayurl -%}
-                <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
+            <li>{%- if item.review -%}▲{%- endif -%}{%- if item.second -%}†{%- endif -%}<strong>{{ title }}</strong><br>
+        {%- endif -%}
+        {%- for author in authors -%}
+            {%- if know_authors[author.name] -%}
+                {%- assign displayname = know_authors[author.name].name -%}
+                {%- assign displayurl = know_authors[author.name].url -%}
             {%- else -%}
-                {{ displayname }}
+                {%- assign displayname = author.name -%}
+                {%- assign displayurl = author.url -%}
             {%- endif -%}
-        {%- endif -%}
-    {%- endfor -%}
-<br>
-<em>{{ venue_name }}</em> {%- if venue_short -%}&nbsp;(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;<strong>{{ year }}</strong>.&nbsp;
-    {%- if pages -%}
-        {{ pages }} pages.&nbsp;
-    {%- endif -%}
-    {%- if h5 or infl -%} [
-        {%- if h5 -%}
-            h5={{ h5 }}
-        {%- endif -%}
-        {%- if h5 and infl -%}
-            ,&nbsp;
-        {%- endif -%}
-        {%- if infl -%}
-            IF={{ infl }}
-        {%- endif -%}
-        ]
-    {%- endif -%}
-    {%- if item.other -%}
-    {{ item.other }}.
-    {%- endif -%}
-    <br>
-    {%- if urls -%}
-        {%- for url in urls -%}
-            [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+            {%- if forloop.first == false -%}
+                ,&nbsp;
+            {%- endif -%}
+            {%- if site.name_to_bold contains displayname -%}
+                <strong><a href="{{ displayurl }}" target="_blank">{{ displayname }}</a></strong>
+            {%- else -%}
+                {%- if displayurl -%}
+                    <a href="{{ displayurl }}" target="_blank">{{ displayname }}</a>
+                {%- else -%}
+                    {{ displayname }}
+                {%- endif -%}
+            {%- endif -%}
         {%- endfor -%}
-    {%- endif -%}
-    {%- if item.abstract -%}
-[<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
-    {%- endif -%}
-    {%- if item.bibtex -%}
-[<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
-    {%- endif -%}
-    {%- if item.abstract -%}
-        <div class="collapse" id="{{ item.id }}_abstract">
-            <div class="panel panel-primary">
-                <div class="panel-body details-panel">
-                    {{- item.abstract -}}
+    <br>
+    <em>{{ venue_name }}</em> {%- if venue_short -%}&nbsp;(<strong>{{ venue_short }}</strong>){%- endif -%}.&nbsp;<strong>{{ year }}</strong>.&nbsp;
+        {%- if pages -%}
+            {{ pages }} pages.&nbsp;
+        {%- endif -%}
+        {%- if h5 or infl -%} [
+            {%- if h5 -%}
+                h5={{ h5 }}
+            {%- endif -%}
+            {%- if h5 and infl -%}
+                ,&nbsp;
+            {%- endif -%}
+            {%- if infl -%}
+                IF={{ infl }}
+            {%- endif -%}
+            ]
+        {%- endif -%}
+        {%- if item.other -%}
+        {{ item.other }}.
+        {%- endif -%}
+        <br>
+        {%- if urls -%}
+            {%- for url in urls -%}
+                [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+            {%- endfor -%}
+        {%- endif -%}
+        {%- if item.abstract -%}
+    [<a class="collapse-clicker" onclick="$('#{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
+        {%- endif -%}
+        {%- if item.bibtex -%}
+    [<a class="collapse-clicker" onclick="$('#{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
+        {%- endif -%}
+        {%- if item.abstract -%}
+            <div class="collapse" id="{{ item.id }}_abstract">
+                <div class="panel panel-primary">
+                    <div class="panel-body details-panel">
+                        {{- item.abstract -}}
+                    </div>
                 </div>
             </div>
-        </div>
-    {%- endif -%}
-    {%- if item.bibtex -%}
-        <div class="collapse" id="{{ item.id }}_bibtex">
-            <div class="panel panel-primary">
-                <div class="panel-body details-panel">
-                    {{- item.bibtex -}}
+        {%- endif -%}
+        {%- if item.bibtex -%}
+            <div class="collapse" id="{{ item.id }}_bibtex">
+                <div class="panel panel-primary">
+                    <div class="panel-body details-panel">
+                        {{- item.bibtex -}}
+                    </div>
                 </div>
             </div>
-        </div>
-    {%- endif -%}
-    </li>
-    {%- endfor -%}
-</ol>
-</div>
+        {%- endif -%}
+        </li>
+        {%- endfor -%}
+    </ol>
+    </div>
 {%- endif -%}

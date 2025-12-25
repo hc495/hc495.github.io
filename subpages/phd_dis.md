@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /phd_defense
 title: "Ph.D. Dissertation: The Mechanistic Basis of In-context Learning"
 langs:

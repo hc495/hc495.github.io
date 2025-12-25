@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /
 title: "Hakaze Cho / Yufeng Zhao / 趙 羽風"
 langs:
@@ -69,31 +69,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
-{% include_relative _includes/paper_statics.html %}
+{% include paper_statics.html lang='en' %}
 {:.lang .lang-en}
 
 {% include publication_list.html lang='en' %}
-
-### International Conference
-{:.lang .lang-en}
-
-{% include_relative _includes/paper_list_international_c_papers.html %}
-{:.lang .lang-en}
-
-### Pre-print
-{:.lang .lang-en}
-
-{% include_relative _includes/paper_list_pre_print_papers.html %}
-{:.lang .lang-en}
-
-### Domestic Conferences / Journal / Miscellaneous
-{:.lang .lang-en}
-
-<span style="font-size:0.9em">† = Japan-domestic Secondary Publication for International Conference Papers; Default: Non-refereed, ▲= Refereed</span>
-{:.lang .lang-en}
-
-{% include_relative _includes/paper_list_domestic_c_papers_en.html %}
-{:.lang .lang-en}
 
 ### Thesis
 {:.lang .lang-en}
@@ -227,29 +206,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Researchmap](https://researchmap.jp/hc495){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
-{% include_relative _includes/paper_statics.html %}
+{% include paper_statics.html lang='jp' %}
 {:.lang .lang-jp}
 
-### 国際会議
-{:.lang .lang-jp}
-
-{% include_relative _includes/paper_list_international_c_papers.html %}
-{:.lang .lang-jp}
-
-### プレプリント
-{:.lang .lang-jp}
-
-{% include_relative _includes/paper_list_pre_print_papers.html %}
-{:.lang .lang-jp}
-
-### 国内会議・ジャーナル・その他
-{:.lang .lang-jp}
-
-<span style="font-size:0.9em">† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり</span>
-{:.lang .lang-jp}
-
-{% include_relative _includes/paper_list_domestic_c_papers_jp.html %}
-{:.lang .lang-jp}
+{% include publication_list.html lang='jp' %}
 
 ### 学位論文
 {:.lang .lang-jp}
@@ -385,29 +345,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Researchmap](https://researchmap.jp/hc495?lang=en){:target="_blank"}] 
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
-{% include_relative _includes/paper_statics.html %}
+{% include paper_statics.html lang='zh' %}
 {:.lang .lang-zh}
 
-### 国际会议
-{:.lang .lang-zh}
-
-{% include_relative _includes/paper_list_international_c_papers.html %}
-{:.lang .lang-zh}
-
-### 预印本
-{:.lang .lang-zh}
-
-{% include_relative _includes/paper_list_pre_print_papers.html %}
-{:.lang .lang-zh}
-
-### 日本国内会议 / 期刊 / 杂项
-{:.lang .lang-zh}
-
-<span style="font-size:0.9em">† = 国际会议论文的日本国内二次出版; 默认: 无同行评审，▲= 有同行评审</span>
-{:.lang .lang-zh}
-
-{% include_relative _includes/paper_list_domestic_c_papers_en.html %}
-{:.lang .lang-zh}
+{% include publication_list.html lang='zh' %}
 
 ### 学位论文
 {:.lang .lang-zh}
