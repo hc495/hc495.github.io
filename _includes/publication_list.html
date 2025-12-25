@@ -1,8 +1,8 @@
 {%- assign current_lang = include.lang -%}
 
 {%- for item in site.publication_list -%}
-    {%- if item.title[current_lang] -%}
-### {{ item.title[current_lang] }}
+    {%- if item.title.current_lang -%}
+### {{ item.title.current_lang }}
         {%- if item.instructions[current_lang] -%}
 <span style="font-size:0.9em">{{ item.instructions[current_lang] }}</span>
         {%- endif -%}

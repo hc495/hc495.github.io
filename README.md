@@ -72,9 +72,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {% include_relative _includes/paper_statics.html %}
 {:.lang .lang-en}
 
-<!-- {% include publication_list.html lang='en' %} -->
+{% include publication_list.html lang='en' %}
 
-### International Conference
+<!-- ### International Conference
 {:.lang .lang-en}
 
 {% include_relative _includes/paper_list_international_c_papers.html %}
@@ -93,7 +93,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-en}
 
 {% include_relative _includes/paper_list_domestic_c_papers_en.html %}
-{:.lang .lang-en}
+{:.lang .lang-en} -->
 
 ### Thesis
 {:.lang .lang-en}
