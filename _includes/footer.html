@@ -9,9 +9,6 @@
   function normalizeLang(lang) {
     if (!lang) return null;
     lang = lang.toLowerCase();
-    if (lang.startsWith("ja")) return "jp";
-    if (lang.startsWith("en")) return "en";
-    if (lang.startsWith("zh")) return "zh";
     return lang;
   }
 
