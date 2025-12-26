@@ -12,7 +12,7 @@ navbar:
     - url: '/'
       label: 'Home'
       target: ''
-    - url: '/example_subpage' ## Defined in the `permalink`
+    - url: '/Multilingual_Academic_Page_Template' ## Defined in the `permalink`
       label: 'Template Page'
       target: ''
     - url: 'https://www.google.com/'
