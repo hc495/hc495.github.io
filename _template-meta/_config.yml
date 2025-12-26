@@ -15,6 +15,9 @@ navbar:
     - url: 'https://www.google.com/'
       label: 'Outside Page'
       target: '_blank'
+    - url: 'https://www.hakaze-c.com/'
+      label: "Author's Page"
+      target: '_blank'
 
 footnotes: | 
   Your footnotes here.
