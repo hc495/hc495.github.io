@@ -36,7 +36,7 @@
             {%- endif -%}
         {%- endfor -%}
         <br>
-        Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}
+        Pre-print.&nbsp;<strong>{{ year }}</strong>.&nbsp;{%- if pages -%}{{ pages }} pages.&nbsp;{%- endif -%}{%- if item.other -%}&nbsp;{{ item.other }}.{%- endif -%}
         <br>
         {%- if urls -%}
             {%- for url in urls -%}

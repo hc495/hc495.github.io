@@ -48,7 +48,7 @@
     - url: "https://arxiv.org/abs/3000.12345"
       label: "arXiv"
 
-- title: "Example Paper Title2"
+- title: "Example Paper Title3"
   authors:
     - name: saved_author_1
     - name: saved_author_2
