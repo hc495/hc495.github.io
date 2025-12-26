@@ -54,7 +54,7 @@ jobs:
           pwd
           git rev-parse --is-inside-work-tree
 
-          rsync -av --delete /tmp/template_out/ ./
+          rsync -av --delete --exclude ".git/" /tmp/template_out/ ./
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
