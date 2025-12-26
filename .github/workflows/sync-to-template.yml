@@ -25,12 +25,12 @@ jobs:
           rsync -av --delete \
             --exclude ".git/" \
             --exclude ".github/workflows/sync-to-template.yml" \
-            --exclude "data/" \       # 记得待会补上示例
+            --exclude "data/" \
             --exclude "assets/" \
             --exclude "mainpage.md" \
-            --exclude "CNAME" \       # 记得待会补上示例
-            --exclude "favicon.ico" \ # 记得待会补上示例
-            --exclude "subpages"      # 记得待会补上示例
+            --exclude "CNAME" \
+            --exclude "favicon.ico" \
+            --exclude "subpages" \
             ./ /tmp/template_out/
 
           if [ -d "_template-meta" ]; then
