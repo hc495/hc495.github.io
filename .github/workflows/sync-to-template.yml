@@ -55,8 +55,6 @@ jobs:
 
           rsync -av --delete /tmp/template_out/ ./
 
-          git init
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -67,4 +65,4 @@ jobs:
           fi
 
           git commit -m "Initial sync from homepage @ ${GITHUB_SHA}"
-          git push -u origin master
+          git push -u origin HEAD:main
