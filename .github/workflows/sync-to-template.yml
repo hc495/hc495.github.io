@@ -1,0 +1,64 @@
+name: Sync to template repo
+
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source (homepage)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare sync dir (copy + exclude)
+        run: |
+          set -eux
+
+          rm -rf /tmp/template_out
+          mkdir -p /tmp/template_out
+
+          rsync -av --delete \
+            --exclude ".git/" \
+            --exclude ".github/workflows/sync-to-template.yml" \
+            --exclude "data/" \       # 记得待会补上示例
+            --exclude "assets/" \
+            --exclude "mainpage.md" \
+            --exclude "CNAME" \       # 记得待会补上示例
+            --exclude "favicon.ico" \ # 记得待会补上示例
+            --exclude "subpages"      # 记得待会补上示例
+            ./ /tmp/template_out/
+
+          if [ -d "_template-meta" ]; then
+            rsync -av _template-meta/ /tmp/template_out/
+          fi
+
+      - name: Push to template repo
+        env:
+          TEMPLATE_PUSH_TOKEN: ${{ secrets.TEMPLATE_PUSH_TOKEN }}
+          TEMPLATE_REPO: ${{ secrets.TEMPLATE_REPO }}
+        run: |
+          set -eux
+
+          rm -rf /tmp/template_repo
+          git clone "https://x-access-token:${TEMPLATE_PUSH_TOKEN}@github.com/${TEMPLATE_REPO}.git" /tmp/template_repo
+
+          cd /tmp/template_repo
+
+          rsync -av --delete /tmp/template_out/ ./
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+            exit 0
+          fi
+
+          git commit -m "Sync from homepage @ ${GITHUB_SHA}"
+          git push

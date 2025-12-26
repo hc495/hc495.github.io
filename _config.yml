@@ -1,4 +1,4 @@
-google_analytics: G-RFM3S7GRYQ
+google_analytics: G-RFM3S7GRYQ ## Can be empty. See https://analytics.google.com/
 
 # ------------------------------------------
 # Content Settings
@@ -158,7 +158,7 @@ kramdown:
   input: GFM
 
 sass:
-    sass_dir: assets/css
-    style: compressed
+  sass_dir: css
+  style: compressed
 
 theme: jekyll-theme-primer
