@@ -59,6 +59,21 @@ This template use custom language identifier (e.g., "en", "zh", "jp") to mark an
 
 ## Publication List Example
 
+Insert {% raw %} {% include paper_statics.html lang='lang-identifier' %} {% endraw %}, e.g., {% raw %} {% include paper_statics.html lang='en' %} {% endraw %}, to include the paper statistics line for the specified language. Edit the `publication_statics` dictionary in the `_config.yml` for detailed settings.
+{:.lang .lang-en}
+
+Insert {% raw %} {% include publication_list.html lang='lang-identifier' %} {% endraw %}, e.g., {% raw %} {% include publication_list.html lang='jp' %} {% endraw %}, to include the publication list for the specified language. The publication data are stored in the `Data/` folder in YAML format. Please refer to the comments in the sample files for detailed instructions.
+{:.lang .lang-jp}
+
+You don't need to add language identifiers after these includes, as the include files have them built-in.  
+{:.lang .lang-en}
+
+插入 {% raw %} {% include paper_statics.html lang='lang-identifier' %} {% endraw %}，例如 {% raw %} {% include paper_statics.html lang='zh' %} {% endraw %}，来包含指定语言的论文统计行. 具体设置请编辑 `_config.yml` 中的 `publication_statics` 词典.
+{:.lang .lang-zh}
+
+您无需在这些include后添加语言标识符，include文件已经内置了它们.  
+{:.lang .lang-zh}
+
 {% include paper_statics.html lang='en' %}
 
 {% include paper_statics.html lang='jp' %}
