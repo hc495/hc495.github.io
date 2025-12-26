@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /template
+permalink: /
 title: "Multilingual Academic Personal Page Template by Hakaze Cho (Yufeng Zhao)"
 langs:
   - marker: 'en'

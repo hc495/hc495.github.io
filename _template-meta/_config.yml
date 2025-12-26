@@ -1,5 +1,3 @@
-baseurl: "/homepage-template" ## Only for template demo. Remove this for your own site. Also, revise the CNAME into your own site name.
-
 google_analytics: ## Your google analytics token here. Can be empty. See https://analytics.google.com/
 
 # ------------------------------------------
