@@ -15,6 +15,15 @@ TBA
 
 # Multilingual Academic Personal Page Template by Hakaze Cho (Yufeng Zhao)
 
+## How to Start?
+
+2. Custom your contents and settings.
+  CNAME
+  _config.yml
+  README.md
+
+3. Open Github pages in repo settings.
+
 ## 
 
 您可能注意到我在自己的主页设计了一个论文导出功能，但目前这项功能并未得到良好的维护，故是一项TBA

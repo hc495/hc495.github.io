@@ -6,7 +6,7 @@ langs:
   - marker: 'en'
     label: 'English'
   - marker: 'jp'
-    label: 'ÈÕ±¾ÕZ'
+    label: 'æ—¥æœ¬èª'
   - marker: 'zh'
-    label: '¼òÌåÖĞÎÄ'
+    label: 'ç®€ä½“ä¸­æ–‡'
 ---
