@@ -5,15 +5,10 @@
     - name: "Temporary Author 1"
       url: "https://Temporary_author_link"
     - name: "Temporary Author 2"
-  venue: NeurIPS  ## Refer to venues.yml
   year: 3025
   basic_url: "https://paper_url"
   pages: 90
   urls:
-    - url: "https://openreview.net/forum?id=PAPER_OPENREVIEW_ID"
-      label: "OpenReview"
-    - url: "https://openreview.net/pdf?id=PAPER_OPENREVIEW_ID"
-      label: "PDF"
     - url: "https://arxiv.org/abs/3025.56789"
       label: "arXiv"
     - url: "https://neurips.cc/virtual/3025/poster/PAPER_OPENREVIEW_ID"
@@ -36,28 +31,6 @@
   authors:
     - name: saved_author_1
     - name: saved_author_2
-  venue: example1
   year: 3000
   basic_url: "https://paper_url"
   pages: 33
-  urls:
-    - url: "https://paper_url"
-      label: "ACL Anthology"
-    - url: "https://arxiv.org/pdf/3000.12345"
-      label: "PDF"
-    - url: "https://arxiv.org/abs/3000.12345"
-      label: "arXiv"
-
-- title: "Example Paper Title2"
-  authors:
-    - name: saved_author_1
-    - name: saved_author_2
-  venue: "Temporary Venue"
-  year: 3000
-  basic_url: "https://paper_url"
-  pages: 33
-  urls:
-    - url: "https://arxiv.org/pdf/3000.12345"
-      label: "PDF"
-    - url: "https://arxiv.org/abs/3000.12345"
-      label: "arXiv"
