@@ -22,8 +22,7 @@
   abstract: "The unusual properties of in-context learning (ICL) have prompted investigations into the internal mechanisms of large language models. Prior work typically focuses on either special attention heads or task vectors at specific layers, but lacks a unified framework linking these components to the evolution of hidden states across layers that ultimately produce the model's output. In this paper, we propose such a framework for ICL in classification tasks by analyzing two geometric factors that govern performance: the separability and alignment of query hidden states. A fine-grained analysis of layer-wise dynamics reveals a striking two-stage mechanism: separability emerges in early layers, while alignment develops in later layers. Ablation studies further show that Previous Token Heads drive separability, while Induction Heads and task vectors enhance alignment. Our findings thus bridge the gap between attention heads and task vectors, offering a unified account of ICL's underlying mechanisms."
   id: "nips1"
   bibtex: |
-    @inproceedings{<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;yang2025unifying,<br>
+    @inproceedings{yang2025unifying,<br>
       &nbsp;&nbsp;&nbsp;&nbsp;title={Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Zhong, Yiqiao and Inoue, Naoya},<br>
       &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},<br>

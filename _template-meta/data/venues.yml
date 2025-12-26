@@ -1,0 +1,14 @@
+iclr:
+  name: "International Conference on Learning Representations"
+  short: "ICLR" ## Can be empty
+  h5: 362 ## Can be empty
+  infl: 48.9 ## Can be empty
+
+NeurIPS:
+  name: "Annual Conference on Neural Information Processing Systems"
+  short: "NeurIPS"
+  h5: 371
+  infl: 23.3
+
+example1:
+  name: "Example Venue"

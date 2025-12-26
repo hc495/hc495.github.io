@@ -1,0 +1,65 @@
+- title: "Example Paper Title"
+  authors: ## Refer to authors.yml
+    - name: saved_author_1
+    - name: saved_author_2
+    - name: "Temporary Author 1"
+      url: "https://Temporary_author_link"
+    - name: "Temporary Author 2"
+  venue: NeurIPS  ## Refer to venues.yml
+  year: 3025
+  basic_url: "https://paper_url"
+  pages: 90
+  urls:
+    - url: "https://openreview.net/forum?id=PAPER_OPENREVIEW_ID"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=PAPER_OPENREVIEW_ID"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/3025.56789"
+      label: "arXiv"
+    - url: "https://neurips.cc/virtual/3025/poster/PAPER_OPENREVIEW_ID"
+      label: "Poster"
+    - url: "https://github.com/PAPER_CODE_REPO"
+      label: "Github"
+  abstract: "A Very Good Paper! SotA on 30 dataset!"
+  id: "nips1" ## Should be unique
+  bibtex: |
+    @inproceedings{paper_id,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Example Paper Title},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Authors},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=PAPER_OPENREVIEW_ID}<br>
+    }
+  other: "Best Paper in NIPS 3025" ## Can be empty.  
+
+- title: "Example Paper Title2"
+  authors:
+    - name: me
+    - name: "Peng Luo"
+    - name: "Mariko Kato"
+    - name: "Rin Kaenbyou"
+    - name: n-inoue
+  venue: BlackBox
+  year: 2025
+  basic_url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
+  pages: 28
+  urls:
+    - url: "https://aclanthology.org/2025.blackboxnlp-1.21/"
+      label: "ACL Anthology"
+    - url: "https://arxiv.org/pdf/2505.14233"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2505.14233"
+      label: "arXiv"
+    - url: "https://github.com/hc495/ICL_head_tuning"
+      label: "Github"
+  abstract: "In-context Learning (ICL) utilizes structured demonstration-query inputs to induce few-shot learning on Language Models (LMs), which are not originally pre-trained on ICL-style data. To bridge the gap between ICL and pre-training, some approaches fine-tune LMs on large ICL-style datasets by an end-to-end paradigm with massive computational costs. To reduce such costs, in this paper, we propose Attention Behavior Fine-Tuning (ABFT), utilizing the previous findings on the inner mechanism of ICL, building training objectives on the attention scores instead of the final outputs, to force the attention scores to focus on the correct label tokens presented in the context and mitigate attention scores from the wrong label tokens. Our experiments on 9 modern LMs and 8 datasets empirically find that ABFT outperforms in performance, robustness, unbiasedness, and efficiency, with only around 0.01% data cost compared to the previous methods. Moreover, our subsequent analysis finds that the end-to-end training objective contains the ABFT objective, suggesting the implicit bias of ICL-style data to the emergence of induction heads. Our work demonstrates the possibility of controlling specific module sequences within LMs to improve their behavior, opening up the future application of mechanistic interpretability."
+  id: "blackbox1"
+  bibtex: |
+    @inproceedings{cho2025mechanistic,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Mechanistic Fine-tuning for In-context Learning},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Cho, Hakaze and Luo, Peng and Kato, Mariko and Kaenbyou, Rin and Inoue, Naoya},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle = "Proceedings of the 8th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP",<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2505.14233}<br>
+    }
+  other: "Workshop at EMNLP 2025"
