@@ -70,7 +70,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include paper_statics.html lang='en' %}
-{:.lang .lang-en}
 
 {% include publication_list.html lang='en' %}
 
@@ -207,7 +206,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include paper_statics.html lang='jp' %}
-{:.lang .lang-jp}
 
 {% include publication_list.html lang='jp' %}
 
@@ -347,7 +345,6 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [[Semantic Scholar](https://www.semanticscholar.org/author/Hakaze-Cho/2304519017){:target="_blank"}] 
 [[DBLP](https://dblp.org/pid/379/4520.html){:target="_blank"}]   
 {% include paper_statics.html lang='zh' %}
-{:.lang .lang-zh}
 
 {% include publication_list.html lang='zh' %}
 

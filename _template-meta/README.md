@@ -42,6 +42,7 @@ This template use custom language identifier (e.g., "en", "zh", "jp") to mark an
 {:.lang .lang-en}
 
 本模板使用语言标识符（如"en", "zh", "jp"）来标记和控制显示语言.
+{:.lang .lang-zh}
 
 - .... .. ... - . -- .--. .-.. .- - . ..- ... . -.-. ..- ... - --- -- .-.. .- -. --. ..- .- --. . .. -.. . -. - .. ..-. .. . .-. -.--. . .-.-.- --. .-.-.- --..-- .-..-. . -. .-..-. --..-- .-..-. --.. .... .-..-. --..-- .-..-. .--- .--. .-..-. -.--.- - --- -- .- .-. -.- .- -. -.. -.-. --- -. - .-. --- .-.. .-.. .- -. --. ..- .- --. . ... .-.-.-
 {:.lang .lang-mylang}
@@ -65,6 +66,10 @@ This template use custom language identifier (e.g., "en", "zh", "jp") to mark an
 {% include paper_statics.html lang='zh' %}
 
 {% include publication_list.html lang='en' %}
+
+{% include publication_list.html lang='jp' %}
+
+{% include publication_list.html lang='zh' %}
 
 ## Acknowledgments
 
