@@ -66,5 +66,7 @@ jobs:
             exit 0
           fi
 
+          git remote add origin git@github.com:hc495/Multilingual_Academic_Page_Template.git
+
           git commit -m "Initial sync from homepage @ ${GITHUB_SHA}"
-          git push -u origin HEAD:main
+          git push -u origin master
