@@ -9,11 +9,8 @@ timezone: Asia/Tokyo ## Should be TZ identifier. See https://en.wikipedia.org/wi
 navbar:
   enable: true ## Warning: if this is false, the multi-language function will be disabled.
   links: 
-    - url: '/'
-      label: 'Home'
-      target: ''
     - url: '/Multilingual_Academic_Page_Template' ## Defined in the `permalink`
-      label: 'Template Page'
+      label: 'Template Home'
       target: ''
     - url: 'https://www.google.com/'
       label: 'Outside Page'
