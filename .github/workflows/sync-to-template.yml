@@ -53,6 +53,8 @@ jobs:
           pwd
           git rev-parse --is-inside-work-tree
 
+          git init
+
           rsync -av --delete /tmp/template_out/ ./
 
           git config user.name "github-actions[bot]"
@@ -65,4 +67,4 @@ jobs:
           fi
 
           git commit -m "Initial sync from homepage @ ${GITHUB_SHA}"
-          git push -u origin HEAD:main
+          git push -u origin HEAD:master
