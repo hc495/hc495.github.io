@@ -42,12 +42,16 @@ jobs:
           TEMPLATE_PUSH_TOKEN: ${{ secrets.TEMPLATE_PUSH_TOKEN }}
           TEMPLATE_REPO: ${{ secrets.TEMPLATE_REPO }}
         run: |
-          set -eux
+          set -euxo pipefail
 
           rm -rf /tmp/template_repo
           git clone "https://x-access-token:${TEMPLATE_PUSH_TOKEN}@github.com/${TEMPLATE_REPO}.git" /tmp/template_repo
 
+          test -d /tmp/template_repo/.git
+
           cd /tmp/template_repo
+          pwd
+          git rev-parse --is-inside-work-tree
 
           rsync -av --delete /tmp/template_out/ ./
 
@@ -60,5 +64,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Sync from homepage @ ${GITHUB_SHA}"
-          git push
+          git commit -m "Initial sync from homepage @ ${GITHUB_SHA}"
+          git push -u origin HEAD:main
