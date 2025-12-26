@@ -48,7 +48,6 @@ jobs:
           rm -rf /tmp/template_repo
           git clone "https://x-access-token:${TEMPLATE_PUSH_TOKEN}@github.com/${TEMPLATE_REPO}.git" /tmp/template_repo
 
-          # 确认 clone 出来的是 git repo（空仓库也会有 .git）
           test -d /tmp/template_repo/.git
 
           cd /tmp/template_repo
