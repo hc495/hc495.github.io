@@ -3,7 +3,7 @@
 {% include header.html %}
   <body>
     {%- if site.navbar.enable -%}
-      <div class="top-lang-bar">
+      <div class="top-lang-bar" data-langs="{% for l in page.langs %}{{ l.marker | downcase }}{% unless forloop.last %},{% endunless %}{% endfor %}">
         <div class="left"> 
           {%- for item in site.navbar.links -%}
             <a href="{{ item.url }}" target="{{ item.target }}">{{ item.label }}</a>

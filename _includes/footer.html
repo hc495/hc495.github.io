@@ -12,7 +12,19 @@
     return lang;
   }
 
-  function applyLang(lang) {
+  function getAvailableLangs() {
+    const bar = document.querySelector(".top-lang-bar[data-langs]");
+    if (!bar) return [];
+    return bar.dataset.langs.split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
+  }
+
+  function applyLang(lang, available) {
+    console.log("Applying language:", lang);
+    console.log("Available languages:", available);
+    if (available.includes(lang) === -1) {
+      lang = available[0];
+      console.log("Language not available, defaulting to:", lang);
+    }
     document.querySelectorAll(".lang").forEach(el => el.classList.remove("active"));
     document.querySelectorAll(".lang-" + lang).forEach(el => el.classList.add("active"));
     localStorage.setItem(KEY, lang);
@@ -29,15 +41,17 @@
   }
 
   document.addEventListener("DOMContentLoaded", () => {
+    const available = getAvailableLangs();
     const saved = normalizeLang(localStorage.getItem(KEY));
     const auto = "en";
-    const lang = saved || auto;
-    applyLang(lang);
+
+    // 优先级：URL > saved > auto
+    applyLang(saved || auto, available);
 
     document.querySelectorAll(".lang-link").forEach(a => {
       a.addEventListener("click", e => {
         e.preventDefault();
-        applyLang(a.dataset.lang);
+        applyLang(a.dataset.lang, available);
       });
     });
   });
