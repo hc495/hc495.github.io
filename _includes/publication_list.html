@@ -2,9 +2,14 @@
 
 {%- for item in site.publication_list -%}
     {%- if item.title[current_lang] -%}
-        <h3 class="lang lang-{{ current_lang }} active"> {{ item.title[current_lang] }}</h3>
         {%- if item.instructions[current_lang] -%}
-        <p class="lang lang-{{ current_lang }} active"><span style="font-size:0.9em">{{ item.instructions[current_lang] }}</span></p>
+            <h3 class="lang lang-{{ current_lang }} active" style="margin-bottom: 0em"> {{ item.title[current_lang] }}</h3>
+        {%- else -%}
+            <h3 class="lang lang-{{ current_lang }} active"> {{ item.title[current_lang] }}</h3>
+        {%- endif -%}
+
+        {%- if item.instructions[current_lang] -%}
+            <div class="lang lang-{{ current_lang }} active" style="font-size:0.9em; margin-bottom: 16px">{{ item.instructions[current_lang] | escape }}</div>
         {%- endif -%}
         <div class="lang lang-{{ current_lang }} active">
         {%- include publication_list_style/index.html style=item.style file=item.file -%}
