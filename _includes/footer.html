@@ -21,7 +21,7 @@
   function applyLang(lang, available) {
     console.log("Applying language:", lang);
     console.log("Available languages:", available);
-    if (available.includes(lang) === -1) {
+    if (!available.includes(lang)) {
       lang = available[0];
       console.log("Language not available, defaulting to:", lang);
     }
