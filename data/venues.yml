@@ -45,7 +45,7 @@ BlackBox:
   name: "BlackboxNLP Workshop"
 
 NeurIPS:
-  name: "Annual Conference on Neural Information Processing Systems"
+  name: "Advances in Neural Information Processing Systems"
   short: "NeurIPS"
   h5: 371
   infl: 23.3
