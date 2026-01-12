@@ -107,7 +107,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
   Mentor: [Assoc. Prof. Jianbing Shi](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-en .wide_list}
 
-## Professional Activities 
+## Professional Activities
 {:.lang .lang-en}
 
 ### Peer Review
