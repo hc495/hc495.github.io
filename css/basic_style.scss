@@ -14,6 +14,15 @@
     min-width: 600px;
 }
 
+// writing area styles
+.container-lg.px-3.my-5.markdown-body {
+    background-color: {{ site.writing_area.background_color }};
+    margin-top: 0% !important;
+    margin-bottom: 0 !important;
+    padding: {{ site.writing_area.padding }} !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
 // Link styles
 a, .collapse-clicker {
     color: {{ site.font_colors.link_normal }};
@@ -33,7 +42,7 @@ a, .collapse-clicker {
 }
 
 .markdown-body a:not([href]) {
-    color: #2a66cc;
+    color: {{ site.font_colors.link_normal }};
     text-decoration: none;
 
     &:hover {
@@ -47,14 +56,6 @@ a, .collapse-clicker {
         color: {{ site.font_colors.link_clicked }};
         text-decoration: underline;
     }
-}
-
-.container-lg.px-3.my-5.markdown-body {
-    background-color: {{ site.writing_area.background_color }};
-    margin-top: 0% !important;
-    margin-bottom: 0 !important;
-    padding: {{ site.writing_area.padding }} !important;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 small {
@@ -73,40 +74,6 @@ small {
     font-family: {{ pair[1] }};
 }
 {%- endfor -%}
-
-.top-lang-bar {
-    display: flex;
-    min-width: 600px;
-    width: calc(100% - 2 * {{ site.writing_area.margin }}%);
-    min-width: 0;
-    box-sizing: border-box;
-    padding: 6px 2.2% 6px 2.2%;
-    text-align: left;
-    font-size: 14px;
-    font-family: system-ui, sans-serif;
-    overflow-x: auto;
-    margin: 0.75% auto 0.75% auto;
-    background-color: {{ site.toc.background_color }};
-    border-radius: 6pt;
-    border: {{ site.toc.boarder }};
-    font-family: {{ site.toc.fonts }};
-}
-
-.top-lang-bar a {
-    margin: 0 12px;
-}
-
-.lang { display: none; }
-
-.lang.active { display: block; }
-
-.lang-link.active {
-  color: {{ site.font_colors.normal }} !important;
-  cursor: default; 
-  pointer-events: none; 
-  text-decoration: none;
-  font-weight: 600;       
-}
 
 figcaption {
     font-size: 0.8em;
@@ -131,34 +98,6 @@ figcaption {
         background-attachment: fixed;
     }
 {%- endif -%}
-
-// TOC settings
-{%- assign toc_dis = 100.4 | minus: site.writing_area.margin -%}
-
-{%- if site.toc.locationX == "left" -%}
-  {%- assign toc_dis = 100.4 | minus: site.writing_area.margin -%}
-{% endif %}
-
-#toc {
-  position: fixed;
-  {{ site.toc.locationX }}: {{ toc_dis }}%;
-  bottom: {{ site.toc.locationY }};
-  transform: translateY(50%);
-  width: auto;
-  max-height: 70vh;
-  max-width: 17.4%;
-  overflow: auto;
-  background-color: {{ site.toc.background_color }};
-  border: {{ site.toc.boarder }};
-  border-radius: 8px;
-  padding: 10px 12px;
-  font-size: {{ site.toc.fontsize }};
-  font-family: {{ site.toc.fonts }};
-}
-#toc ul { list-style: none; padding-left: 0; margin: 0; }
-#toc li { margin: 4px 0; }
-#toc li.lv-H2 { margin-left: 10px; }
-#toc li.lv-H3 { margin-left: 20px; }
 
 // Remove horizontal rule after headings
 body, .markdown-body {
@@ -266,54 +205,4 @@ ul {
     radial-gradient(circle, {{ site.font_colors.end_mark_color }} 2.5px, transparent 2.5px) center/16px 16px no-repeat,
     linear-gradient(to right, rgba(0,0,0,0), {{ site.font_colors.end_mark_color }}) left 50%/calc(50% - 12px) 1.5px no-repeat,
     linear-gradient(to right, {{ site.font_colors.end_mark_color }}, rgba(0,0,0,0)) right 50%/calc(50% - 12px) 1.5px no-repeat;
-}
-
-@media (max-width: 640px) {
-    .markdown-body h1 {
-        font-size: 1.5em;
-        text-align: justify;
-    }
-    .container-lg {
-        margin: 0px 5px 0px 5px;
-        text-align: justify;
-        min-width: 0;
-    }
-    img {
-        display: none;
-    }
-    figcaption {
-        display: none;
-    }
-    body, .markdown-body {
-        font-size: 83%;
-    }
-    h2 {
-        margin-top: 0em;
-        margin-bottom: 0em;
-    }
-    h3 {
-        margin-top: 0em;
-        margin-bottom: 0em;
-    }
-    .details-panel {
-        margin: 5px;
-        padding: 3px 8px 3px 8px;
-        font-size: 83%;
-        border-radius: 4px;
-    }
-    .top-lang-bar {
-        width: 100%;
-        max-width: none;
-        border-radius: 3pt;
-        font-size: 9px;
-    }
-    .top-lang-bar a {
-        margin: 0 8px;
-    }
-    #toc {
-        display: none !important;
-    }
-    .end-mark{
-        margin: 20px auto 20px;
-    }
 }
