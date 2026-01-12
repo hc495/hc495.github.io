@@ -116,7 +116,7 @@ background:
 
 ## Writing Area (i.e., the area with markdown texts)
 writing_area:
-  background_color: "rgba(255, 255, 255, 0.95)"
+  background_color: "rgba(255, 255, 255, 0.85)"
   margin: 18 ## percent  Notice this margin will also move the toc and the top and bottom bar.
   padding: "2% 3% 1.5% 3%" ## the blank area in the boundary of the writing area. up, left, down, right
 
