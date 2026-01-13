@@ -79,6 +79,7 @@ fonts: ## Directly use CSS format as string here.
   title: "'Gentium Basic', 'Noto Serif JP', 'Noto Serif SC'"
   includes: | ## To make sure your font is included in the site. Refer to https://fonts.google.com/. 
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gentium+Basic" />
     <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+JP:wght@200..900&family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
 
 ## Markdown Settings
