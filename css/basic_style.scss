@@ -81,7 +81,7 @@ figcaption {
     text-align: center;
 }
 
-{%- if site.background_image -%}
+{%- if site.background.image -%}
     body {
         background-image: url('{{ site.background.image }}');
         min-height: 100%;
