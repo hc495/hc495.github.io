@@ -27,7 +27,7 @@ Features: Multi-language switching, Data-driven publication list.
    - `README.md` to your own content.
    - `Subpages\` to your own subpages (if any).
    - `Data\` to your own publications. Read the follows and the comments in `Data`.
-3. **Open Github pages in repo settings.**
+3. **Open Github pages in repo settings.** (Step 6 - 9 in [this guide](https://docs.github.com/en/pages/quickstart){:target="_blank"})
 
 ## Multilingual Settings
 {:.lang .lang-en}
