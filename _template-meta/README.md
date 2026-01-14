@@ -20,7 +20,7 @@ Features: Multi-language switching, Data-driven publication list.
 ## How to Start?
 
 1. **Folk [this repo](https://github.com/hc495/Multilingual_Academic_Page_Template){:target="_blank"}, and rename to `your_name.github.io`**
-2. **Custom your contents and settings** 
+2. **Custom your contents and settings**   
    You need to focus on these files:  
    - `CNAME` to your own site name, empty to use `your_name.github.io`
    - `_config.yml`. Please follow the comments in the `_config.yml`.
