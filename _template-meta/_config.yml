@@ -2,6 +2,7 @@ google_analytics: ## Your google analytics token here. Can be empty. See https:/
 
 # ------------------------------------------
 # Content Settings
+# You must edit these parts to fit your own information.
 # ------------------------------------------
 timezone: Asia/Tokyo ## Should be TZ identifier. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

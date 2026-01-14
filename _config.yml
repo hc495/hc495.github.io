@@ -2,6 +2,7 @@ google_analytics: G-RFM3S7GRYQ ## Can be empty. See https://analytics.google.com
 
 # ------------------------------------------
 # Content Settings
+# You must edit these parts to fit your own information.
 # ------------------------------------------
 timezone: Asia/Tokyo
 

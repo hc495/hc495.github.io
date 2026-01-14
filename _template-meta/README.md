@@ -32,6 +32,9 @@ Features: Multi-language switching, Data-driven publication list.
 ## Multilingual Settings
 {:.lang .lang-en}
 
+## Multilingual Settings
+{:.lang .lang-jp}
+
 ## 多语言设置
 {:.lang .lang-zh}
 
@@ -74,7 +77,7 @@ You may add or remove publication types in _config.yml according to your needs, 
 
 **Publication List Source.** The YAML files in the `data/` directory store detailed information about publications; see the examples for details.
 Please note that the filenames `authors.yml` and `venues.yml` in the `data/` directory are reserved keywords and must not be changed, even if you do not use them. These files define shorthand entries for authors and venues, allowing them to be conveniently referenced in publication records. If an author or venue is not registered in these files, their information can also be specified directly as a string.
-Note that a venue must be registered in venues.yml in order for it to be included in the cumulative statistics of impact factor and H5 Index.
+Note that a venue and its impact factor and H5 Index data must be registered in venues.yml in order for it to be included in the cumulative statistics of impact factor and H5 Index.
 {:.lang .lang-en}
 
 **Publication List Style.** The `_includes/publication_list_style` directory contains template files for generating different types of publication lists, written in the Jekyll language.
@@ -88,7 +91,7 @@ You may modify these template files according to your needs, or add new template
 
 **論文情報.** `data/` フォルダ内の YAML ファイルには、論文に関する詳細な情報が記録されている。具体例についてはサンプルを参照されたい.
 なお、`data/` フォルダ内の `authors.yml` および `venues.yml` は予約されたファイル名であり、使用しない場合であっても変更してはならない. これらのファイルには、著者名や会議名の簡易表記（ショートハンド）が定義されており、論文エントリ内から迅速に参照できるようになっている. これらのファイルに登録されていない場合でも、文字列として著者や会議の情報を直接記述することは可能である.
-ただし、会議の簡易表記を venues.yml に登録しておかなければ、インパクトファクターおよび H5 Index の累積統計には反映されない点に注意されたい.
+ただし、会議の簡易表記とIF・H5 Indexデータを venues.yml に登録しておかなければ、インパクトファクターおよび H5 Index の累積統計には反映されない点に注意されたい.
 {:.lang .lang-jp}
 
 **フォーマットファイル.** `_includes/publication_list_style` フォルダには、異なる種類の論文一覧を生成するためのフォーマットファイルが含まれており、Jekyll 言語で記述されている。
@@ -98,13 +101,13 @@ You may modify these template files according to your needs, or add new template
 论文列表由`data/`文件夹中的YAML文件记录（详见下述），并在`_config.yml`中进行分类配置. 这种分类主要为了满足不同种类论文的输出格式不同的需求，比如，本示例包含了国际会议和预印本两种论文类型，它们需要不同的输出格式（详见下述），因此`_config.yml`的`publication_list`项目中分别配置了它们的源文件，标题，输出格式和是否参与论文统计. 您可以在`_config.yml`中根据自己的需求添加或删除论文类型，并在`Data/`文件夹中添加相应的YAML文件.
 {:.lang .lang-zh}
 
-**论文数据** `data/`文件夹中的YAML文件记录了论文的具体信息，详见示例. 请注意，`data/`文件夹中的`authors.yml`和`venues.yml`的文件名是关键词，不可修改，即使您不使用它们. 它们记录了作者或会议的快捷方式，以便在论文条目中迅速引用. 如不在文件中注册，也可以使用字符串形式保存作者或会议的信息. 需要注意，您必须在`venues.yml`中记录会议快捷方式，才能使它们参与统计累计影响因子和H5 Index.
+**论文数据** `data/`文件夹中的YAML文件记录了论文的具体信息，详见示例. 请注意，`data/`文件夹中的`authors.yml`和`venues.yml`的文件名是关键词，不可修改，即使您不使用它们. 它们记录了作者或会议的快捷方式，以便在论文条目中迅速引用. 如不在文件中注册，也可以使用字符串形式保存作者或会议的信息. 需要注意，您必须在`venues.yml`中记录会议快捷方式并对IF和H5 Index赋值，才能使它们参与统计累计影响因子和H5 Index.
 {:.lang .lang-zh}
 
 **论文列表格式.** `_includes/publication_list_style`文件夹中包含了生成不同类型论文列表的格式文件，由`jekyll`语言编写. 您可以根据自己的需求修改这些格式文件，或者添加新的格式文件. 如果您添加新的格式文件，请在`_includes/publication_list_style/index.html`中仿照现有格式添加索引.
 {:.lang .lang-zh}
 
-Insert {% raw %} {% include paper_statics.html lang='lang-identifier' %} {% endraw %}, e.g., {% raw %} {% include paper_statics.html lang='en' %} {% endraw %}, to include the paper statistics line for the specified language. Edit the `publication_statics` dictionary in the `_config.yml` for detailed settings.
+**Paper Statics.** Insert {% raw %} {% include paper_statics.html lang='lang-identifier' %} {% endraw %}, e.g., {% raw %} {% include paper_statics.html lang='en' %} {% endraw %}, to include the paper statistics line for the specified language. Edit the `publication_statics` dictionary in the `_config.yml` for detailed settings.
 {:.lang .lang-en}
 
 Insert {% raw %} {% include publication_list.html lang='lang-identifier' %} {% endraw %}, e.g., {% raw %} {% include publication_list.html lang='jp' %} {% endraw %}, to include the publication list for the specified language. The publication data are stored in the `Data/` folder in YAML format. Please refer to the comments in the sample files for detailed instructions.
