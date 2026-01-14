@@ -68,7 +68,7 @@ This template use custom language identifier (e.g., "en", "zh", "jp") to mark an
 6. 您可以在`_config.yml`的`fonts`中设定对应于语言标识符的字体. 中文字体测试：遥襟甫畅，逸兴遄飞。爽籁发而清风生，纤歌凝而白云遏。睢园绿竹，气凌彭泽之樽；邺水朱华，光照临川之笔。
 {:.lang .lang-zh}
 
-## Publication List Example
+## Publication List
 
 The publication list is recorded in YAML files located in the `data/` directory (see details below) and is categorized and configured in `_config.yml`.
 This categorization is mainly intended to accommodate different output format requirements for different types of publications. For example, this template includes two types of publications—international conference papers and preprints, which require different output formats (see details below). Therefore, in the `publication_list` section of `_config.yml`, their source files, titles, output styles, and whether they are included in publication statistics are configured separately.
@@ -130,6 +130,8 @@ You don't need to add language identifiers after these includes, as the include 
 {% include paper_statics.html lang='jp' %}
 
 {% include paper_statics.html lang='zh' %}
+
+**Publication List Example**
 
 {% include publication_list.html lang='en' %}
 
