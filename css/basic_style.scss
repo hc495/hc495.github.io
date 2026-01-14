@@ -11,7 +11,6 @@
 .container-lg {
     max-width: none;
     margin: 2% {{ site.writing_area.margin }}% 2% {{ site.writing_area.margin }}%;
-    min-width: 600px;
 }
 
 // writing area styles
@@ -60,13 +59,6 @@ a, .collapse-clicker {
 
 small {
     line-height: 0.75;
-}
-
-.left{
-}
-
-.right {
-  margin-left: auto;
 }
 
 {%- for pair in site.fonts.normal -%}
