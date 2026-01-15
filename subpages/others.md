@@ -3,10 +3,6 @@ layout: default
 permalink: /others
 title: "Others"
 langs:
-  - marker: 'en'
-    label: 'English'
-  - marker: 'jp'
-    label: '日本語'
   - marker: 'zh'
     label: '简体中文'
 ---
@@ -34,7 +30,7 @@ langs:
 ## 电子游戏
 {:.lang .lang-zh}
 
-- **魔兽世界** (2006 ~ )
+- **魔兽世界** (2006 ~ )   
   我从小学开始就和家父一起玩魔兽世界. 我曾经在8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, 11.2版本中获得引领潮流成就.   
   我的角色可以在[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 另一个[WCL](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}和[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}找到.   
   我曾经在10.2版本获得了大秘境治疗者亚洲前50的排名.
@@ -52,4 +48,7 @@ langs:
   我喜欢机械键盘，并且使用过各种型号的键盘. 我目前使用的键盘是NiZ Plum 84EC (游戏和轻量办公，已经使用了7年), Keychron V1 Max-Gateron Jupiter Banana (办公/科研/编程/写作), FILCO Majestouch 3 茶轴 (写作).  
 - **编程比赛**   
   这应该是计算机系学生的基础消遣. 我曾经一度在LeetCode上排到前5%（现已退役）.
+- **食物和饮料**   
+  我喜欢喝英式红茶和日本绿茶及梅酒（未成年朋友请勿模仿）. 我喜欢咖喱和可乐饼. 我对于通常意义上的人类食物都没有生理或心理上的不适.  
+  *但我仍保持了惊人的17.96的BMI，即使我完全不限制饮食，也几乎没有体育锻炼. 
 {:.lang .lang-zh}
