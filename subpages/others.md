@@ -32,7 +32,7 @@ langs:
 
 - **魔兽世界** (2006 ~ )   
   我从小学开始就和家父一起玩魔兽世界. 我曾经在8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, 11.2版本中获得引领潮流成就.   
-  我的角色可以在[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 另一个[WCL](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}和[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}找到.   
+  我的角色可以在[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 另一个[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%e4%be%9d?zone=25){:target="_blank"}和[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}找到.   
   我曾经在10.2版本获得了大秘境治疗者亚洲前50的排名.
 - **守望先锋** (2017 ~ )   
   我从守望先锋1时代开始玩守望先锋. 我的主要英雄是西格玛. 我曾经在2019年达到过中国区500强的排名.
