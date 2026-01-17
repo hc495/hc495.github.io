@@ -122,3 +122,5 @@ The source codes for every experimental chapter are available at the following G
 - Chapter 4: [GitHub: Verb_subspace](https://github.com/hc495/Verb_subspace){:target="_blank"} 
 - Chapter 5: [GitHub: Hidden_Calibration](https://github.com/hc495/Hidden_Calibration){:target="_blank"}
 - Chapter 6: [GitHub: ICL_head_tuning](https://github.com/hc495/ICL_head_tuning){:target="_blank"}
+
+<div class="end-mark"></div>
