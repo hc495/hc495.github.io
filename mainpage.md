@@ -54,9 +54,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 **Keywords**: Representation Learning, Mechanistic Interpretability, In-context Learning  
 {:.lang .lang-en}
 
-- **Interpretability for Artificial Neural Network**: Mechanistic interpretability (especially for Transformer)   
+- **Interpretability for Artificial Neural Network**: Mechanistic Interpretability (especially for Transformer)   
   [[ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"}] [[NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"}] [[COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}]
-- **Controllability for Artificial Neural Network**: Low-resource model behavior improvement / controlling from mechanistic perspective  
+- **Controllability for Artificial Neural Network**: Low-resource Model Behavior Improvement / Controlling from Mechanistic Perspective  
   [[NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"}] [[BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"}] 
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics  
   [[ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"}] [[ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}]
