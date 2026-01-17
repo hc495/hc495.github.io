@@ -26,7 +26,6 @@ footnotes: |
 publication_list:
   - file: 'international_c_papers'
     title: 
-      ## If the language is not presented in the title dictionary, the list will not be presented in such language.
       en: 'International Conference'
       jp: '国際会議'
       zh: '国际会议'
@@ -41,6 +40,7 @@ publication_list:
     calculate_statics: True
   - file: 'domestic_c_papers'
     title: 
+      ## If the language is not presented in the title dictionary, the list will not be presented in such language.
       en: 'Domestic Conferences / Journal / Miscellaneous'
       zh: '日本国内会议 / 期刊 / 杂项'
     instructions:
@@ -50,10 +50,11 @@ publication_list:
     calculate_statics: True
   - file: 'domestic_c_papers'
     title: 
+      ## If the language is not presented in the title dictionary, the list will not be presented in such language.
       jp: '国内会議・ジャーナル・その他'
     instructions:
       jp: '† = 国際会議論文の日本国内再録; 通常: 査読なし，▲ = 査読あり'
-    style: 'domestic_conf_en'
+    style: 'domestic_conf_jp'
     calculate_statics: False
 
 name_to_bold: # Which author names should be in bold?
