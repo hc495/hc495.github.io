@@ -61,6 +61,8 @@ Although the dissertation defense committee requested to reduce the difficulty o
 
 Revision Note:
 
+As the dissertation committee was satisfied with the thesis at the preliminary defense, only minor revisions were made:
+
 - Added a discussion on the correlation between the work in Chapter 3 and its subsequent related works.
 - Inserted the structural abstract required by the rule of JAIST Ph.D. dissertation.
 - Revised 2 typos in Appendix.
