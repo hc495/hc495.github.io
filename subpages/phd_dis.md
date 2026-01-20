@@ -26,7 +26,7 @@ Preliminary Defense Date: Feb 4th, 2026.
 
 Revision Note:
 
-Although the dissertation defense committee requested to reduce the difficulty of the presentation, the intrinsic complexity of this series of research is inherently high. Given the constraints of the presentation time, I could only work hard to ensure a clear, unambiguous narrative, utilizing large amount of diagrams to enhance intuitiveness and ease of understanding. To ensure that an audience with a background in interpretability could follow the research, I made the following adjustments based on the feedback:
+Although the dissertation defense committee requested to reduce the difficulty of the presentation, the intrinsic complexity of this series of research is inherently high. Given the constraints of the presentation time, I could only work hard to ensure a clear, unambiguous narrative, utilizing large amount of diagrams to enhance intuitiveness and ease of understanding. Also, I made the following adjustments based on the feedback:
 
 1. Removed some minor content from the slides to keep the story more clear and reduce the presentation time. In detail:
    1. Removed the analysis on the non-monotonicity of eccentricity of Chapter 4.
