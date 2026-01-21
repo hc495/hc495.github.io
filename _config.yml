@@ -104,7 +104,7 @@ fonts: ## Directly use CSS format as string here.
 font_scale: 100%
 font_colors:
   normal: "#000000" ## The color of normal texts
-  link_normal: "#2a66cc"
+  link_normal: "#2a49d5"
   link_clicked: "#070a7d"
   title_underline_color: "#000000"
   end_mark_color: "#000000"
