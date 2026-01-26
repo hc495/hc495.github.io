@@ -1,3 +1,33 @@
+- title: "Mechanism of Task-oriented Information Removal in In-context Learning"
+  authors:
+    - name: me
+    - name: Haolin
+    - name: Gouki
+    - name: n-inoue
+  year: 2025
+  venue: iclr
+  basic_url: "https://openreview.net/forum?id=VAv1rrPR1A"
+  pages: 87
+  urls:
+    - url: "https://openreview.net/forum?id=VAv1rrPR1A"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=VAv1rrPR1A"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2509.21012"
+      label: "arXiv"
+    - url: "https://github.com/hc495/Verb_subspace"
+      label: "Github"
+  abstract: "In-context Learning (ICL) is an emerging few-shot learning paradigm based on modern Language Models (LMs), yet its inner mechanism remains unclear. In this paper, we investigate the mechanism through a novel perspective of information removal. Specifically, we demonstrate that in the zero-shot scenario, LMs encode queries into non-selective representations in hidden states containing information for all possible tasks, leading to arbitrary outputs without focusing on the intended task, resulting in near-zero accuracy. Meanwhile, we find that selectively removing specific information from hidden states by a low-rank filter effectively steers LMs toward the intended task. Building on these findings, by measuring the hidden states on carefully designed metrics, we observe that few-shot ICL effectively simulates such task-oriented information removal processes, selectively removing the redundant information from entangled non-selective representations, and improving the output based on the demonstrations, which constitutes a key mechanism underlying ICL. Moreover, we identify essential attention heads inducing the removal operation, termed Denoising Heads, which enables the ablation experiments blocking the information removal operation from the inference, where the ICL accuracy significantly degrades, especially when the correct label is absent from the few-shot demonstrations, confirming both the critical role of the information removal mechanism and denoising heads."
+  id: "arxiv6"
+  bibtex: |
+    @article{cho2025mechanism,<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;title={Mechanism of Task-oriented Information Removal in In-context Learning},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;author={Cho, Hakaze and Yang, Haolin and Minegishi, Gouki and Inoue, Naoya},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Fourteenth International Conference on Learning Representations},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;year={2026},<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=VAv1rrPR1A}<br>
+    }
+
 - title: "Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning"
   authors:
     - name: Haolin
