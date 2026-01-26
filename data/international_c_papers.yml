@@ -28,6 +28,57 @@
       &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=VAv1rrPR1A}<br>
     }
 
+- title: "Localizing Task Recognition and Task Learning in In-Context Learning via Attention Head Analysis"
+  authors:
+    - name: Haolin
+    - name: me
+    - name: n-inoue
+  year: 2025
+  venue: iclr
+  basic_url: "https://arxiv.org/abs/2509.24164"
+  pages: 45
+  urls:
+    - url: "https://arxiv.org/pdf/2509.24164"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2509.24164"
+      label: "arXiv"
+  abstract: "We investigate the mechanistic underpinnings of in-context learning (ICL) in large language models by reconciling two dominant perspectives: the component-level analysis of attention heads and the holistic decomposition of ICL into Task Recognition (TR) and Task Learning (TL). We propose a novel framework based on Task Subspace Logit Attribution (TSLA) to identify attention heads specialized in TR and TL, and demonstrate their distinct yet complementary roles. Through correlation analysis, ablation studies, and input perturbations, we show that the identified TR and TL heads independently and effectively capture the TR and TL components of ICL. Using steering experiments with geometric analysis of hidden states, we reveal that TR heads promote task recognition by aligning hidden states with the task subspace, while TL heads rotate hidden states within the subspace toward the correct label to facilitate prediction. We further show how previous findings on ICL mechanisms, including induction heads and task vectors, can be reconciled with our attention-head-level analysis of the TR-TL decomposition. Our framework thus provides a unified and interpretable account of how large language models execute ICL across diverse tasks and settings."
+  id: "arxiv9"
+  bibtex: |
+    @article{yang2025localizingtaskrecognitiontask,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;title={Localizing Task Recognition and Task Learning in In-Context Learning via Attention Head Analysis},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Inoue, Naoya},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2509.24164},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;year={2025}<br>
+    }
+
+
+- title: "Task Vectors, Learned Not Extracted: Performance Gains and Mechanistic Insight"
+  authors:
+    - name: Haolin
+    - name: me
+    - name: "Kaize Ding"
+      url: "https://kaize0409.github.io/"
+    - name: n-inoue
+  year: 2025
+  venue: iclr
+  basic_url: "https://arxiv.org/abs/2509.24169"
+  pages: 48
+  urls:
+    - url: "https://arxiv.org/pdf/2509.24169"
+      label: "PDF"
+    - url: "https://arxiv.org/abs/2509.24169"
+      label: "arXiv"
+  abstract: "Large Language Models (LLMs) can perform new tasks from in-context demonstrations, a phenomenon known as in-context learning (ICL). Recent work suggests that these demonstrations are compressed into task vectors (TVs), compact task representations that LLMs exploit for predictions. However, prior studies typically extract TVs from model outputs or hidden states using cumbersome and opaque methods, and they rarely elucidate the mechanisms by which TVs influence computation. In this work, we address both limitations. First, we propose directly training Learned Task Vectors (LTVs), which surpass extracted TVs in accuracy and exhibit superior flexibility-acting effectively at arbitrary layers, positions, and even with ICL prompts. Second, through systematic analysis, we investigate the mechanistic role of TVs, showing that at the low level they steer predictions primarily through attention-head OV circuits, with a small subset of 'key heads' most decisive. At a higher level, we find that despite Transformer nonlinearities, TV propagation is largely linear: early TVs are rotated toward task-relevant subspaces to improve logits of relevant labels, while later TVs are predominantly scaled in magnitude. Taken together, LTVs not only provide a practical approach for obtaining effective TVs but also offer a principled lens into the mechanistic foundations of ICL."
+  id: "arxiv8"
+  bibtex: |
+    @article{yang2025taskvectorslearnedextracted,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;title={Task Vectors, Learned Not Extracted: Performance Gains and Mechanistic Insight},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Ding, Kaize and Inoue, Naoya},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2509.24169},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;year={2025}<br>
+    }
+
 - title: "Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning"
   authors:
     - name: Haolin
