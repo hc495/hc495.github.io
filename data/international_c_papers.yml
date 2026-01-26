@@ -35,10 +35,12 @@
     - name: n-inoue
   year: 2026
   venue: iclr
-  basic_url: "https://arxiv.org/abs/2509.24164"
-  pages: 45
+  basic_url: "https://openreview.net/forum?id=gdvOF1OMa7"
+  pages: 60
   urls:
-    - url: "https://arxiv.org/pdf/2509.24164"
+    - url: "https://openreview.net/forum?id=gdvOF1OMa7"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=gdvOF1OMa7"
       label: "PDF"
     - url: "https://arxiv.org/abs/2509.24164"
       label: "arXiv"
@@ -48,8 +50,9 @@
     @article{yang2025localizingtaskrecognitiontask,<br>
     &nbsp;&nbsp;&nbsp;&nbsp;title={Localizing Task Recognition and Task Learning in In-Context Learning via Attention Head Analysis},<br>
     &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Inoue, Naoya},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2509.24164},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;year={2025}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Fourteenth International Conference on Learning Representations},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;year={2026},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=gdvOF1OMa7}<br>
     }
 
 
@@ -62,10 +65,12 @@
     - name: n-inoue
   year: 2026
   venue: iclr
-  basic_url: "https://arxiv.org/abs/2509.24169"
-  pages: 48
+  basic_url: "https://openreview.net/forum?id=RGEbVZgf4E"
+  pages: 58
   urls:
-    - url: "https://arxiv.org/pdf/2509.24169"
+    - url: "https://openreview.net/forum?id=RGEbVZgf4E"
+      label: "OpenReview"
+    - url: "https://openreview.net/pdf?id=RGEbVZgf4E"
       label: "PDF"
     - url: "https://arxiv.org/abs/2509.24169"
       label: "arXiv"
@@ -75,8 +80,9 @@
     @article{yang2025taskvectorslearnedextracted,<br>
     &nbsp;&nbsp;&nbsp;&nbsp;title={Task Vectors, Learned Not Extracted: Performance Gains and Mechanistic Insight},<br>
     &nbsp;&nbsp;&nbsp;&nbsp;author={Yang, Haolin and Cho, Hakaze and Ding, Kaize and Inoue, Naoya},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2509.24169},<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;year={2025}<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;booktitle={The Fourteenth International Conference on Learning Representations},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;year={2026},<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=RGEbVZgf4E}<br>
     }
 
 - title: "Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning"
