@@ -4,7 +4,7 @@
     - name: Haolin
     - name: Gouki
     - name: n-inoue
-  year: 2025
+  year: 2026
   venue: iclr
   basic_url: "https://openreview.net/forum?id=VAv1rrPR1A"
   pages: 87
@@ -33,7 +33,7 @@
     - name: Haolin
     - name: me
     - name: n-inoue
-  year: 2025
+  year: 2026
   venue: iclr
   basic_url: "https://arxiv.org/abs/2509.24164"
   pages: 45
@@ -60,7 +60,7 @@
     - name: "Kaize Ding"
       url: "https://kaize0409.github.io/"
     - name: n-inoue
-  year: 2025
+  year: 2026
   venue: iclr
   basic_url: "https://arxiv.org/abs/2509.24169"
   pages: 48
