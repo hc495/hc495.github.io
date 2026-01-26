@@ -227,19 +227,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 - **[基礎科学特別研究員](https://www.riken.jp/careers/programs/spdr/index.html){:target="_blank"}** (SPDR)，(2026.4) ～ (2029.3)  
-  [理化学研究所](https://aip.riken.jp/){:target="_blank"} [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
+  [理化学研究所](https://aip.riken.jp/){:target="_blank"} | [革新知能統合研究センター](https://www.riken.jp/research/labs/aip/){:target="_blank"} | [自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}  
   メンター：[乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **ポスドク研究員** (2026.4) ～ (2029.3)  
-  [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"} [東北大学 自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}  
+  [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"} | [東北大学 自然言語処理研究グループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}  
   メンター：[乾 健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **博士（情報科学）** リサーチアシスタント，2023.10 ～ (2026.3) (予定，早期修了)  
-  [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
+  [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"} | [コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
   指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}
 - **修士（ソフトウェア工学）** 2021.9 ～ 2023.6  
-  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
+  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} | [情報科学技術研究科](https://cs.bit.edu.cn/){:target="_blank"}  
   指導教員：趙 羽風 (自主研究)
 - **学士（化学）** 2017.8 ～ 2021.6.  
-  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} 基礎科学部 [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
+  [北京理工大学](https://cs.bit.edu.cn/){:target="_blank"} | 基礎科学部 | [材料科学・工学科](https://mse.bit.edu.cn/){:target="_blank"}  
   指導教員：[石 建兵 准教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-jp .wide_list}
 
@@ -366,19 +366,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 - **[基础科学特别研究员](https://www.riken.jp/en/careers/programs/spdr/){:target="_blank"}** (SPDR)，(2026.4) ~ (2029.3)  
-  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"} [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"} [理化学研究所](https://www.riken.jp/en/){:target="_blank"} 日本  
+  [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"} | [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"} | [理化学研究所](https://www.riken.jp/en/){:target="_blank"} | 日本  
   导师：[乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - **研究员** (2026.4) ~ (2029.3)  
-  [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"} [东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"} 日本   
+  [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"} | [东北大学（日本）](https://www.tohoku.ac.jp/en/){:target="_blank"} | 日本   
   导师：[乾健太郎 教授](https://kentaro-inui.github.io/){:target="_blank"}
 - 计算机科学 **博士**，科研助理，2023.10 ~ (2026.3)，提前毕业  
-  [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"} [JAIST](https://www.jaist.ac.jp/){:target="_blank"} 日本   
+  [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"} | [JAIST](https://www.jaist.ac.jp/){:target="_blank"} | 日本   
   导师：[井之上直也 副教授](https://naoya-i.info/){:target="_blank"}
 - 软件工程 **硕士**，2021.9 ~ 2023.6   
-  [计算机学院](https://cs.bit.edu.cn/){:target="_blank"} [北京理工大学](https://www.bit.edu.cn/){:target="_blank"} 中国   
+  [计算机学院](https://cs.bit.edu.cn/){:target="_blank"} | [北京理工大学](https://www.bit.edu.cn/){:target="_blank"} | 中国   
   导师：---
 - 化学 **学士**，2017.8 ~ 2021.6  
-  [材料学院](https://mse.bit.edu.cn/){:target="_blank"} 理学与材料学部 [北京理工大学](https://www.bit.edu.cn/){:target="_blank"} 中国   
+  [材料学院](https://mse.bit.edu.cn/){:target="_blank"} | 理学与材料学部 | [北京理工大学](https://www.bit.edu.cn/){:target="_blank"} | 中国   
   导师：[石建兵 副教授](https://pure.bit.edu.cn/en/persons/jianbing-shi/){:target="_blank"}
 {:.lang .lang-zh .wide_list}
 
