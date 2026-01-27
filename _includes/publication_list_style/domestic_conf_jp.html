@@ -74,14 +74,14 @@
         <br>
         {%- if urls -%}
             {%- for url in urls -%}
-                [<a href="{{ url.url }}" target="_blank">{{ url.label }}</a>]&nbsp;
+                <a href="{{ url.url }}" target="_blank">{{ url.label }}</a>{%- if forloop.last == false -%}&nbsp;|&nbsp;{%- endif -%}
             {%- endfor -%}
         {%- endif -%}
         {%- if item.abstract -%}
-            [<a class="collapse-clicker" onclick="$('.{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
+    |&nbsp; <a class="collapse-clicker" onclick="$('.{{ item.id }}_abstract').slideToggle(200)">Abstract</a>]&nbsp;
         {%- endif -%}
         {%- if item.bibtex -%}
-            [<a class="collapse-clicker" onclick="$('.{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
+    |&nbsp; <a class="collapse-clicker" onclick="$('.{{ item.id }}_bibtex').slideToggle(200)">Bibtex</a>]&nbsp;
         {%- endif -%}
         {%- if item.abstract -%}
             <div class="collapse {{ item.id }}_abstract" id="{{ item.id }}_abstract">
