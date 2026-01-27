@@ -74,7 +74,7 @@
         <br>
         {%- if urls -%}
             {%- for url in urls -%}
-                <a href="{{ url.url }}" target="_blank">&nbsp;{{ url.label }}</a>{%- if forloop.last == false -%}|&nbsp;{%- endif -%}
+                <a href="{{ url.url }}" target="_blank">{{ url.label }}</a>&nbsp;{%- if forloop.last == false -%}|&nbsp;{%- endif -%}
             {%- endfor -%}
         {%- endif -%}
         {%- if item.abstract -%}
