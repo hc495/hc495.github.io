@@ -55,9 +55,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-en}
 
 - **Interpretability for Artificial Neural Network**: Mechanistic Interpretability (especially for Transformer)   
-  [ICLR 2026 1](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026 2](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
+  [ICLR 2026](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
 - **Controllability for Artificial Neural Network**: Low-resource Model Behavior Improvement / Controlling from Mechanistic Perspective  
-  [ICLR 2026 3](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
+  [ICLR 2026](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
 - **Misc.**: Manifold Learning, Low-precision Neural Networks, Neural Network Training Dynamics  
   [ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"} | [ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}
 {:.lang .lang-en}
@@ -191,9 +191,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 - **人工ニューラルネットワークの解釈可能性**：機械論的解釈可能性（特にTransformer）  
-  [ICLR 2026 1](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026 2](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
+  [ICLR 2026](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
 - **人工ニューラルネットワークの制御可能性**：低リソースモデル改善 / 機械論的視点からのモデル制御  
-  [ICLR 2026 3](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
+  [ICLR 2026](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
 - **その他**：多様体学習，低数値精度ニューラルネットワーク，モデル訓練ダイナミクス  
   [ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"} | [ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}
 {:.lang .lang-jp}
@@ -329,9 +329,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 - **人工神经网络的可解释性**：（Transformer模型的）机制可解释性   
-  [ICLR 2026 1](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026 2](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
+  [ICLR 2026](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
 - **人工神经网络的可控制性**：从机制可解释性视角的低资源模型行为优化与控制  
-  [ICLR 2026 3](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
+  [ICLR 2026](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
 - **其它**：流形学习，低数值精度神经网络，神经网络训练动力学  
   [ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"} | [ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}
 {:.lang .lang-zh}
