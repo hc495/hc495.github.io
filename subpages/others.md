@@ -143,7 +143,7 @@ I am passionate about the appreciation and creation of classical music. My favor
 - **怪物猎人：世界** (2018 ~ )   
   我曾经在6分钟以内完成了怪物猎人：世界的煌黑龙讨伐. 我的主要武器是双刀.
 - **其它** 如果您有兴趣，或许可以向我询问我的Steam ID. 我对此保持开放，但我认为您还是会侧重于科研.
-  {:.lang .lang-zh}
+{:.lang .lang-zh}
 
 ## 其它
 {:.lang .lang-zh}
