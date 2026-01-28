@@ -3,6 +3,10 @@ layout: default
 permalink: /others
 title: "Others"
 langs:
+  - marker: 'en'
+    label: 'English'
+  - marker: 'jp'
+    label: '日本語'
   - marker: 'zh'
     label: '简体中文'
 ---
