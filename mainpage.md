@@ -42,7 +42,7 @@ This email address is not always reachable. If I do not reply, please try CC the
 I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-ranking university in China, with a Master's degree in Software Engineering in 2023 and a Bachelor's degree in Chemistry in 2021. I am in my graduation thread of Ph.D. at JAIST with a fast-track schedule in March 2026. My research focuses on exploring the internal mechanisms of artificial neural networks, particularly Transformer-based neural language models, during both training and inference, by mathematical and representation learning methods, and improving their performance robustly through our deeper understanding. I have published over 30 papers / presentations in this area since 2023, some of which have been presented at top-tier international conferences such as ICLR and NeurIPS.
 {:.lang .lang-en}
 
-**Research Collaboration / Internship Statement.** I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome working with both **(Research Collaboration)** experienced researchers and **(Research Internship)** motivated beginners. However, due to limited time and research capacity, I am generally unable to provide internships for beginners who start entirely from scratch, such as developing research ideas, defining problem settings, or offering step-by-step technical mentorship from the ground up. Prospective interns are therefore expected to have their own research direction, initial ideas, or preferably some preliminary progress. I am also open to exploring collaborations in other related areas where there is strong mutual methodological and research alignment.
+**Research Collaboration / Internship Statement.** I am actively seeking productive research collaborations in the mentioned area. If you are interested in working together on top conference papers, please do not hesitate to contact me. I welcome working with both **(Research Collaboration)** experienced researchers and **(Research Internship)** motivated beginners. However, due to limited time and research capacity, I am generally unable to provide internships for beginners who start entirely from scratch, such as offering step-by-step technical mentorship from the ground up. I can offer, if you are willing to trust it, reference opinions and suggestions from a frontline researcher in the field. Prospective interns are therefore expected to have their own research direction, initial ideas, or preferably some preliminary progress. I am also open to exploring collaborations in other related areas where there is strong mutual methodological and research alignment.
 {:.lang .lang-en}
 
 **Position Interests.** I have already signed a full-time contract starting in April 2026, and I welcome visiting and part-time positions. At the same time, I am seeking an associate professor position starting in April 2029.
@@ -178,7 +178,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 私は中国のトップ大学である北京理工大学を卒業し，2021年に化学の学士号，2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており，2026年3月の早期修了を目指しています. 研究テーマは，人工ニューラルネットワーク，特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を，数学的および表現学習の手法によって解明し，その理解に基づく性能向上を目指すものです. 2023年以降，この分野において30本以上の論文および研究発表を発信しており，その中にはICLRやNeurIPSといったトップカンファレンスに採択されたものも含まれます.
 {:.lang .lang-jp}
 
-**研究協力/インターン募集.** この研究分野に関心のある方との効率的な共同研究を積極的に募集しています. ご興味をお持ちの方は，ぜひお気軽にご連絡ください. **（研究協力）**研究経験ありの方と，**（インターン）**意欲と学習効率の高い初心者との協力も歓迎します. ただし，時間および研究リソースに限りがあるため，研究アイデアの創出あるいは基礎段階からの段階的な技術指導といった，完全にゼロから始める形のインターンにはご遠慮させていただきます. そのため、ご希望の場合は，ご自身の研究方向，具体的な初期アイデア，あるいは望ましくは一定の予備的成果を有していることが期待します. また，研究方法論および学術的方向性において十分な整合性がある場合には，関連分野での協力についても検討可能です.
+**研究協力/インターン募集.** この研究分野に関心のある方との効率的な共同研究を積極的に募集しています. ご興味をお持ちの方は，ぜひお気軽にご連絡ください. **（研究協力）**研究経験ありの方と，**（インターン）**意欲と学習効率の高い初心者との協力も歓迎します. ただし，時間および研究リソースに限りがあるため，基礎段階からの段階的な技術指導とか，完全にゼロから始める形のインターンにはご遠慮させていただきます. もしご信頼いただけるのであれば、当該分野の第一線で研究している研究者としての参考意見や助言を提供できます. そのため、ご希望の場合は，ご自身の研究方向，具体的な初期アイデア，あるいは望ましくは一定の予備的成果を有していることが期待します. また，研究方法論および学術的方向性において十分な整合性がある場合には，関連分野での協力についても検討可能です.
 {:.lang .lang-jp}
 
 **仕事募集.** 2026年4月より開始するフルタイムの雇用契約をすでに締結しており，客員および非常勤での職も歓迎いたします. あわせて，2029年4月開始の准教授職を探しております.
@@ -316,7 +316,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 我毕业于北京理工大学（985/211工程），在2023年获得软件工程硕士学位，在2021年获得化学学士学位. 我计划于2026年3月在JAIST提前完成博士学位，目前正在执行博士毕业的最终手续. 我的研究关注于主要通过数学和表征学习方法分析人工神经网络（特别是基于Transformer的大型语言模型）的内部机制，并通过这些理解稳健地提升其性能. 自2023年以来，在本领域，我已发表30余篇论文及演讲，有些发表在国际知名顶级会议，如ICLR及NeurIPS.   
 {:.lang .lang-zh}
 
-**科研合作/实习声明.** 我目前正在积极寻求高效的科研合作. 如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系. 我欢迎与**（科研合作）**有经验的研究人员以及**（实习）**有积极性和高学习效率的初学者合作. 然而，由于时间与精力有限，我通常无法为完全从零开始的初学者提供实习机会，例如从头构思研究想法，定义问题设定，或提供从基础起步的逐步技术指导. 因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展. 同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能.  
+**科研合作/实习声明.** 我目前正在积极寻求高效的科研合作. 如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系. 我欢迎与**（科研合作）**有经验的研究人员以及**（实习）**有积极性和高学习效率的初学者合作. 然而，由于时间与精力有限，我通常无法为完全从零开始的初学者提供实习机会，例如提供从零起步的逐步技术指导. 我可以提供，如果您愿意相信的话，当前领域一线研究者的参考意见和建议，因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展. 同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能.  
 {:.lang .lang-zh}
 
 **求职声明.** 我已签订从2026年4月开始的全职工作合同，但我欢迎客座或兼职研究工作. 同时，我正在寻找从2029年4月开始的副教授职位.  
