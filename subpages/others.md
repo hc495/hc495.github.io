@@ -7,6 +7,103 @@ langs:
     label: '简体中文'
 ---
 
+# Outside Academia...
+{:.lang .lang-en}
+
+## Music Work
+{:.lang .lang-en}
+
+I am passionate about the appreciation and creation of classical music. My favorite works are from the Romantic and Impressionist periods, especially these composers: Ravel, Debussy, Dvořák, Wang Xilin.
+{:.lang .lang-en}
+
+- **Orchestration / Arranging** (2020 ~ )   
+  I do a small amount of orchestration and arranging. Some works can be found on [bilibili](https://space.bilibili.com/23222363){:target="_blank"}.
+- **Classical Music Composition** (2020 ~ )
+  Similarly, I do a small amount of classical music composition, especially chamber and orchestral works based on Impressionist colors and harmonies. Some works can be found on [SoundCloud](https://soundcloud.com/h495){:target="_blank"}.
+- **Choral Performance** (2014 ~ )
+  I participated in the high school choir and the Beijing Institute of Technology Student Choir (2018 - 2021). My voice parts are Bass or Alto.
+- **Piano Performance** (2005 ~ )
+  I have been learning piano since I was a child, but unfortunately, this learning has not been continuous.
+- **Flute Performance** (2019 ~ )
+  I started learning the flute when I began working/teaching from home in 2019. The model of the instrument I use is Yamaha YFL-472.
+{:.lang .lang-en}
+
+## Video Games
+{:.lang .lang-en}
+
+- **World of Warcraft** (2006 ~ )   
+  I have been playing World of Warcraft with my father since elementary school, and my total playtime exceeds 2500 hours. I have estimated several times that if I had used this time to write papers, I might have published dozens of ICLR papers. But no, rest is also part of research.  
+  I have achieved Cutting Edge achievements in versions 8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, and 11.2.   
+  My characters can be found on [WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, another [WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%e4%be%9d?zone=25){:target="_blank"} and [Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}.   
+  I have uploaded some combat videos on Bilibili, but they are not suitable for public display on an academic homepage.   
+  I ranked in the top 50 healers in Asia for Mythic+ in version 10.2.
+- **Overwatch** (2017 ~ )   
+  I have been playing Overwatch since the Overwatch 1 era. My main hero is Sigma. I reached the top 500 ranking in China in 2019.
+- **Monster Hunter: World** (2018 ~ )   
+  I once completed the hunt for the Kulve Taroth in Monster Hunter: World in under 6 minutes. My main weapon is Dual Blades.
+- **Others** If you are interested, you may ask me for my Steam ID. I am open to this, but I believe you will still focus on research.
+{:.lang .lang-en}
+
+## Others
+{:.lang .lang-en}
+
+- **Keyboard Enthusiast**   
+  I like mechanical keyboards and have used various models. The keyboards I currently use are NiZ Plum 84EC (gaming and light office work, used for 7 years), Keychron V1 Max-Gateron Jupiter Banana (office/research/programming/writing), FILCO Majestouch 3 Brown Switch (writing).
+- **Programming Competitions**
+  This should be a basic pastime for computer science students. I once ranked in the top 5% on LeetCode (now retired).
+- **Food and Drinks**
+  I like to drink English black tea and Japanese green tea and plum wine (underage friends please do not imitate). I like curry and croquettes. I have no physiological or psychological discomfort with human food in the usual sense.
+  *But I still maintain an amazing BMI of 17.9, even with no dietary restrictions and almost no physical exercise.
+{:.lang .lang-en}
+
+# 学術の外で...
+{:.lang .lang-jp}
+
+## 音楽活動
+{:.lang .lang-jp}
+私はクラシック音楽の鑑賞と創作に情熱を注いでいます. 私のお気に入りの作品は, ロマン派と印象派の時代のもので, 特に以下の作曲家です：ラヴェル、ドビュッシー、ドヴォルザーク、王西麟.
+{:.lang .lang-jp}
+
+- **オーケストレーション/アレンジ** (2020 ~ )   
+  少量のオーケストレーションとアレンジ技術を行っています. いくつかの作品は[bilibili](https://space.bilibili.com/23222363){:target="_blank"}で見つけることができます.
+- **クラシック音楽作曲** (2020 ~ )
+  同様に, 印象派の色彩と和声に基づく室内楽とオーケストラ作品を中心に, 少量のクラシック音楽作曲を行っています. いくつかの作品は[SoundCloud](https://soundcloud.com/h495){:target="_blank"}で見つけることができます.
+- **合唱** (2014 ~ )
+  高校の合唱団と北京理工大学学生合唱団(2018 - 2021)に参加しました. 私の声部はバスまたはアルトです.
+- **ピアノ演奏** (2005 ~ )
+  子供の頃からピアノを学んでいますが, 残念ながらこの学習は連続していません.
+- **フルート演奏** (2019 ~ )
+  2019年に在宅勤務/授業を始めたときにフルートの学習を始めました. 私が使用している楽器のモデルはYamaha YFL-472です.
+{:.lang .lang-jp}
+
+## ビデオゲーム
+{:.lang .lang-jp}
+
+- **ワールド・オブ・ウォークラフト** (2006 ~ )   
+  小学校の頃から父と一緒にワールド・オブ・ウォークラフトをプレイしており, 総プレイ時間は2500時間を超えています. この時間を論文執筆に充てていれば, 数十本のICLR論文を発表できたかもしれないと何度も推定しました. しかし, 休息も研究の一部です.  
+  バージョン8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, 11.2でCutting Edgeの実績を達成しました.   
+  私のキャラクターは[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 別の[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%E4%be%9d?zone=25){:target="_blank"}および[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}で見つけることができます.   
+  Bilibiliにいくつかの戦闘動画をアップロードしましたが, 学術ホームページで公開するには適していません.   
+  バージョン10.2でミシック+ヒーラーアジアトップ50にランクインしました.
+- **オーバーウォッチ** (2017 ~ )
+  オーバーウォッチ1時代からオーバーウォッチをプレイしています. 私のメインヒーローはシグマです. 2019年に中国でトップ500のランキングに到達しました.
+- **モンスターハンター：ワールド** (2018 ~ )
+  モンスターハンター：ワールドでクルルヤックの討伐を6分以内で完了したことがあります. 私のメイン武器はデュアルブレードです.
+- **その他** ご興味があれば, Steam IDをお尋ねください. これにはオープンですが, それでも研究に重点を置くと思います.
+{:.lang .lang-jp}
+
+## その他
+{:.lang .lang-jp}
+
+- **キーボード愛好家**   
+  メカニカルキーボードが好きで, さまざまなモデルを使用しています. 現在使用しているキーボードはNiZ Plum 84EC (ゲームと軽いオフィスワーク, 7年間使用), Keychron V1 Max-Gateron Jupiter Banana (オフィス/研究/プログラミング/執筆), FILCO Majestouch 3 ブラウンスイッチ (執筆)です.
+- **プログラミングコンペティション**
+  これはコンピュータサイエンスの学生にとって基本的な娯楽であるべきです. かつてLeetCodeでトップ5%にランクインしたことがあります（現在は引退）.
+- **食べ物と飲み物**
+  イギリスの紅茶と日本の緑茶と梅酒を飲むのが好きです（未成年の方は模倣しないでください）. カレーとコロッケが好きです. 通常の意味での人間の食べ物に対して生理的または心理的な不快感はありません.
+  *しかし, 食事制限をせず, ほとんど運動をしなくても, 驚異的なBMI17.9を維持しています.
+{:.lang .lang-jp}
+
 # 在学术之外...
 {:.lang .lang-zh}
 
@@ -14,6 +111,7 @@ langs:
 {:.lang .lang-zh}
 
 我热衷于古典音乐的欣赏和创作. 我最喜欢浪漫主义和印象主义时期的音乐作品，特别是这些作曲家：拉威尔，德彪西，德沃夏克，王西麟.
+{:.lang .lang-zh}
 
 - **管弦乐配器/编曲** (2020 ~ )   
   我会少量管弦乐配器和编曲技术. 一些作品可以在[bilibili](https://space.bilibili.com/23222363){:target="_blank"}找到.
