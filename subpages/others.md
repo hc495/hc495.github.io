@@ -65,17 +65,17 @@ I am passionate about the appreciation and creation of classical music. My favor
 
 ## 音楽活動
 {:.lang .lang-jp}
-私はクラシック音楽の鑑賞と創作に情熱を注いでいます. 私のお気に入りの作品は, ロマン派と印象派の時代のもので, 特に以下の作曲家です：ラヴェル、ドビュッシー、ドヴォルザーク、王西麟.
+私はクラシック音楽の鑑賞と創作に情熱を注いでいます. 私のお気に入りの作品は，ロマン派と印象派の時代のもので，特に以下の作曲家です：ラヴェル、ドビュッシー、ドヴォルザーク、王西麟.
 {:.lang .lang-jp}
 
 - **オーケストレーション/アレンジ** (2020 ~ )   
   少量のオーケストレーションとアレンジ技術を行っています. いくつかの作品は[bilibili](https://space.bilibili.com/23222363){:target="_blank"}で見つけることができます.
 - **クラシック音楽作曲** (2020 ~ )
-  同様に, 印象派の色彩と和声に基づく室内楽とオーケストラ作品を中心に, 少量のクラシック音楽作曲を行っています. いくつかの作品は[SoundCloud](https://soundcloud.com/h495){:target="_blank"}で見つけることができます.
+  同様に，印象派の色彩と和声に基づく室内楽とオーケストラ作品を中心に，少量のクラシック音楽作曲を行っています. いくつかの作品は[SoundCloud](https://soundcloud.com/h495){:target="_blank"}で見つけることができます.
 - **合唱** (2014 ~ )
   高校の合唱団と北京理工大学学生合唱団(2018 - 2021)に参加しました. 私の声部はバスまたはアルトです.
 - **ピアノ演奏** (2005 ~ )
-  子供の頃からピアノを学んでいますが, 残念ながらこの学習は連続していません.
+  子供の頃からピアノを学んでいますが，残念ながらこの学習は連続していません.
 - **フルート演奏** (2019 ~ )
   2019年に在宅勤務/授業を始めたときにフルートの学習を始めました. 私が使用している楽器のモデルはYamaha YFL-472です.
 {:.lang .lang-jp}
@@ -84,28 +84,28 @@ I am passionate about the appreciation and creation of classical music. My favor
 {:.lang .lang-jp}
 
 - **ワールド・オブ・ウォークラフト** (2006 ~ )   
-  小学校の頃から父と一緒にワールド・オブ・ウォークラフトをプレイしており, 総プレイ時間は2500時間を超えています. この時間を論文執筆に充てていれば, 数十本のICLR論文を発表できたかもしれないと何度も推定しました. しかし, 休息も研究の一部です.  
-  バージョン8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, 11.2でCutting Edgeの実績を達成しました.   
-  私のキャラクターは[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 別の[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%E4%be%9d?zone=25){:target="_blank"}および[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}で見つけることができます.   
-  Bilibiliにいくつかの戦闘動画をアップロードしましたが, 学術ホームページで公開するには適していません.   
+  小学校の頃から父と一緒にワールド・オブ・ウォークラフトをプレイしており，総プレイ時間は2500時間を超えています. この時間を論文執筆に充てていれば，数十本のICLR論文を発表できたかもしれないと何度も推定しました. しかし，休息も研究の一部です.  
+  バージョン8.3，9.1，10.0，10.1，10.2，11.0，11.1，11.2でCutting Edgeの実績を達成しました.   
+  私のキャラクターは[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}，別の[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%E4%be%9d?zone=25){:target="_blank"}および[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}で見つけることができます.   
+  Bilibiliにいくつかの戦闘動画をアップロードしましたが，学術ホームページで公開するには適していません.   
   バージョン10.2でミシック+ヒーラーアジアトップ50にランクインしました.
 - **オーバーウォッチ** (2017 ~ )
   オーバーウォッチ1時代からオーバーウォッチをプレイしています. 私のメインヒーローはシグマです. 2019年に中国でトップ500のランキングに到達しました.
 - **モンスターハンター：ワールド** (2018 ~ )
   モンスターハンター：ワールドでクルルヤックの討伐を6分以内で完了したことがあります. 私のメイン武器はデュアルブレードです.
-- **その他** ご興味があれば, Steam IDをお尋ねください. これにはオープンですが, それでも研究に重点を置くと思います.
+- **その他** ご興味があれば，Steam IDをお尋ねください. これにはオープンですが，それでも研究に重点を置くと思います.
 {:.lang .lang-jp}
 
 ## その他
 {:.lang .lang-jp}
 
 - **キーボード愛好家**   
-  メカニカルキーボードが好きで, さまざまなモデルを使用しています. 現在使用しているキーボードはNiZ Plum 84EC (ゲームと軽いオフィスワーク, 7年間使用), Keychron V1 Max-Gateron Jupiter Banana (オフィス/研究/プログラミング/執筆), FILCO Majestouch 3 ブラウンスイッチ (執筆)です.
+  メカニカルキーボードが好きで，さまざまなモデルを使用しています. 現在使用しているキーボードはNiZ Plum 84EC (ゲームと軽いオフィスワーク，7年間使用)，Keychron V1 Max-Gateron Jupiter Banana (オフィス/研究/プログラミング/執筆)，FILCO Majestouch 3 ブラウンスイッチ (執筆)です.
 - **プログラミングコンペティション**
   これはコンピュータサイエンスの学生にとって基本的な娯楽であるべきです. かつてLeetCodeでトップ5%にランクインしたことがあります（現在は引退）.
 - **食べ物と飲み物**
   イギリスの紅茶と日本の緑茶と梅酒を飲むのが好きです（未成年の方は模倣しないでください）. カレーとコロッケが好きです. 通常の意味での人間の食べ物に対して生理的または心理的な不快感はありません.
-  *しかし, 食事制限をせず, ほとんど運動をしなくても, 驚異的なBMI17.9を維持しています.
+  *しかし，食事制限をせず，ほとんど運動をしなくても，驚異的なBMI17.9を維持しています.
 {:.lang .lang-jp}
 
 # 在学术之外...
@@ -134,8 +134,8 @@ I am passionate about the appreciation and creation of classical music. My favor
 
 - **魔兽世界** (2006 ~ )   
   我从小学开始就和家父一起玩魔兽世界，目前为止的游戏时长超过2500小时. 我曾经数次估计如果将这些时间用来写论文，可能已经发表了数十篇ICLR. 但是不行，休息也是科研的一部分.  
-  我曾经在8.3, 9.1, 10.0, 10.1, 10.2, 11.0, 11.1, 11.2版本中获得引领潮流成就.   
-  我的角色可以在[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}, 另一个[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%e4%be%9d?zone=25){:target="_blank"}和[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}找到.   
+  我曾经在8.3，9.1，10.0，10.1，10.2，11.0，11.1，11.2版本中获得引领潮流成就.   
+  我的角色可以在[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}，另一个[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%e4%be%9d?zone=25){:target="_blank"}和[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}找到.   
   我曾经在Bilibili上传过一些战斗录像，但不适合公开在学术主页上.   
   我曾经在10.2版本获得了大秘境治疗者亚洲前50的排名.
 - **守望先锋** (2017 ~ )   
@@ -149,7 +149,7 @@ I am passionate about the appreciation and creation of classical music. My favor
 {:.lang .lang-zh}
 
 - **键盘爱好者**   
-  我喜欢机械键盘，并且使用过各种型号的键盘. 我目前使用的键盘是NiZ Plum 84EC (游戏和轻量办公，已经使用了7年), Keychron V1 Max-Gateron Jupiter Banana (办公/科研/编程/写作), FILCO Majestouch 3 茶轴 (写作).  
+  我喜欢机械键盘，并且使用过各种型号的键盘. 我目前使用的键盘是NiZ Plum 84EC (游戏和轻量办公，已经使用了7年)，Keychron V1 Max-Gateron Jupiter Banana (办公/科研/编程/写作)，FILCO Majestouch 3 茶轴 (写作).  
 - **编程比赛**   
   这应该是计算机系学生的基础消遣. 我曾经一度在LeetCode上排到前5%（现已退役）.
 - **食物和饮料**   

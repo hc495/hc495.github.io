@@ -163,7 +163,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 **正式名**：Yufeng Zhao（漢字表記：「趙 羽風」，発音は難しいので日本語発音を選択しました）  
-**生年**：1999年, 北京生まれ  
+**生年**：1999年，北京生まれ  
 {:.lang .lang-jp}
 
 ### 連絡先
