@@ -35,7 +35,11 @@
                 {%- assign displayname = know_authors[author.name].name_jp -%}
                 {%- assign displayurl = know_authors[author.name].url -%}
             {%- else -%}
-                {%- assign displayname = author.name_jp -%}
+                {%- if author.name_jp -%}
+                    {%- assign displayname = author.name_jp -%}
+                {%- else -%}
+                    {%- assign displayname = author.name -%}
+                {%- endif -%}
                 {%- assign displayurl = author.url -%}
             {%- endif -%}
             {%- if forloop.first == false -%}
