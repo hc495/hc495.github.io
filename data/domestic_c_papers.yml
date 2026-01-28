@@ -1,3 +1,30 @@
+- title: "Mechanism of Task-oriented Information Removal in In-context Learning"
+  title_jp: "文脈内学習におけるタスク指向情報除去のメカニズム"
+  authors:
+    - name: me
+    - name: Haolin
+    - name: Gouki
+    - name: n-inoue
+  venue: nlp
+  pages: 6
+  review: false
+  second: true
+  year: 2026
+
+- title: "Binary Autoencoder for Mechanistic Interpretability of Large Language Models"
+  title_jp: "二値化スパースオートエンコーダ"
+  authors:
+    - name: me
+    - name: Haolin
+    - name: Brian M. Kurkoski
+      url: "https://www.jaist.ac.jp/is/labs/bits/brian"
+    - name: n-inoue
+  venue: nlp
+  pages: 6
+  review: false
+  second: true
+  year: 2026
+
 - title: "Conference Note: Token-based Decision Criteria Are Suboptimal in In-context Learning"
   title_jp: "学会記事: Token-based Decision Criteria Are Suboptimal in In-context Learning"
   authors:
