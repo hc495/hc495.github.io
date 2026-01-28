@@ -14,6 +14,10 @@ langs:
 # Hakaze Cho / Yufeng Zhao   
 {:.lang .lang-en}
 
+<div class="img_margin lang lang-en">
+<img src="./assets/photo.png" alt="" height="150">
+</div>
+
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-en}
@@ -149,6 +153,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 # Hakaze Cho / Yufeng Zhao / 趙 羽風   
 {:.lang .lang-jp}
+
+<div class="img_margin lang lang-jp">
+<img src="./assets/photo.png" alt="" height="150">
+</div>
 
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
 **リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
@@ -287,6 +295,10 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 # Hakaze Cho / Yufeng Zhao / 赵羽风   
 {:.lang .lang-zh}
+
+<div class="img_margin lang lang-zh">
+<img src="./assets/photo.png" alt="" height="150">
+</div>
 
 **博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
