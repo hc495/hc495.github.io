@@ -15,7 +15,7 @@ langs:
 {:.lang .lang-en}
 
 <div class="img_margin lang lang-en">
-<img src="./assets/photo.png" alt="" height="150">
+<img src="./assets/photo.png" alt="" height="220">
 </div>
 
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
@@ -155,7 +155,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-jp}
 
 <div class="img_margin lang lang-jp">
-<img src="./assets/photo.png" alt="" height="150">
+<img src="./assets/photo.png" alt="" height="220">
 </div>
 
 **博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
@@ -297,7 +297,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 <div class="img_margin lang lang-zh">
-<img src="./assets/photo.png" alt="" height="150">
+<img src="./assets/photo.png" alt="" height="220">
 </div>
 
 **博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
