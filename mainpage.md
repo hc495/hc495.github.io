@@ -18,8 +18,8 @@ langs:
 <img src="./assets/photo.png" alt="" height="220">
 </div> -->
 
-**Special Postdoc Research Fellowship (SPDR)** @ [RIKEN](https://www.riken.jp/en/){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}
-**Academic Researcher** @ [Tohoku University](https://www.tohoku.ac.jp/en/){:target="_blank"}, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}
+**Special Postdoc Research Fellowship (SPDR)** @ [RIKEN](https://www.riken.jp/en/){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}   
+**Academic Researcher** @ [Tohoku University](https://www.tohoku.ac.jp/en/){:target="_blank"}, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/){:target="_blank"}   
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-en}
@@ -160,7 +160,9 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 <img src="./assets/photo.png" alt="" height="220">
 </div> -->
 
-**博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}  
+**基礎科学特別研究員（SPDR）** @ [理化学研究所](https://www.riken.jp/){:target="_blank"}，[革新知能統合研究センター](https://aip.riken.jp/){:target="_blank"}，[自然言語理解チーム](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/){:target="_blank"}   
+**学術研究員** @ [東北大学](https://www.tohoku.ac.jp/ja/){:target="_blank"}，[東北NLPグループ](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}   
+**博士後期課程3年生** @ [北陸先端科学技術大学院大学](https://www.jaist.ac.jp/){:target="_blank"}，[コンピューティング科学研究領域](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}   
 **リサーチアシスタント** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}，指導教員：[井之上 直也 准教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-jp}
 
@@ -302,6 +304,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 <img src="./assets/photo.png" alt="" height="220">
 </div> -->
 
+**基础科学特别研究员（SPDR）** @ [理化学研究所](https://www.riken.jp/zh/){:target="_blank"}，[Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}，[Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}   
+**学术研究员** @ [东北大学（日本）](https://www.tohoku.ac.jp/){:target="_blank"}，[TohokuNLP](https://www.nlp.ecei.tohoku.ac.jp/){:target="_blank"}   
 **博士3年级学生** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **全额资助科研助理** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [井之上直也 副教授](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-zh}
