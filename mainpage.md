@@ -18,6 +18,8 @@ langs:
 <img src="./assets/photo.png" alt="" height="220">
 </div> -->
 
+**Special Postdoc Research Fellowship (SPDR)** @ [RIKEN](https://www.riken.jp/en/){:target="_blank"}, [Center for Advanced Intelligence Project (AIP)](https://aip.riken.jp/labs-list/?lang=en){:target="_blank"}, [Natural Language Understanding Team](https://aip.riken.jp/labs/goalorient_tech/nat_lang_understand/?lang=en){:target="_blank"}
+**Academic Researcher** @ [Tohoku University](https://www.tohoku.ac.jp/en/){:target="_blank"}, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/){:target="_blank"}
 **Ph.D. 3rd Year Student** @ [Graduate School of Information Science](https://www.jaist.ac.jp/areas/cs/){:target="_blank"}, [Japan Advanced Institute of Science and Technology](https://www.jaist.ac.jp/){:target="_blank"}  
 **Fully-funded Research Assistant** @ [RebelsNLU](https://rebelsnlu.super.site/){:target="_blank"}, PI: [Assoc. Prof. Naoya Inoue](https://naoya-i.info/){:target="_blank"}   
 {:.lang .lang-en}
