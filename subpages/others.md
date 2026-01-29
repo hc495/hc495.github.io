@@ -65,7 +65,7 @@ I am passionate about the appreciation and creation of classical music. My favor
 
 ## 音楽活動
 {:.lang .lang-jp}
-私はクラシック音楽の鑑賞と創作に情熱を注いでいます. 私のお気に入りの作品は，ロマン派と印象派の時代のもので，特に以下の作曲家です：ラヴェル、ドビュッシー、ドヴォルザーク、王西麟.
+クラシック音楽の鑑賞と創作に情熱を注いでいます. お気に入りの作品は，ロマン派と印象派の時代のもので，特に以下の作曲家です：ラヴェル、ドビュッシー、ドヴォルザーク、王西麟.
 {:.lang .lang-jp}
 
 - **オーケストレーション/アレンジ** (2020 ~ )   
@@ -73,11 +73,11 @@ I am passionate about the appreciation and creation of classical music. My favor
 - **クラシック音楽作曲** (2020 ~ )
   同様に，印象派の色彩と和声に基づく室内楽とオーケストラ作品を中心に，少量のクラシック音楽作曲を行っています. いくつかの作品は[SoundCloud](https://soundcloud.com/h495){:target="_blank"}で見つけることができます.
 - **合唱** (2014 ~ )
-  高校の合唱団と北京理工大学学生合唱団(2018 - 2021)に参加しました. 私の声部はバスまたはアルトです.
+  高校の合唱部と北京理工大学学生合唱団(2018 - 2021)に参加しました. 声部はバスまたはアルトです.
 - **ピアノ演奏** (2005 ~ )
   子供の頃からピアノを学んでいますが，残念ながらこの学習は連続していません.
 - **フルート演奏** (2019 ~ )
-  2019年に在宅勤務/授業を始めたときにフルートの学習を始めました. 私が使用している楽器のモデルはYamaha YFL-472です.
+  2019年に在宅勤務/授業を始めたときにフルートの学習を始めました. 使用している楽器のモデルはYamaha YFL-472です.
 {:.lang .lang-jp}
 
 ## ビデオゲーム
@@ -86,13 +86,13 @@ I am passionate about the appreciation and creation of classical music. My favor
 - **ワールド・オブ・ウォークラフト** (2006 ~ )   
   小学校の頃から父と一緒にワールド・オブ・ウォークラフトをプレイしており，総プレイ時間は2500時間を超えています. この時間を論文執筆に充てていれば，数十本のICLR論文を発表できたかもしれないと何度も推定しました. しかし，休息も研究の一部です.  
   バージョン8.3，9.1，10.0，10.1，10.2，11.0，11.1，11.2でCutting Edgeの実績を達成しました.   
-  私のキャラクターは[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}，別の[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%E4%be%9d?zone=25){:target="_blank"}および[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}で見つけることができます.   
+  キャラクターは[WCL](https://www.warcraftlogs.com/character/cn/%E9%98%BF%E5%85%8B%E8%92%99%E5%BE%B7/%e8%af%b9%e8%ae%bf%e9%9b%ab?zone=39){:target="_blank"}，別の[WCL](https://www.warcraftlogs.com/character/cn/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B/%e4%bd%90%e5%8e%9f%e7%9c%9f%E4%be%9d?zone=25){:target="_blank"}および[Raider.IO](https://raider.io/characters/tw/skywall/%E4%BD%90%E5%8E%9F%E7%9C%9F%E4%BE%9D?season=season-df-3&tier=31){:target="_blank"}で見つけることができます.   
   Bilibiliにいくつかの戦闘動画をアップロードしましたが，学術ホームページで公開するには適していません.   
   バージョン10.2でミシック+ヒーラーアジアトップ50にランクインしました.
 - **オーバーウォッチ** (2017 ~ )
-  オーバーウォッチ1時代からオーバーウォッチをプレイしています. 私のメインヒーローはシグマです. 2019年に中国でトップ500のランキングに到達しました.
+  オーバーウォッチ1時代からオーバーウォッチをプレイしています. メインヒーローはシグマです. 2019年に中国でトップ500のランキングに到達しました.
 - **モンスターハンター：ワールド** (2018 ~ )
-  モンスターハンター：ワールドでクルルヤックの討伐を6分以内で完了したことがあります. 私のメイン武器はデュアルブレードです.
+  モンスターハンター：ワールドでクルルヤックの討伐を6分以内で完了したことがあります. メイン武器はデュアルブレードです.
 - **その他** ご興味があれば，Steam IDをお尋ねください. これにはオープンですが，それでも研究に重点を置くと思います.
 {:.lang .lang-jp}
 
