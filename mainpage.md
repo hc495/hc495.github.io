@@ -413,7 +413,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 {:.lang .lang-zh}
 
 - 言语处理学会（日本） 学生会员
-- 人工智能学会（日本） 学生会員
+- 人工智能学会（日本） 学生会员
 - Association for Computational Linguistics (ACL)
 {:.lang .lang-zh}
 
