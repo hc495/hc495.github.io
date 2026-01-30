@@ -54,6 +54,7 @@ Although the dissertation defense committee requested to reduce the difficulty o
       6. “Why did you use these two metrics?” -> Emphasized: the magnitude and correctness are two most important properties of information removal.
       7. “Can you describe Hidden Calibration?” -> Added a detailed description of Hidden Calibration.
 4. Other questions, they are not in the main story, or future work related, so I write some instructions in the slides “such as ‘please refer to Appendix X’” but still want to leave it to the QA stage.
+5. Since some papers are accepted now, updated the related parts.
 
 ### Dissertation
 
@@ -67,6 +68,7 @@ As the committee did not raise concerns regarding the main content of the disser
 - Inserted the structural abstract required by the rule of JAIST Ph.D. dissertation.
 - Revised 2 typos in Appendix.
 - Revised some descriptions in Acknowledgement section for privacy consideration.
+- Since some papers are accepted now, updated the related parts.
 
 ## Resources for Preliminary Defense
 
