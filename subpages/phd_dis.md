@@ -58,7 +58,7 @@ Although the dissertation defense committee requested to reduce the difficulty o
 
 ### Dissertation
 
-**2025/12/05 Final**
+**2025/01/31 Final**
 
 Revision Note:
 
