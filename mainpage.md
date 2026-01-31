@@ -181,19 +181,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
 **住所**：石川県能美市旭台1-1 情報科学研究科 I棟 I-52室   
 **E-mail**：yfzhao [at] jaist.ac.jp  
-このメールアドレスは常に受信できるとは限りません. もし私から返信がない場合は，yfZhao495 [at] outlook.comにも併せて送ってみてください.  
+このメールアドレスは常に受信できるとは限りません．︀もし私から返信がない場合は，yfZhao495 [at] outlook.comにも併せて送ってみてください．︀ 
 {:.lang .lang-jp}
 
 ### 紹介
 {:.lang .lang-jp}
 
-私は中国のトップ大学である北京理工大学を卒業し，2021年に化学の学士号，2023年にソフトウェア工学の修士号を取得しました. 現在はJAISTにて博士課程に在籍しており，2026年3月の早期修了を目指しています. 研究テーマは，人工ニューラルネットワーク，特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を，数学的および表現学習の手法によって解明し，その理解に基づく性能向上を目指すものです. 2023年以降，この分野において30本以上の論文および研究発表を発信しており，その中にはICLRやNeurIPSといったトップカンファレンスに採択されたものも含まれます.
+私は中国のトップ大学である北京理工大学を卒業し，2021年に化学の学士号，2023年にソフトウェア工学の修士号を取得しました．︀現在はJAISTにて博士課程に在籍しており，2026年3月の早期修了を目指しています．︀研究テーマは，人工ニューラルネットワーク，特にTransformerベースのニューラル言語モデルにおける訓練・推論中の内部挙動を，数学的および表現学習の手法によって解明し，その理解に基づく性能向上を目指すものです．︀2023年以降，この分野において30本以上の論文および研究発表を発信しており，その中にはICLRやNeurIPSといったトップカンファレンスに採択されたものも含まれます.
 {:.lang .lang-jp}
 
-**研究協力募集.** この研究分野に関心のある方との効率的な共同研究を積極的に募集しています. ご興味をお持ちの方は，ぜひお気軽にご連絡ください. 研究経験ありの方と，意欲と学習効率の高い初心者の方との協力も歓迎します. ただし，時間および研究リソースに限りがあるため，基礎段階からの段階的な技術指導とか，完全にゼロから始める形のインターンには原則としてご遠慮させていただきます. もしご信頼いただけるのであれば，当該分野の第一線で研究している研究者としての参考意見や助言を提供できます. そのため，ご希望の場合は，ご自身の研究方向，具体的な初期アイデア，あるいは望ましくは一定の予備的成果を有していることが期待します. また，研究方法論および学術的方向性において十分な整合性がある場合には，関連分野での協力についても検討可能です.
+**研究協力募集.** この研究分野に関心のある方との効率的な共同研究を積極的に募集しています．︀ご興味をお持ちの方は，ぜひお気軽にご連絡ください．︀研究経験ありの方と，意欲と学習効率の高い初心者の方との協力も歓迎します．︀ただし，時間および研究リソースに限りがあるため，基礎段階からの段階的な技術指導とか，完全にゼロから始める形のインターンには原則としてご遠慮させていただきます．︀もしご信頼いただけるのであれば，当該分野の第一線で研究している研究者としての参考意見や助言を提供できます．︀そのため，ご希望の場合は，ご自身の研究方向，具体的な初期アイデア，あるいは望ましくは一定の予備的成果を有していることが期待します．︀また，研究方法論および学術的方向性において十分な整合性がある場合には，関連分野での協力についても検討可能です.
 {:.lang .lang-jp}
 
-**仕事募集.** 2026年4月より開始するフルタイムの雇用契約をすでに締結しており，客員および非常勤での職も歓迎いたします. あわせて，2029年4月開始の准教授職を探しております.
+**仕事募集.** 2026年4月より開始するフルタイムの雇用契約をすでに締結しており，客員および非常勤での職も歓迎いたします．︀あわせて，2029年4月開始の准教授職を探しております.
 {:.lang .lang-jp}
 
 ## 研究関心
@@ -226,13 +226,13 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 1. **大規模言語モデルにおける文脈内学習のメカニズム的基盤**    
     Yufeng Zhao   
-    博士論文 @ 北陸先端科学技術大学院大学，**2026**. 223 pages.
+    博士論文 @ 北陸先端科学技術大学院大学，**2026**．︀223 pages.
 2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    
     Yufeng Zhao   
-    修士論文 - 評価A @ 北京理工大学，**2023**. 81 pages.
+    修士論文 - 評価A @ 北京理工大学，**2023**．︀81 pages.
 3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
-   学士論文 @ 北京理工大学，**2021**. 52 pages.
+   学士論文 @ 北京理工大学，**2021**．︀52 pages.
 {:.lang .lang-jp .wide_list}
 
 ## 履歴
@@ -290,8 +290,8 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - GPA向上賞 @ 北京理工大学，2020
 <small>2019年に健康状態のため多くの試験を欠席したため，2020年の通常のGPAは顕著な向上と見なされました</small>
 - 北京理工大学 年間(GPA)優秀賞：2018，2019，2021，2022，2023  
-- 一等賞 @ 第30回中国（高校）化学オリンピック. 2016.
-- 二等賞 @ 第29回中国（高校）化学オリンピック. 2015.
+- 一等賞 @ 第30回中国（高校）化学オリンピック．︀2016.
+- 二等賞 @ 第29回中国（高校）化学オリンピック．︀2015.
 {:.lang .lang-jp}
 
 
@@ -325,19 +325,19 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 [CV](./assets/cv_yfzhao.pdf){:target="_blank"}    
 **物理地址**：Laboratory I-52, Information Science Building I, 1-1 Asahidai, Nomi, Ishikawa, Japan   
 **E-mail**：yfzhao [at] jaist.ac.jp  
-本邮箱地址并非完全可达. 如果您未收到我的回复，请尝试抄送至 yfZhao495 [at] outlook.com.  
+本邮箱地址并非完全可达．︀如果您未收到我的回复，请尝试抄送至 yfZhao495 [at] outlook.com．︀ 
 {:.lang .lang-zh}
 
 ### 简介
 {:.lang .lang-zh}
 
-我毕业于北京理工大学（985/211工程），在2023年获得软件工程硕士学位，在2021年获得化学学士学位. 我计划于2026年3月在JAIST提前完成博士学位，目前正在执行博士毕业的最终手续. 我的研究关注于主要通过数学和表征学习方法分析人工神经网络（特别是基于Transformer的大型语言模型）的内部机制，并通过这些理解稳健地提升其性能. 自2023年以来，在本领域，我已发表30余篇论文及演讲，有些发表在国际知名顶级会议，如ICLR及NeurIPS.   
+我毕业于北京理工大学（985/211工程），在2023年获得软件工程硕士学位，在2021年获得化学学士学位．︀我计划于2026年3月在JAIST提前完成博士学位，目前正在执行博士毕业的最终手续．︀我的研究关注于主要通过数学和表征学习方法分析人工神经网络（特别是基于Transformer的大型语言模型）的内部机制，并通过这些理解稳健地提升其性能．︀自2023年以来，在本领域，我已发表30余篇论文及演讲，有些发表在国际知名顶级会议，如ICLR及NeurIPS．︀  
 {:.lang .lang-zh}
 
-**科研合作声明.** 我目前正在积极寻求高效的科研合作. 如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系. 我欢迎与有经验的研究人员以及有积极性和高学习效率的初学者合作. 然而，由于时间与精力有限，我原则上无法为完全从零开始的初学者提供合作，例如提供从零起步的逐步技术指导. 我可以提供，如果您愿意相信的话，当前领域一线研究者的参考意见和建议，因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展. 同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能.  
+**科研合作声明.** 我目前正在积极寻求高效的科研合作．︀如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系．︀我欢迎与有经验的研究人员以及有积极性和高学习效率的初学者合作．︀然而，由于时间与精力有限，我原则上无法为完全从零开始的初学者提供合作，例如提供从零起步的逐步技术指导．︀我可以提供，如果您愿意相信的话，当前领域一线研究者的参考意见和建议，因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展．︀同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能．︀ 
 {:.lang .lang-zh}
 
-**求职声明.** 我已签订从2026年4月开始的全职工作合同，但我欢迎客座或兼职研究工作. 同时，我正在寻找从2029年4月开始的副教授职位.  
+**求职声明.** 我已签订从2026年4月开始的全职工作合同，但我欢迎客座或兼职研究工作．︀同时，我正在寻找从2029年4月开始的副教授职位．︀ 
 {:.lang .lang-zh}
 
 ## 研究方向
@@ -371,13 +371,13 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 1. **The Mechanistic Basis of In-context Learning**    
     Yufeng Zhao   
-    博士学位论文 @ Japan Advanced Institute of Science and Technology. **2026**. 223 pages.
+    博士学位论文 @ Japan Advanced Institute of Science and Technology．︀**2026**．︀223 pages.
 2. **Fine-tuning with Randomly Initialized Downstream Network: Finding a Stable Convex-loss Region in Parameter Space**    
     Yufeng Zhao   
-    硕士学位论文 @ 北京理工大学. **2023**. 81 pages.
+    硕士学位论文 @ 北京理工大学．︀**2023**．︀81 pages.
 3. **两亲性聚集诱导发光增强化合物的合成及自组装研究**   
    Yufeng Zhao   
-   学士学位论文 @ 北京理工大学. **2021**. 52 pages.
+   学士学位论文 @ 北京理工大学．︀**2021**．︀52 pages.
 {:.lang .lang-zh .wide_list}
 
 ## 经历
@@ -430,12 +430,12 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 - [Outstanding Paper](https://anlp.jp/nlp2025/award.html#outstanding){:target="_blank"} @ The 31st Annual Conference of the (Japanese) Association for Natural Language Processing (NLP2025, ANLP). 2025. (top 14 in 765, 2.0%)
 - [Research Award for Young Scholars](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/young#h.qq15e8v12s8d){:target="_blank"} @ The 260th SIG for Natural Language, Information Processing Society of Japan (SIG-NL260, IPSJ). 2024.
 - [SB Intuitions Awards](https://www.anlp.jp/nlp2024/award.html){:target="_blank"} @ The 30st Annual Conference of the Japanese Association for Natural Language Processing (NLP2024, ANLP). 2024.
-- 文部科学省外国人留学生学习奖励费 @ 日本文部科学省. 2023.
+- 文部科学省外国人留学生学习奖励费 @ 日本文部科学省．︀2023.
 - Outstanding Oral Presentation @ 2022 Euro-Asia Conference on Frontiers of Computer Science and Information Technology. 2022.
-- 成绩进步奖 @ 北京理工大学. 2020. <small>由于健康原因，我缺席了大量2019年的期末考试，故我2020年的常规GPA被视为显著的进步.</small>
-- 年度奖学金 @ 北京理工大学. 2018，2019，2021，2022，2023.
-- 一等奖 @ 第30届中国（高中）化学奥林匹克. 2016.
-- 二等奖 @ 第29届中国（高中）化学奥林匹克. 2015.
+- 成绩进步奖 @ 北京理工大学．︀2020．︀<small>由于健康原因，我缺席了大量2019年的期末考试，故我2020年的常规GPA被视为显著的进步.</small>
+- 年度奖学金 @ 北京理工大学．︀2018，2019，2021，2022，2023.
+- 一等奖 @ 第30届中国（高中）化学奥林匹克．︀2016.
+- 二等奖 @ 第29届中国（高中）化学奥林匹克．︀2015.
 {:.lang .lang-zh}
 
 <div class="end-mark"></div>
