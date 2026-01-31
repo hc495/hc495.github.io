@@ -204,7 +204,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 
 - **人工ニューラルネットワークの解釈可能性**：機械論的解釈可能性（特にTransformer）  
   [ICLR 2026](https://openreview.net/forum?id=VAv1rrPR1A){:target="_blank"} | [ICLR 2026](https://openreview.net/forum?id=gdvOF1OMa7){:target="_blank"} | [ICLR 2025](https://openreview.net/forum?id=xizpnYNvQq){:target="_blank"} | [NeurIPS 2025](https://openreview.net/forum?id=FIfjDqjV0B){:target="_blank"} | [COLING 2025](https://aclanthology.org/2025.coling-main.708/){:target="_blank"}
-- **人工ニューラルネットワークの制御可能性**：低リソースモデル改善 / 機械論的視点からのモデル制御  
+- **人工ニューラルネットワークの制御可能性**：低リソースモデル改善 / メカニズム視点からのモデル制御  
   [ICLR 2026](https://openreview.net/forum?id=RGEbVZgf4E){:target="_blank"} | [NAACL 2025](https://aclanthology.org/2025.naacl-long.278/){:target="_blank"} | [BlackboxNLP 2025](https://aclanthology.org/2025.blackboxnlp-1.21/){:target="_blank"} 
 - **その他**：多様体学習，低数値精度ニューラルネットワーク，モデル訓練ダイナミクス  
   [ArXiv](https://arxiv.org/abs/2509.20997){:target="_blank"} | [ArXiv](https://arxiv.org/abs/2503.02142){:target="_blank"}
@@ -334,7 +334,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 我毕业于北京理工大学（985/211工程），在2023年获得软件工程硕士学位，在2021年获得化学学士学位. 我计划于2026年3月在JAIST提前完成博士学位，目前正在执行博士毕业的最终手续. 我的研究关注于主要通过数学和表征学习方法分析人工神经网络（特别是基于Transformer的大型语言模型）的内部机制，并通过这些理解稳健地提升其性能. 自2023年以来，在本领域，我已发表30余篇论文及演讲，有些发表在国际知名顶级会议，如ICLR及NeurIPS.   
 {:.lang .lang-zh}
 
-**科研合作声明.** 我目前正在积极寻求高效的科研合作. 如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系. 我欢迎与有经验的研究人员以及有积极性和高学习效率的初学者合作. 然而，由于时间与精力有限，我通常无法为完全从零开始的初学者提供合作，例如提供从零起步的逐步技术指导. 我可以提供，如果您愿意相信的话，当前领域一线研究者的参考意见和建议，因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展. 同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能.  
+**科研合作声明.** 我目前正在积极寻求高效的科研合作. 如果您对合作完成上述领域的顶级会议论文有兴趣，非常欢迎与我联系. 我欢迎与有经验的研究人员以及有积极性和高学习效率的初学者合作. 然而，由于时间与精力有限，我原则上无法为完全从零开始的初学者提供合作，例如提供从零起步的逐步技术指导. 我可以提供，如果您愿意相信的话，当前领域一线研究者的参考意见和建议，因此，您应具备自身的研究方向及初步想法，或最好已经取得一定的前期进展. 同时，只要在研究方法与学术方向上具有良好的相互契合，我也乐于探索其他相关领域的合作可能.  
 {:.lang .lang-zh}
 
 **求职声明.** 我已签订从2026年4月开始的全职工作合同，但我欢迎客座或兼职研究工作. 同时，我正在寻找从2029年4月开始的副教授职位.  
