@@ -84,7 +84,7 @@
     - url: "https://arxiv.org/abs/2501.15708"
       label: "arXiv"
     - url: "https://github.com/hc495/StaICC"
-      label: "Github"
+      label: "GitHub"
     - url: "https://pypi.org/project/StaICC/"
       label: "PyPI"
   abstract: "Classification tasks are widely investigated in the In-Context Learning (ICL) paradigm. However, current efforts are evaluated on disjoint benchmarks and settings, while their performances are significantly influenced by some trivial variables, such as prompt templates, data sampling, instructions, etc., which leads to significant inconsistencies in the results reported across various literature, preventing fair comparison or meta-analysis across different papers. Therefore, this paper proposes a standardized and easy-to-use evaluation toolkit (StaICC) for in-context classification. Including, for the normal classification task, we provide StaICC-Normal, selecting 10 widely used datasets, and generating prompts with a fixed form, to mitigate the variance among the experiment implementations. To enrich the usage of our benchmark, we also provide a sub-benchmark StaICC-Diag for diagnosing ICL from several aspects, aiming for a more robust inference processing."
@@ -111,7 +111,7 @@
     - url: "https://arxiv.org/abs/2402.05515"
       label: "arXiv"
     - url: "https://github.com/hc495/NoisyICL"
-      label: "Github"
+      label: "GitHub"
   abstract: "In-Context Learning (ICL) is suffering from unsatisfactory performance and under-calibration due to high prior bias and unfaithful confidence. Some previous works fine-tuned language models for better ICL performance with enormous datasets and computing costs. In this paper, we propose NoisyICL, simply perturbing the model parameters by random noises to strive for better performance and calibration. Our experiments on two models and 12 downstream datasets show that NoisyICL can help ICL produce more accurate predictions. Our further analysis indicates that NoisyICL enables the model to provide more fair predictions, and also with more faithful confidence. Therefore, we believe that NoisyICL is an effective calibration of ICL. Our experimental code is uploaded to Github."
   id: "arxiv4"
   bibtex: |
