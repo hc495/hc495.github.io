@@ -91,7 +91,7 @@ I, aka Yufeng Zhao, graduated from Beijing Institute of Technology, a top-rankin
 3. **Synthesis and Self-Assembly of Aggregation-induced Emission Compounds**   
    Yufeng Zhao   
    Bachelor Thesis @ Beijing Institute of Technology. **2021**. 52 pages.
-{:.lang .lang-en .wide_list}
+{:.lang .lang-en .wide_list .pub-list}
 
 ## Resume
 {:.lang .lang-en}

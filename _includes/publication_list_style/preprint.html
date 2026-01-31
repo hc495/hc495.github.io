@@ -3,7 +3,7 @@
 
 {%- if papers -%}
     <div class="wide_list">
-    <ol>
+    <ol class="pub-list">
     {%- for item in papers -%}
         {%- assign title = item.title -%}
         {%- assign authors = item.authors -%}
@@ -13,7 +13,11 @@
         {%- assign basic_url = item.basic_url -%}
         {%- assign urls = item.urls -%}
     
-        <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+        {%- if item.basic_url -%}
+            <li><a href="{{ basic_url }}" target="_blank"><strong>{{ title }}</strong></a><br>
+        {%- else -%}
+            <li><strong>{{ title }}</strong><br>
+        {%- endif -%}
         {%- for author in authors -%}
             {%- if know_authors[author.name] -%}
                 {%- assign displayname = know_authors[author.name].name -%}
